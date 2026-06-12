@@ -31,6 +31,51 @@ Key finding: the *Eric Carle* author brand (sentiment 0.91) outperforms the
 book (0.84), which outperforms the *World of Eric Carle* licensing brand
 (0.77) — the halo weakens at each step of the brand architecture.
 
+## Glossary — what the metrics mean
+
+All recommendation questions are **brand-blind**: the persona asks "which
+picture book should I buy?" without naming any brand, so a mention is earned,
+never prompted. A *probe* is one question asked once to one Claude model.
+
+**Share of voice (SoV)** — of all open-ended recommendation answers, the
+fraction that mention the target brand at all. 7.4% = ask Claude for a picture
+book 100 times, *The Very Hungry Caterpillar* appears in ~7 answers. The
+top-line visibility metric.
+
+**First-mention share** — the fraction of recommendation answers where the
+target is the *first* book recommended. Being mentioned fifth in a list is
+very different from leading it; AI answers, like search results, are consumed
+top-down.
+
+**Target MRR (mean reciprocal rank)** — averages 1/position across all
+answers (1st = 1.0, 2nd = 0.5, 3rd = 0.33, not mentioned = 0). One number
+combining *how often* and *how high* the brand ranks. 0.035 ≈ on average,
+functionally invisible.
+
+**Versus win-rate** — in head-to-head questions ("TVHC or Goodnight Moon for
+my toddler?"), how often Claude picks the target as its top choice. Counted
+only over decisive answers; hedged "it depends" answers are excluded. 37.9% =
+loses most direct comparisons.
+
+**Sentiment** — how positively Claude talks about a brand when it does come
+up, scored −1 (negative) to +1 (positive) per mention, then averaged. A brand
+can be loved but invisible: TVHC's 0.84 sentiment with 7.4% SoV is exactly
+that pattern.
+
+**Mention consistency** — the same question asked multiple times: in what
+fraction of repeats does the brand appear? Low consistency means the brand is
+a coin-flip in Claude's answer, not a fixture — contested territory rather
+than owned territory.
+
+**Attributes** — the descriptive words Claude attaches to a brand
+("tactile," "literary," "durable"), counted across all answers. The attribute
+map is the brand's *frame*: which mental category the AI has filed it under.
+
+**Segments** — every metric is also cut by persona facet (budget tier:
+budget/mid/premium; expertise: novice/intermediate/expert) and by Claude model
+tier (haiku/sonnet/opus). A brand can win one audience and be absent for
+another — that split is usually the strategy.
+
 ## Design Vision — interactive report
 
 Not a document. A **scroll-driven cinematic presentation** (single-page HTML, no
