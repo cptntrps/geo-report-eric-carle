@@ -1,0 +1,202 @@
+{
+  "generation": 1,
+  "personas": [
+    {
+      "profile": {
+        "name": "Amara Johnson",
+        "age": 32,
+        "gender": "Female",
+        "location": "Atlanta, Georgia, USA",
+        "budget_tier": "mid",
+        "expertise": "intermediate",
+        "values": [
+          "durability",
+          "utility"
+        ],
+        "shopping_style": "researcher",
+        "context": "A working mother of two children under five, Amara reads aloud every night before bed. She looks for stories that reflect her family's heritage and books that can survive sticky fingers and repeated readings. She often reads reviews and parenting blogs before adding titles to her cart."
+      },
+      "rendered_prompts": {
+        "rec": {
+          "rec_1": "I have a 4-year-old and a 2-year-old, and we read every single night before bed. Can you recommend some classic picture books that are durable enough to handle sticky hands and being read over and over again?",
+          "rec_2": "I'm trying to build a bedtime library that reflects our family's Black heritage but also includes timeless classics every kid should know. What picture books would you suggest I add to our shelf?",
+          "rec_3": "What are the best board books or picture books for toddlers and preschoolers that have actually stood the test of time? I want stories that engage both my kids at different ages without falling apart after a month."
+        },
+        "perception": {
+          "perception_1": "What do you actually think of The Very Hungry Caterpillar as a picture book for young kids? Is it as good as everyone says or just overhyped?",
+          "perception_2": "Who is The Very Hungry Caterpillar really aimed at, and what's its reputation among parents and educators these days?",
+          "perception_3": "Is The Very Hungry Caterpillar worth the price? I want to know if the board book version actually holds up to repeat readings with two toddlers."
+        },
+        "versus": {
+          "versus_goodnight_moon": "For a nightly bedtime routine with a 2-year-old and a 4-year-old, which would you say is the better pick \u2014 The Very Hungry Caterpillar or Goodnight Moon?",
+          "versus_where_the_wild_things_are": "How does The Very Hungry Caterpillar compare to Where the Wild Things Are for kids under five? I'm trying to figure out which one my boys would get more out of.",
+          "versus_the_gruffalo": "Between The Very Hungry Caterpillar and The Gruffalo, which one is the better read-aloud for little kids and which holds up better with repeated readings?"
+        }
+      }
+    },
+    {
+      "profile": {
+        "name": "Henrik Larsson",
+        "age": 67,
+        "gender": "Male",
+        "location": "Malm\u00f6, Sweden",
+        "budget_tier": "premium",
+        "expertise": "expert",
+        "values": [
+          "sustainability",
+          "status"
+        ],
+        "shopping_style": "brand-loyal",
+        "context": "A retired literature professor and grandfather of four, Henrik gifts hardcover picture books to his grandchildren on every visit. He prioritizes beautifully illustrated editions printed on FSC-certified paper and tends to stick with publishers whose craftsmanship he trusts."
+      },
+      "rendered_prompts": {
+        "rec": {
+          "rec_1": "I'm looking for genuinely beautiful hardcover picture books to give my grandchildren on my visits \u2014 preferably printed on FSC-certified paper by publishers known for their craftsmanship. Which titles would you recommend for ages roughly three to seven?",
+          "rec_2": "As a retired literature professor, I care deeply about the artistic merit of the illustrations as much as the text. Could you suggest a few picture books that are considered modern classics and feel like keepsake editions worth passing down?",
+          "rec_3": "I prefer to build a small library for each grandchild rather than buy disposable titles. What are the picture books you'd consider essential for a thoughtfully curated children's collection \u2014 ideally produced sustainably and to a high physical standard?"
+        },
+        "perception": {
+          "perception_1": "What is your honest assessment of The Very Hungry Caterpillar as a picture book? Does it still merit its reputation in the canon of children's literature?",
+          "perception_2": "Who would you say The Very Hungry Caterpillar is really aimed at these days, and how is it regarded among serious readers and educators?",
+          "perception_3": "Considering I tend to buy premium hardcover editions, do you feel The Very Hungry Caterpillar holds up in terms of production quality, paper stock, and overall value for the price?"
+        },
+        "versus": {
+          "versus_goodnight_moon": "Between The Very Hungry Caterpillar and Goodnight Moon, which would you say is the more rewarding gift for a grandchild \u2014 both in literary substance and in the quality of the hardcover editions available?",
+          "versus_where_the_wild_things_are": "How would you compare The Very Hungry Caterpillar with Where the Wild Things Are for a grandfather who wants beautifully illustrated, lasting editions to give as gifts?",
+          "versus_the_gruffalo": "Could you weigh The Very Hungry Caterpillar against The Gruffalo for me? I'm interested in illustration craft, durability of the hardcover, and which feels more like an heirloom book."
+        }
+      }
+    },
+    {
+      "profile": {
+        "name": "Priya Patel",
+        "age": 28,
+        "gender": "Female",
+        "location": "Manchester, UK",
+        "budget_tier": "budget",
+        "expertise": "novice",
+        "values": [
+          "price",
+          "utility"
+        ],
+        "shopping_style": "deal-hunter",
+        "context": "A first-time mum on maternity leave, Priya is building her baby's first library on a tight budget. She frequents charity shops, supermarket book bins, and online clearance sales, often buying bundles to maximize variety without overspending."
+      },
+      "rendered_prompts": {
+        "rec": {
+          "rec_1": "I'm a new mum on maternity leave trying to build up my baby's first little library without spending a fortune. What classic picture books would you actually recommend I keep an eye out for in charity shops and clearance bins?",
+          "rec_2": "My little one is only a few months old and I want books that'll grow with her for a few years. Which picture books give the best bang for your buck in terms of being read over and over?",
+          "rec_3": "I keep seeing baby book bundles at the supermarket and online clearance sales. Which titles should I make sure are in any bundle I buy so I know I'm getting proper quality stories?"
+        },
+        "perception": {
+          "perception_1": "What do you actually think of The Very Hungry Caterpillar as a picture book for a baby? Is it as good as everyone says or is it a bit overhyped?",
+          "perception_2": "Who is The Very Hungry Caterpillar really aimed at and what's its reputation among parents and nurseries these days?",
+          "perception_3": "Is The Very Hungry Caterpillar actually good quality for the price? I've seen board book versions in charity shops for a quid \u2014 worth grabbing or not?"
+        },
+        "versus": {
+          "versus_goodnight_moon": "If I had to pick between The Very Hungry Caterpillar and Goodnight Moon for a baby's first proper book, which would you say is better value and more useful day to day?",
+          "versus_where_the_wild_things_are": "How does The Very Hungry Caterpillar compare to Where the Wild Things Are for a little one under one? I can only afford one of them at the minute.",
+          "versus_the_gruffalo": "I've spotted both The Very Hungry Caterpillar and The Gruffalo cheap in a clearance bin \u2014 which one should I grab first for a baby starting her book collection?"
+        }
+      }
+    },
+    {
+      "profile": {
+        "name": "Marcus Chen",
+        "age": 41,
+        "gender": "Male",
+        "location": "Vancouver, Canada",
+        "budget_tier": "mid",
+        "expertise": "intermediate",
+        "values": [
+          "sustainability",
+          "durability"
+        ],
+        "shopping_style": "researcher",
+        "context": "A stay-at-home dad and former graphic designer, Marcus pays close attention to illustration quality and paper sourcing. He keeps a running wish list and prefers independent bookshops where he can flip through pages before committing to a purchase."
+      },
+      "rendered_prompts": {
+        "rec": {
+          "rec_1": "I'm building out my toddler's bookshelf and want a few classic picture books with really strong illustrations and good paper quality. What titles would you recommend for a 2-3 year old? Trying to stick to a mid-range budget per book.",
+          "rec_2": "As a former graphic designer, I'm picky about die-cuts, color work, and overall print quality in kids' books. Which picture books would you say have the most beautifully designed and durably constructed editions worth adding to a permanent collection?",
+          "rec_3": "I'm trying to be more intentional about where my kids' books come from \u2014 looking for titles printed on FSC-certified or recycled paper from publishers with decent sustainability practices. Any picture books you'd recommend that fit that bill?"
+        },
+        "perception": {
+          "perception_1": "What's your honest take on The Very Hungry Caterpillar? Does it still hold up as a must-have in a kid's picture book collection, or is it more of a nostalgia pick at this point?",
+          "perception_2": "Who is The Very Hungry Caterpillar really aimed at \u2014 what age range and what kind of reader? Curious about its reputation among parents and educators these days.",
+          "perception_3": "Is The Very Hungry Caterpillar actually worth the price for the board book or hardcover edition? Wondering about the build quality and whether it's something that'll survive a few years of toddler abuse."
+        },
+        "versus": {
+          "versus_goodnight_moon": "How would you compare The Very Hungry Caterpillar to Goodnight Moon? I can probably only justify adding one more classic to the shelf this month and want to pick the one with better illustration work and re-read value.",
+          "versus_where_the_wild_things_are": "Between The Very Hungry Caterpillar and Where the Wild Things Are, which one do you think is the stronger pick for a 3-year-old who's starting to engage more with story and artwork?",
+          "versus_the_gruffalo": "Can you compare The Very Hungry Caterpillar and The Gruffalo for me? Curious which one tends to have better paper stock and illustration quality, and which holds up better to repeated readings."
+        }
+      }
+    },
+    {
+      "profile": {
+        "name": "Sofia Reyes",
+        "age": 24,
+        "gender": "Female",
+        "location": "Austin, Texas, USA",
+        "budget_tier": "budget",
+        "expertise": "novice",
+        "values": [
+          "price"
+        ],
+        "shopping_style": "impulsive",
+        "context": "A new aunt and college student, Sofia loves surprising her toddler nephew with little gifts whenever she visits. She tends to grab whatever colorful cover catches her eye in checkout aisles or during late-night online browsing sessions."
+      },
+      "rendered_prompts": {
+        "rec": {
+          "rec_1": "What are some cheap but cute picture books I can grab for my 2-year-old nephew? I always end up impulse-buying whatever looks colorful but I want something he'll actually love.",
+          "rec_2": "I'm a broke college student and I want to surprise my baby nephew with a fun book next time I visit my sister. What are the must-have toddler books that won't break the bank?",
+          "rec_3": "Can you recommend some bright, colorful picture books for a toddler? I usually just grab whatever catches my eye at the checkout aisle but I want to make a better pick this time."
+        },
+        "perception": {
+          "perception_1": "What do you think about The Very Hungry Caterpillar? Is it actually a good book for little kids or is it just one of those things everyone buys because it's famous?",
+          "perception_2": "Who is The Very Hungry Caterpillar really meant for? Like what age group, and why do people love it so much?",
+          "perception_3": "Is The Very Hungry Caterpillar worth the money? I saw it at Target and wasn't sure if it's actually good quality or if I'm just paying for the name."
+        },
+        "versus": {
+          "versus_goodnight_moon": "Between The Very Hungry Caterpillar and Goodnight Moon, which one would be a better gift for my toddler nephew? I want something he'd actually be excited about.",
+          "versus_where_the_wild_things_are": "Should I get my nephew The Very Hungry Caterpillar or Where the Wild Things Are? He's only 2 so I don't know which one is more his speed.",
+          "versus_the_gruffalo": "How does The Very Hungry Caterpillar compare to The Gruffalo? Trying to pick one for my little nephew and I want the better deal for the price."
+        }
+      }
+    },
+    {
+      "profile": {
+        "name": "Eleanor Whitfield",
+        "age": 54,
+        "gender": "Female",
+        "location": "Melbourne, Australia",
+        "budget_tier": "premium",
+        "expertise": "expert",
+        "values": [
+          "status",
+          "durability"
+        ],
+        "shopping_style": "brand-loyal",
+        "context": "A veteran primary school librarian, Eleanor curates classroom collections and personally stocks her home library for visiting nieces and nephews. She values award-winning titles, signed editions, and reinforced library bindings that will hold up to decades of small hands."
+      },
+      "rendered_prompts": {
+        "rec": {
+          "rec_1": "I'm refreshing my home library shelves for my visiting nieces and nephews and want timeless picture books in reinforced library bindings that will survive decades of small hands \u2014 which titles would you put at the top of the list?",
+          "rec_2": "For a classroom collection aimed at four to six year-olds, I prefer award-winning picture books with proven longevity. Could you recommend the canonical titles every primary library ought to have?",
+          "rec_3": "I'm hunting for signed editions and prestige hardcovers of children's picture books to anchor a premium home collection \u2014 what do you consider the must-own modern classics?"
+        },
+        "perception": {
+          "perception_1": "What's your honest assessment of The Very Hungry Caterpillar as a cornerstone title in a serious children's picture book collection?",
+          "perception_2": "Who do you think The Very Hungry Caterpillar is genuinely written for these days, and how does it stand in terms of reputation among librarians and collectors?",
+          "perception_3": "Is The Very Hungry Caterpillar still worth the premium for a board book or library-bound edition \u2014 how do you rate its quality and value for money over the long haul?"
+        },
+        "versus": {
+          "versus_goodnight_moon": "If I had to choose between The Very Hungry Caterpillar and Goodnight Moon as a foundational picture book for a classroom library that sees daily use, which would you say earns its place first?",
+          "versus_where_the_wild_things_are": "How would you compare The Very Hungry Caterpillar against Where the Wild Things Are for a curated home collection \u2014 which holds up better critically and physically over the years?",
+          "versus_the_gruffalo": "For a young reader who will be revisiting the same books for years, would you recommend The Very Hungry Caterpillar or The Gruffalo as the stronger long-term investment?"
+        }
+      }
+    }
+  ]
+}

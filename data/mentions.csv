@@ -1,0 +1,1283 @@
+dimension,model,template_id,persona_id,repeat_idx,brand,rank,sentiment,attributes,is_target,is_competitor
+rec,sonnet,rec_3,10,1,Clement Hurd,4,0.95,"[""iconic illustrator""]",f,f
+perception,sonnet,perception_3,9,0,The Very Hungry Caterpillar,1,0.95,"[""timeless"", ""beloved"", ""educational"", ""distinctive art"", ""unique"", ""high quality"", ""durable"", ""high reread value""]",t,f
+perception,sonnet,perception_3,9,0,Eric Carle,2,0.9,"[""distinctive art"", ""unique"", ""high quality""]",f,f
+rec,sonnet,rec_3,10,1,Maurice Sendak,1,0.95,"[""iconic"", ""rare"", ""commanding prices""]",f,f
+rec,sonnet,rec_3,10,1,Eric Carle,2,0.95,"[""prolific signer"", ""post-war defining"", ""finite first editions""]",f,f
+rec,sonnet,rec_3,10,1,Margaret Wise Brown,3,0.95,"[""iconic"", ""most iconic American picture book""]",f,f
+rec,sonnet,rec_3,10,1,Chris Van Allsburg,5,0.95,"[""highly collectible"", ""stunning production values"", ""signer""]",f,f
+rec,sonnet,rec_3,10,1,Ian Falconer,6,0.95,"[""elegant"", ""design-forward""]",f,f
+rec,sonnet,rec_3,10,1,Jon Klassen,7,0.9,"[""minimalist"", ""extraordinary"", ""rare signer""]",f,f
+rec,sonnet,rec_3,10,1,Mac Barnett,8,0.9,"[""prestigious collaborator""]",f,f
+rec,sonnet,rec_3,10,1,Shaun Tan,9,0.9,"[""gallery-level artist""]",f,f
+rec,sonnet,rec_3,10,1,John Marsden,10,0.9,"[""co-author""]",f,f
+rec,sonnet,rec_3,10,1,David Wiesner,11,0.9,"[""wordless"", ""masterpiece"", ""Caldecott winner""]",f,f
+rec,sonnet,rec_3,10,1,Aaron Becker,12,0.9,"[""wordless"", ""stunning illustrations""]",f,f
+rec,sonnet,rec_3,10,1,Shel Silverstein,13,0.9,"[""exceptionally rare signer"", ""valuable""]",f,f
+rec,sonnet,rec_3,10,1,Roald Dahl,14,0.9,"[""literary prestige""]",f,f
+rec,sonnet,rec_3,10,1,Quentin Blake,15,0.9,"[""iconic illustrator""]",f,f
+rec,sonnet,rec_3,10,1,Crockett Johnson,16,0.9,"[""conceptual"", ""masterpiece""]",f,f
+rec,sonnet,rec_3,10,1,Mo Willems,17,0.9,"[""prolific signer"", ""defining 2000s style""]",f,f
+rec,sonnet,rec_3,10,1,Folio Society,18,0.9,"[""premium materials"", ""slipcased editions"", ""stunning""]",f,f
+rec,sonnet,rec_3,10,1,Jonathan Cape,19,0.85,"[""UK first editions"", ""superior binding quality""]",f,f
+rec,sonnet,rec_3,10,1,Isabelle Arsenault,20,0.85,"[""contemporary"", ""offers signed editions""]",f,f
+rec,sonnet,rec_3,10,1,Sydney Smith,21,0.85,"[""contemporary"", ""offers signed editions""]",f,f
+rec,sonnet,rec_3,10,1,Brian Selznick,22,0.85,"[""actively collectable"", ""signing opportunities available""]",f,f
+rec,sonnet,rec_3,10,1,Yuyi Morales,23,0.85,"[""actively collectable"", ""signing opportunities available""]",f,f
+rec,sonnet,rec_3,10,1,Kadir Nelson,24,0.85,"[""actively collectable"", ""signing opportunities available""]",f,f
+rec,sonnet,rec_3,10,1,Kickstarter,25,0.8,"[""offers signed limited runs""]",f,f
+rec,sonnet,rec_3,10,1,Substack,26,0.8,"[""offers signed limited runs""]",f,f
+rec,sonnet,rec_3,10,1,AbeBooks,27,0.8,"[""source for serious signed copies""]",f,f
+rec,sonnet,rec_3,10,1,Heritage Auctions,28,0.8,"[""source for serious signed copies""]",f,f
+rec,sonnet,rec_3,10,1,RareBooksHub,29,0.8,"[""source for serious signed copies""]",f,f
+versus,sonnet,versus_goodnight_moon,6,0,Goodnight Moon,1,0.85,"[""literary"", ""rhythmic"", ""incantatory"", ""sophisticated"", ""poetic"", ""emotionally complex"", ""durable"", ""rewarding""]",f,t
+versus,sonnet,versus_goodnight_moon,6,0,The Very Hungry Caterpillar,2,0.7,"[""educational"", ""distinctive artwork"", ""engaging"", ""clever construction"", ""fragile hardcover edition"", ""better as board book""]",t,f
+versus,sonnet,versus_goodnight_moon,6,0,Harper,,0.7,"[""handsome"", ""faithful reproduction"", ""standard edition quality""]",f,f
+versus,opus,versus_the_gruffalo,8,0,The Gruffalo,1,0.85,"[""modern classic"", ""standard rectangular pages"", ""no die-cuts"", ""detailed illustrations"", ""rich scenes"", ""colored-pencil and watercolor"", ""rhyming couplets"", ""narrative arc"", ""durable"", ""long re-readability""]",f,t
+versus,opus,versus_the_gruffalo,8,0,The Very Hungry Caterpillar,2,0.7,"[""iconic"", ""die-cut pages"", ""varied page widths"", ""hand-painted tissue paper collage"", ""abstract"", ""bold colors"", ""high contrast"", ""tactile"", ""weak points at cuts"", ""vulnerable to tearing"", ""outgrown quickly""]",t,f
+versus,opus,versus_the_gruffalo,8,0,Julia Donaldson,1,0.85,"[""skilled rhyming"", ""narrative arc"", ""suspense"", ""repeated refrains"", ""made for reading aloud""]",f,f
+versus,opus,versus_the_gruffalo,8,0,Axel Scheffler,1,0.8,"[""highly detailed illustrations"", ""colored-pencil and watercolor technique"", ""visual jokes"", ""character expressions"", ""background details""]",f,f
+versus,opus,versus_the_gruffalo,8,0,Eric Carle,2,0.8,"[""hand-painted tissue paper collage"", ""iconic style"", ""artistically distinctive"", ""bold"", ""abstract"", ""high contrast"", ""saturated colors""]",f,f
+versus,opus,versus_the_gruffalo,8,0,Macmillan,,0.6,"[""publisher"", ""heavier paper"", ""glossier paper"", ""good color saturation""]",f,f
+rec,opus,rec_3,7,0,Usborne,,1.0,"[""touchy-feely"", ""quality""]",f,f
+perception,opus,perception_3,9,0,The Very Hungry Caterpillar,1,0.82,"[""durable"", ""iconic"", ""educational"", ""interactive"", ""engaging"", ""sturdy"", ""resilient"", ""beautiful"", ""simple"", ""classic""]",t,f
+perception,opus,perception_3,9,0,Eric Carle,1,0.88,"[""iconic"", ""beautiful"", ""hand-painted"", ""durable"", ""classic""]",f,f
+perception,opus,perception_3,9,0,Target,,-0.65,"[""overpriced"", ""bundles"", ""paying for the name""]",f,f
+versus,haiku,versus_goodnight_moon,6,0,The Very Hungry Caterpillar,1,0.8,"[""classic"", ""rewarding long-term gift"", ""transformation and growth"", ""narrative momentum"", ""educational"", ""iconic die-cut holes"", ""collage illustrations"", ""vivid"", ""durable"", ""broad age range"", ""active reading""]",t,f
+versus,haiku,versus_goodnight_moon,6,0,Goodnight Moon,2,0.6,"[""classic"", ""beautifully written"", ""rhythmic prose"", ""functional"", ""soothing"", ""bedtime-focused"", ""soft and muted illustrations"", ""narrow scope"", ""outgrows quickly"", ""calm evenings""]",f,t
+rec,opus,rec_1,10,0,Follett,1,0.9,"[""library supplier"", ""reinforced bindings"", ""sewn signatures"", ""stronger boards""]",f,f
+rec,opus,rec_1,10,0,Baker & Taylor,1,0.9,"[""book distributor"", ""library supplier"", ""reinforced bindings"", ""sewn signatures"", ""stronger boards""]",f,f
+rec,opus,rec_1,10,0,Junior Library Guild,1,0.9,"[""book selection service"", ""library supplier"", ""reinforced bindings""]",f,f
+rec,opus,rec_1,10,0,Penguin Random House,2,0.7,"[""book publisher"", ""offers library binding""]",f,f
+rec,opus,rec_1,10,0,HarperCollins,2,0.7,"[""book publisher"", ""offers library binding""]",f,f
+rec,opus,rec_1,10,0,Houghton Mifflin Harcourt,2,0.7,"[""book publisher"", ""offers library binding""]",f,f
+rec,opus,rec_1,10,0,Mylar,3,0.85,"[""protective material"", ""jacket covers"", ""extends durability"", ""inexpensive"", ""easy to apply""]",f,f
+rec,opus,rec_1,10,0,Amazon,,-0.4,"[""online retailer"", ""limited availability of library binding editions""]",f,f
+rec,haiku,rec_3,6,0,Candlewick Press,,1.0,"[""quality hardcover editions"", ""sustainability-conscious""]",f,f
+rec,haiku,rec_3,6,0,Chronicle,,1.0,"[""quality hardcover editions"", ""sustainability-conscious""]",f,f
+rec,haiku,rec_3,6,0,Penguin Classics Children's,,1.0,"[""quality hardcover editions"", ""sustainability-conscious""]",f,f
+rec,haiku,rec_1,6,0,Gecko Press,1,1.0,"[""exceptional quality production"", ""environmental responsibility"", ""quality paper"", ""beautiful printing""]",f,f
+rec,haiku,rec_1,6,0,Chronicle Books,2,0.9,"[""sustainability commitment"", ""FSC paper""]",f,f
+rec,haiku,rec_1,6,0,Corraini,3,0.9,"[""Italian publisher"", ""stunning design"", ""production quality""]",f,f
+rec,haiku,rec_1,6,0,Phaidon Press,4,0.85,"[""excellent children's imprints"", ""premium finishes""]",f,f
+rec,haiku,rec_1,6,0,Abrams Books for Young Readers,5,0.85,"[""consistently high-quality"", ""hardcovers""]",f,f
+rec,sonnet,rec_3,7,2,Guess How Much I Love You,6,0.8,[],f,f
+rec,haiku,rec_1,6,0,Ezra Jack Keats,,0.95,"[""iconic"", ""collage illustrations"", ""timeless""]",f,f
+rec,haiku,rec_1,6,0,David Wiesner,,0.95,"[""wordless storytelling"", ""visually stunning""]",f,f
+rec,haiku,rec_1,6,0,Lois Ehlert,,0.95,"[""natural art"", ""gorgeous""]",f,f
+rec,haiku,rec_1,6,0,Hervé Tullet,,0.9,"[""interactive"", ""delightful""]",f,f
+versus,haiku,versus_where_the_wild_things_are,8,0,The Very Hungry Caterpillar,1,0.92,"[""repetitive and rhythmic"", ""holds attention"", ""tactile engagement"", ""die-cut holes"", ""progressively larger pages"", ""suitable for small hands"", ""clear cause-and-effect"", ""satisfying"", ""easy to grasp"", ""bold brilliant colors"", ""mesmerizing"", ""immediately engaging"", ""provides interaction opportunities""]",t,f
+versus,haiku,versus_where_the_wild_things_are,8,0,Where the Wild Things Are,2,0.65,"[""wonderful"", ""emotionally complex"", ""addresses anger and abandonment themes"", ""requires emotional maturity"", ""better suited for 4+ years"", ""demands imaginative stamina"", ""denser text"", ""emphasizes listening over interaction"", ""grows in appeal over time""]",f,t
+rec,opus,rec_1,7,2,Julia Donaldson,1,0.95,"[""prolific"", ""reliable"", ""versatile"", ""consistent-quality""]",f,f
+rec,opus,rec_1,7,2,Eric Carle,2,0.95,"[""classic"", ""tactile"", ""interactive"", ""infant-friendly""]",f,f
+rec,opus,rec_1,7,2,Judith Kerr,3,0.9,"[""classic"", ""ubiquitous"", ""durable"", ""reliable""]",f,f
+rec,opus,rec_1,7,2,Maurice Sendak,4,0.9,"[""classic"", ""timeless"", ""growth-spanning"", ""versatile""]",f,f
+rec,opus,rec_1,7,2,Michael Rosen,5,0.9,"[""interactive"", ""engaging"", ""read-aloud-friendly"", ""entertaining""]",f,f
+rec,opus,rec_1,7,2,Janet & Allan Ahlberg,6,0.85,"[""classic"", ""interactive"", ""versatile"", ""multi-generational""]",f,f
+rec,opus,rec_1,7,2,Martin Waddell,7,0.85,"[""calming"", ""bedtime-suitable"", ""soothing"", ""heartwarming""]",f,f
+rec,opus,rec_1,7,2,Margaret Wise Brown,8,0.85,"[""classic"", ""calming"", ""bedtime-suitable"", ""gentle""]",f,f
+rec,opus,rec_1,7,2,Rod Campbell,9,0.8,"[""interactive"", ""tactile"", ""lift-the-flap"", ""durable""]",f,f
+rec,opus,rec_1,7,2,Fiona Watt,10,0.8,"[""tactile"", ""interactive"", ""sensory"", ""well-made""]",f,f
+rec,opus,rec_1,7,2,David McKee,11,0.75,"[""age-appropriate"", ""engaging"", ""character-driven"", ""imaginative""]",f,f
+rec,opus,rec_1,7,2,Sam McBratney,12,0.75,"[""sweet"", ""bedtime-suitable"", ""emotional"", ""heartwarming""]",f,f
+rec,opus,rec_1,7,2,Jill Murphy,13,0.75,"[""bedtime-suitable"", ""calming"", ""cozy"", ""character-driven""]",f,f
+rec,opus,rec_1,7,2,Eric Hill,14,0.75,"[""interactive"", ""lift-the-flap"", ""engaging"", ""playful""]",f,f
+rec,opus,rec_1,7,2,Lynley Dodd,15,0.7,"[""age-appropriate"", ""character-driven"", ""entertaining"", ""rhythmic""]",f,f
+rec,opus,rec_1,7,2,Helen Nicoll,16,0.7,"[""character-driven"", ""classic"", ""whimsical"", ""age-appropriate""]",f,f
+rec,opus,rec_1,7,2,NCT,17,0.8,"[""affordable"", ""community-based"", ""bargain-friendly"", ""curated""]",f,f
+rec,sonnet,rec_1,10,1,Turtleback Books,1,0.9,"[""gold-standard"", ""library binding publisher"", ""reinforced binding""]",f,f
+rec,sonnet,rec_1,10,1,Bound to Stay Bound,2,0.9,"[""gold-standard"", ""library binding publisher"", ""reinforced binding""]",f,f
+rec,sonnet,rec_1,10,1,School & Library,3,0.5,"[""reinforced editions"", ""available on Amazon""]",f,f
+rec,sonnet,rec_1,10,1,Amazon,,0.2,"[""retailer"", ""search platform""]",f,f
+rec,opus,rec_3,10,2,Maurice Sendak,1,0.9,"[""foundational"", ""scarce"", ""premium-priced""]",f,f
+rec,opus,rec_3,10,2,Harper & Row,2,0.8,"[""vintage-publisher"", ""premium-first-editions""]",f,f
+rec,opus,rec_3,10,2,Eric Carle,3,0.85,"[""highly-collectible"", ""actively-signing""]",f,f
+rec,opus,rec_3,10,2,World Publishing Company,4,0.8,"[""first-edition-publisher"", ""vintage""]",f,f
+rec,opus,rec_3,10,2,Chris Van Allsburg,5,0.85,"[""caldecott-winner"", ""rare-signatures""]",f,f
+rec,opus,rec_3,10,2,Houghton Mifflin,6,0.8,"[""premium-publisher"", ""caldecott-associated""]",f,f
+rec,opus,rec_3,10,2,William Steig,7,0.8,"[""caldecott-winner"", ""well-aged""]",f,f
+rec,opus,rec_3,10,2,Jon Klassen,8,0.9,"[""contemporary"", ""actively-signing"", ""holy-grail"", ""appreciating""]",f,f
+rec,opus,rec_3,10,2,Candlewick,9,0.8,"[""contemporary-publisher"", ""accessible"", ""appreciating""]",f,f
+rec,opus,rec_3,10,2,Mac Barnett,10,0.85,"[""contemporary-author"", ""dual-signed-highly-collectible""]",f,f
+rec,opus,rec_3,10,2,Oliver Jeffers,11,0.85,"[""contemporary"", ""signed-sketched-editions"", ""display-pieces""]",f,f
+rec,opus,rec_3,10,2,Sophie Blackall,12,0.85,"[""caldecott-winner"", ""signed-available"", ""sketched-signatures""]",f,f
+rec,opus,rec_3,10,2,Brian Selznick,13,0.8,"[""illustrated-hybrid"", ""centerpiece""]",f,f
+rec,opus,rec_3,10,2,Scholastic,14,0.75,"[""major-publisher"", ""modern""]",f,f
+rec,opus,rec_3,10,2,Shaun Tan,15,0.9,"[""wordless-masterpiece"", ""coveted"", ""scarce""]",f,f
+rec,opus,rec_3,10,2,Lothian Publishing,16,0.8,"[""australian-publisher"", ""premium""]",f,f
+rec,opus,rec_3,10,2,David Wiesner,17,0.9,"[""multi-caldecott-winner"", ""acclaimed""]",f,f
+rec,opus,rec_3,10,2,Peter Sís,18,0.8,"[""hand-signing"", ""rare-book-circuit""]",f,f
+rec,opus,rec_3,10,2,Lane Smith,19,0.85,"[""design-forward"", ""landmark""]",f,f
+rec,opus,rec_3,10,2,Jon Scieszka,20,0.85,"[""design-forward"", ""landmark""]",f,f
+rec,opus,rec_3,10,2,Beatrix Potter,21,0.85,"[""classic"", ""prestige-editions""]",f,f
+rec,opus,rec_3,10,2,Folio Society,22,0.95,"[""gold-standard"", ""premium-binding"", ""premium-presentation"", ""slipcased""]",f,f
+rec,opus,rec_3,10,2,Easton Press,23,0.85,"[""leather-bound"", ""deluxe""]",f,f
+rec,opus,rec_3,10,2,Robert Sabuda,24,0.9,"[""pop-up-editions"", ""signed-available"", ""display-pieces""]",f,f
+rec,opus,rec_3,10,2,Books of Wonder,,0.8,"[""reliable-source"", ""authenticated"", ""nyc-based""]",f,f
+rec,opus,rec_3,10,2,Politics and Prose,,0.8,"[""reliable-source"", ""authenticated""]",f,f
+rec,opus,rec_3,10,2,Eric Carle Museum,,0.8,"[""reliable-source"", ""museum-shop"", ""authenticated""]",f,f
+rec,opus,rec_3,10,2,Heritage Auctions,,0.8,"[""auction-house"", ""high-end""]",f,f
+rec,opus,rec_3,10,2,Swann Galleries,,0.8,"[""auction-house"", ""high-end""]",f,f
+rec,opus,rec_3,10,2,Brodart,,0.85,"[""protective-covers"", ""value-preserving"", ""archival""]",f,f
+versus,sonnet,versus_goodnight_moon,7,0,Goodnight Moon,1,0.95,"[""calming"", ""rhythmic"", ""repetitive"", ""suitable for newborns"", ""creates nightly ritual"", ""high reread value"", ""functional"", ""reliable bedtime book"", ""exceptional day-to-day value""]",f,t
+versus,sonnet,versus_goodnight_moon,7,0,The Very Hungry Caterpillar,2,0.85,"[""educational"", ""interactive"", ""die-cut holes"", ""teaches counting"", ""teaches days of the week"", ""teaches life cycle concepts"", ""physically engaging"", ""stimulating illustrations"", ""versatile"", ""interesting longer into toddlerhood""]",t,f
+rec,haiku,rec_1,9,2,Pete the Cat,5,1.0,"[""funky illustrations"", ""fun rhythm""]",f,f
+rec,haiku,rec_1,9,2,Facebook Marketplace,,1.0,"[""good condition books""]",f,f
+perception,haiku,perception_1,8,0,Eric Carle,,0.7,"[""beautiful color work"", ""effective rhythm and repetition for toddlers""]",f,f
+rec,sonnet,rec_3,9,0,Eric Carle,1,1.0,"[""bright colors"", ""iconic"", ""collage art"", ""reliable""]",f,f
+rec,sonnet,rec_3,9,0,Bill Martin Jr.,2,1.0,"[""bright block colors"", ""repetitive text"", ""rhythmic""]",f,f
+rec,sonnet,rec_3,9,0,Margaret Wise Brown,3,0.95,"[""soothing"", ""visually rich""]",f,f
+rec,sonnet,rec_3,9,0,Eric Hill,4,0.9,"[""simple"", ""bright illustrations""]",f,f
+rec,sonnet,rec_3,9,0,Hervé Tullet,5,0.9,"[""interactive"", ""engaging"", ""colorful""]",f,f
+rec,sonnet,rec_3,9,0,Adam Rubin,6,0.9,"[""vivid"", ""funny""]",f,f
+rec,sonnet,rec_3,9,0,Janet and Allan Ahlberg,7,0.9,"[""detailed"", ""hidden elements""]",f,f
+rec,sonnet,rec_2,9,2,Goodwill,,0.7,"[""thrift"", ""affordable"", ""carries board books""]",f,f
+rec,sonnet,rec_2,9,2,Amazon,,0.7,"[""warehouse deals"", ""gently used books"", ""bundles""]",f,f
+rec,sonnet,rec_2,9,2,Dollar Tree,,0.8,"[""stocks children's books"", ""surprisingly good""]",f,f
+rec,sonnet,rec_2,9,2,ThriftBooks.com,,0.9,"[""great condition"", ""very cheap""]",f,f
+rec,haiku,rec_3,8,1,Barefoot Books,1,1.0,"[""eco-friendly materials"", ""ethical production"", ""explicitly committed""]",f,f
+rec,haiku,rec_3,8,1,Greystone Books,2,1.0,"[""Canadian publisher"", ""environmental mission""]",f,f
+rec,haiku,rec_3,8,1,Candlewick Press,3,1.0,"[""actively pursuing sustainable practices""]",f,f
+rec,haiku,rec_3,8,1,Penguin Random House,4,1.0,"[""sustainability commitments"", ""multiple imprints""]",f,f
+rec,haiku,rec_3,8,1,Chronicle Books,5,1.0,"[""environmental initiatives in production""]",f,f
+rec,haiku,rec_3,8,1,Martin Jenkins,6,1.0,"[""environmental themes"", ""sustainable publishing""]",f,f
+rec,haiku,rec_3,8,1,Ecos Editions,7,1.0,"[""focused on environmental content""]",f,f
+rec,haiku,rec_3,8,1,FSC,,0.8,"[""certification standard"", ""sustainability verification"", ""back cover symbols""]",f,f
+rec,haiku,rec_3,8,1,PEFC,,0.8,"[""certification standard"", ""sustainability verification"", ""back cover symbols""]",f,f
+rec,haiku,rec_3,8,1,Goodreads,,0.7,"[""user review platform"", ""sustainability information source""]",f,f
+perception,opus,perception_2,10,0,The Very Hungry Caterpillar,1,0.7,"[""universally stocked"", ""interactive design"", ""tactile pages"", ""developmentally appropriate"", ""accessible art"", ""commercially successful"", ""rare first editions highly collectible"", ""thin narrative"", ""simplistic moral""]",t,f
+perception,opus,perception_2,10,0,Eric Carle,,0.8,"[""innovative"", ""influential"", ""commercially successful"", ""institutionally validated"", ""post-death collectible value appreciation"", ""established prestigious museum""]",f,f
+perception,opus,perception_2,10,0,World of Eric Carle,,0.5,"[""commercial ecosystem"", ""extensively merchandised"", ""plush toys"", ""nursery décor"", ""apparel""]",f,f
+perception,opus,perception_2,10,0,Goodnight Moon,,0.5,"[""adult-driven purchase"", ""ritual-based"", ""comparable purchase patterns""]",f,t
+perception,opus,perception_2,10,0,"Brown Bear, Brown Bear",,0.6,"[""greater literary respect"", ""educational value""]",f,f
+perception,opus,perception_2,10,0,The Tiny Seed,,0.6,"[""greater literary respect"", ""educational value""]",f,f
+perception,opus,perception_2,10,0,School Library Journal,,0.5,"[""authoritative publication"", ""publishes ranked lists""]",f,f
+perception,opus,perception_2,10,0,Eric Carle Museum of Picture Book Art,,0.7,"[""prestigious institution"", ""located in Amherst MA"", ""validates legacy"", ""supports collector market""]",f,f
+rec,opus,rec_1,9,2,Costco,1,0.75,"[""budget-friendly"", ""warehouse club"", ""hardcover books""]",f,f
+rec,opus,rec_1,9,2,Sam's Club,2,0.75,"[""budget-friendly"", ""warehouse club"", ""hardcover books""]",f,f
+rec,opus,rec_1,9,2,Book Outlet,3,0.85,"[""heavily-discounted"", ""new books"", ""online"", ""bulk-friendly""]",f,f
+rec,opus,rec_1,9,2,Barnes & Noble,4,0.7,"[""clearance-focused"", ""budget-friendly"", ""good finds""]",f,f
+rec,haiku,rec_2,7,0,The Very Hungry Caterpillar,1,1.0,"[""tactile die-cut pages"", ""engaging"", ""long developmental span"", ""simple narrative"", ""durable""]",t,f
+rec,haiku,rec_2,7,0,Goodnight Moon,2,1.0,"[""rhythmic"", ""repetitive"", ""soothing"", ""hypnotic cadence"", ""anticipatory""]",f,t
+rec,haiku,rec_2,7,0,The Runaway Bunny,3,1.0,"[""emotionally reassuring"", ""repetitive structure"", ""comforting"", ""grows with child"", ""deepening meaning""]",f,f
+rec,haiku,rec_2,7,0,Dear Zoo,4,1.0,"[""lift-the-flap mechanic"", ""interactive"", ""quick"", ""satisfying"", ""durable"", ""higher cost""]",f,f
+rec,haiku,rec_2,7,0,Where the Wild Things Are,5,1.0,"[""narrative depth"", ""complex meaning"", ""reveals itself over time""]",f,t
+rec,haiku,rec_2,7,0,The Snowy Day,6,1.0,"[""poetic"", ""simple"", ""beautiful illustrations"", ""rewarding detail""]",f,f
+rec,haiku,rec_2,7,0,"Brown Bear, Brown Bear, What Do You See?",7,1.0,"[""rhythmic"", ""predictable"", ""bright colors""]",f,f
+versus,haiku,versus_the_gruffalo,9,0,The Very Hungry Caterpillar,,0.8,"[""interactive"", ""bright"", ""simple"", ""tactile"", ""short"", ""durable""]",t,f
+versus,haiku,versus_the_gruffalo,9,0,The Gruffalo,,0.8,"[""clever"", ""complex"", ""engaging"", ""beautiful"", ""detailed"", ""long"", ""durable""]",f,t
+rec,sonnet,rec_1,7,1,Julia Donaldson,1,1.0,"[""universal endorsement"", ""timeless"", ""affordable secondhand"", ""everywhere in charity shops""]",f,f
+rec,sonnet,rec_1,7,1,The Ahlbergs,2,1.0,"[""interactive"", ""engaging"", ""multiple beloved titles"", ""everywhere in charity shops"", ""great value""]",f,f
+rec,sonnet,rec_1,7,1,Eric Carle,3,0.95,"[""rite of passage"", ""iconic"", ""beloved""]",f,f
+rec,sonnet,rec_1,7,1,Michael Rosen,4,0.9,"[""rhythmic"", ""participatory"", ""brilliant for joining in""]",f,f
+rec,sonnet,rec_1,7,1,Martin Waddell,5,0.9,"[""beautifully reassuring"", ""comforting""]",f,f
+rec,sonnet,rec_1,7,1,Judith Kerr,6,0.9,"[""utterly charming"", ""engaging"", ""endlessly debated""]",f,f
+rec,sonnet,rec_1,7,1,Shirley Hughes,7,0.9,"[""classic British"", ""picture book gold"", ""always in charity shops""]",f,f
+rec,sonnet,rec_1,7,1,Sam McBratney,8,0.9,"[""genuine tearjerker"", ""emotional"", ""appeals to adults""]",f,f
+rec,sonnet,rec_1,7,1,Margaret Wise Brown,9,0.9,"[""bedtime ritual classic"", ""timeless""]",f,f
+rec,sonnet,rec_1,7,1,David McKee,10,0.85,"[""celebrates being different"", ""affirming""]",f,f
+rec,sonnet,rec_1,7,1,Michael Bond,11,0.85,"[""perfect"", ""illustrated"", ""concise""]",f,f
+rec,sonnet,rec_1,7,1,Fiona Watt,12,0.85,"[""touchy-feely textures"", ""tactile"", ""endlessly engaging""]",f,f
+rec,sonnet,rec_1,7,1,Tana Hoban,13,0.85,"[""bold"", ""simple images"", ""high-contrast"", ""baby-friendly""]",f,f
+rec,opus,rec_1,8,0,Candlewick,,0.8,"[""noticeably nicer paper stock""]",f,f
+rec,opus,rec_1,8,0,Chronicle,,0.8,"[""noticeably nicer paper stock""]",f,f
+rec,opus,rec_1,8,0,Phaidon,,0.8,"[""noticeably nicer paper stock""]",f,f
+rec,opus,rec_1,8,0,Thriftbooks,,0.8,"[""like-new hardcovers"", ""half price""]",f,f
+perception,sonnet,perception_1,10,0,Goodnight Moon,,0.3,"[""strong prose rhythm"", ""literary craft""]",f,t
+versus,opus,versus_the_gruffalo,9,0,The Gruffalo,1,0.9,"[""engaging plot"", ""memorable characters"", ""rhythmic"", ""sing-song verse"", ""parent-favorite"", ""good for reading aloud"", ""long shelf life"", ""repeatable"", ""by Julia Donaldson and Axel Scheffler""]",f,t
+versus,opus,versus_the_gruffalo,9,0,The Very Hungry Caterpillar,2,0.9,"[""iconic"", ""interactive"", ""die-cut holes"", ""educational"", ""sensory"", ""simple text"", ""collage illustrations"", ""perfect for youngest readers"", ""by Eric Carle""]",t,f
+rec,opus,rec_3,9,0,Hervé Tullet,1,1.0,"[""interactive"", ""colorful"", ""playful"", ""endlessly re-readable"", ""reliable""]",f,f
+rec,opus,rec_3,9,0,Eric Carle,2,1.0,"[""iconic"", ""colorful"", ""collage art"", ""classic"", ""reliable""]",f,f
+rec,opus,rec_3,9,0,Mo Willems,3,1.0,"[""humorous"", ""interactive"", ""simple art"", ""bright"", ""reliable""]",f,f
+rec,opus,rec_3,9,0,Sandra Boynton,4,1.0,"[""reliable"", ""safe bet""]",f,f
+rec,opus,rec_3,9,0,Margaret Wise Brown,5,1.0,"[""classic"", ""timeless"", ""iconic""]",f,f
+rec,opus,rec_3,9,0,Bill Martin Jr.,6,1.0,"[""simple"", ""rhythmic"", ""colorful""]",f,f
+rec,opus,rec_3,9,0,Adam Rubin,7,1.0,"[""silly"", ""vibrant""]",f,f
+rec,opus,rec_3,9,0,Christie Matheson,8,1.0,"[""interactive"", ""watercolor illustrations""]",f,f
+rec,opus,rec_3,9,0,Carson Ellis,9,1.0,"[""whimsical"", ""detailed illustrations""]",f,f
+rec,opus,rec_3,9,0,Divya Srinivasan,10,1.0,"[""beautiful"", ""cozy"", ""well-illustrated""]",f,f
+rec,opus,rec_3,9,0,Sophie Blackall,11,1.0,"[""stunning artwork"", ""detailed storytelling""]",f,f
+rec,haiku,rec_3,7,0,Margaret Wise Brown,1,1.0,"[""gentle"", ""classic""]",f,f
+rec,haiku,rec_3,7,0,Eric Carle,2,1.0,"[""interactive"", ""colorful"", ""consistent quality""]",f,f
+rec,haiku,rec_3,7,0,Bill Martin Jr.,3,1.0,"[""rhythmic"", ""engaging""]",f,f
+rec,haiku,rec_3,7,0,Rod Campbell,4,1.0,"[""interactive"", ""lift-the-flap""]",f,f
+rec,haiku,rec_3,7,0,Maurice Sendak,5,1.0,"[""imaginative"", ""storytelling""]",f,f
+rec,haiku,rec_3,7,0,James Dean,6,1.0,"[""fun"", ""engaging""]",f,f
+rec,haiku,rec_3,7,0,Don Freeman,7,1.0,"[""emotional depth"", ""lovely illustrations""]",f,f
+rec,haiku,rec_3,7,0,Crockett Johnson,8,1.0,"[""imaginative"", ""unique""]",f,f
+rec,haiku,rec_3,7,0,Roald Dahl,9,1.0,"[""respected""]",f,f
+rec,haiku,rec_3,7,0,Dr. Seuss,10,1.0,"[""respected""]",f,f
+rec,haiku,rec_3,7,0,Beatrix Potter,11,1.0,"[""respected""]",f,f
+perception,sonnet,perception_1,5,0,The Very Hungry Caterpillar,1,0.7,"[""tactile"", ""interactive"", ""well-paced"", ""visually stimulating"", ""meaningful"", ""well-engineered"", ""not literary"", ""culturally ubiquitous"", ""merchandise-heavy""]",t,f
+perception,sonnet,perception_1,5,0,Eric Carle,,0.75,"[""collage art"", ""distinctive"", ""visually stimulating"", ""bold colors"", ""well-suited to young eyes""]",f,f
+perception,sonnet,perception_1,5,0,Goodnight Moon,,0.75,"[""richer language"", ""literary"", ""poetic""]",f,t
+perception,sonnet,perception_1,5,0,Where the Wild Things Are,,0.75,"[""richer language"", ""literary"", ""poetic""]",f,t
+rec,haiku,rec_2,6,0,Shaun Tan,1,0.95,"[""wordless narrative"", ""graphic novel"", ""ethereal"", ""dreamlike"", ""artistic sophistication"", ""fine art quality""]",f,f
+rec,haiku,rec_2,6,0,Aaron Becker,2,0.95,"[""wordless narrative"", ""watercolor"", ""intricate landscapes"", ""breathtaking"", ""visual exploration""]",f,f
+rec,haiku,rec_2,6,0,David Wiesner,3,0.95,"[""wordless narrative"", ""playful"", ""imaginative"", ""photorealist""]",f,f
+rec,haiku,rec_2,6,0,Kate DiCamillo,4,0.95,"[""fairy-tale narrative"", ""emotionally sophisticated"", ""luminous"", ""delicate""]",f,f
+rec,haiku,rec_2,6,0,Timothy Basil Erson,4,0.95,"[""luminous illustrations"", ""delicate illustrations""]",f,f
+rec,haiku,rec_2,6,0,Anthony Browne,5,0.95,"[""distinctive style"", ""visual storytelling masterclass"", ""multiple perspectives""]",f,f
+rec,haiku,rec_2,6,0,Matt de la Peña,6,0.95,"[""poetic text"", ""warm"", ""vibrant"", ""everyday beauty""]",f,f
+rec,haiku,rec_2,6,0,Christian Robinson,6,0.95,"[""warm illustrations"", ""vibrant illustrations""]",f,f
+rec,haiku,rec_2,6,0,Julia Donaldson,7,0.95,"[""rhyming text"", ""exemplary craft"", ""detailed illustrations"", ""expressive illustrations""]",f,f
+rec,haiku,rec_2,6,0,Axel Scheffler,7,0.95,"[""detailed illustrations"", ""expressive illustrations""]",f,f
+rec,haiku,rec_2,6,0,Neil Gaiman,8,0.95,"[""darkly imaginative"", ""inventive storytelling""]",f,f
+rec,haiku,rec_2,6,0,Dave McKean,8,0.95,"[""inventive"", ""mixed-media artwork""]",f,f
+rec,sonnet,rec_3,10,2,AbeBooks,1,1.0,"[""out-of-print books"", ""signed copies"", ""rare books platform""]",f,f
+rec,sonnet,rec_3,10,2,Biblio,1,1.0,"[""out-of-print books"", ""signed copies"", ""rare books platform""]",f,f
+rec,sonnet,rec_3,10,2,Bauman Rare Books,2,0.95,"[""signed first editions"", ""rare books dealer""]",f,f
+rec,sonnet,rec_3,10,2,Between the Covers,2,0.95,"[""signed first editions"", ""rare books dealer""]",f,f
+rec,sonnet,rec_3,10,2,Candlewick,3,0.9,"[""publisher"", ""offers signed print runs"", ""direct ordering available""]",f,f
+rec,sonnet,rec_3,10,2,Roaring Brook,3,0.9,"[""publisher"", ""offers signed print runs"", ""direct ordering available""]",f,f
+rec,sonnet,rec_3,10,2,Chronicle,3,0.9,"[""publisher"", ""offers signed print runs"", ""direct ordering available""]",f,f
+rec,sonnet,rec_3,10,2,Heritage Auctions,5,0.85,"[""auction service"", ""first editions"", ""vintage and classic books""]",f,f
+rec,sonnet,rec_3,10,2,Walker Books,6,0.9,"[""UK publisher"", ""superior binding"", ""premium paper stock""]",f,f
+rec,sonnet,rec_3,5,1,PAW Patrol,,-0.85,"[""heavily licensed character books"", ""low-quality text"", ""low repeat-read value""]",f,f
+rec,sonnet,rec_3,5,1,TikTok,,-0.65,"[""source of viral books"", ""thin on repeat-read value""]",f,f
+rec,sonnet,rec_3,9,2,Eric Carle,1,1.0,"[""bold"", ""iconic"", ""collage art"", ""vivid colors"", ""great for counting"", ""great for colors""]",f,f
+rec,sonnet,rec_3,9,2,Margaret Wise Brown,2,1.0,"[""soft colors"", ""rich colors"", ""soothing"", ""bedtime routine""]",f,f
+rec,sonnet,rec_3,9,2,Maurice Sendak,3,1.0,"[""imaginative"", ""expressive illustrations""]",f,f
+rec,sonnet,rec_3,9,2,Ellen Stoll Walsh,4,1.0,"[""simple"", ""striking art"", ""great for toddlers learning colors""]",f,f
+rec,sonnet,rec_3,9,2,Eric Litwin,5,1.0,"[""bright"", ""fun"", ""sing-along quality"", ""kids love""]",f,f
+rec,sonnet,rec_3,9,2,Hervé Tullet,6,1.0,"[""bold"", ""incredibly interactive"", ""colorful"", ""color mixing focus""]",f,f
+rec,sonnet,rec_3,9,2,Bill Martin Jr.,7,1.0,"[""repetitive"", ""rhythmic"", ""vivid illustrations"", ""tropical colors"", ""fun"", ""alphabet learning""]",f,f
+rec,sonnet,rec_3,9,2,Adam Rubin,8,1.0,"[""silly humor"", ""bright"", ""energetic illustrations""]",f,f
+perception,sonnet,perception_1,10,0,The Very Hungry Caterpillar,1,0.75,"[""distinctive art"", ""influential"", ""tactile"", ""handmade warmth"", ""innovative die-cut format"", ""elegant concept layering"", ""emotional resonance"", ""visual design masterwork"", ""ubiquitous"", ""thin text"", ""functional language""]",t,f
+perception,sonnet,perception_1,10,0,Where the Wild Things Are,,0.3,"[""narrative depth"", ""literary craft""]",f,t
+perception,sonnet,perception_1,10,0,Eric Carle,,0.7,"[""distinctive collage-tissue art"", ""innovative"", ""influential"", ""visual genius"", ""structural innovation""]",f,f
+rec,sonnet,rec_2,7,2,Goodnight Moon,1,0.95,"[""rhythmic"", ""soothing"", ""memorizable"", ""bedtime staple""]",f,t
+rec,sonnet,rec_2,7,2,Where the Wild Things Are,2,0.95,"[""explores big feelings"", ""promotes autonomy"", ""timeless""]",f,t
+rec,sonnet,rec_2,7,2,The Very Hungry Caterpillar,3,0.95,"[""teaches counting"", ""teaches days of week"", ""teaches life cycles"", ""layered meaning""]",t,f
+rec,sonnet,rec_2,7,2,"Brown Bear, Brown Bear, What Do You See?",,0.95,"[""repetitive"", ""adored by babies"", ""child-readable""]",f,f
+rec,sonnet,rec_2,7,2,The Snowy Day,,0.95,"[""quiet"", ""wonder-filled"", ""detailed illustrations""]",f,f
+rec,sonnet,rec_2,7,2,Corduroy,,0.95,"[""simple"", ""emotionally resonant""]",f,f
+rec,sonnet,rec_2,7,2,Stellaluna,,0.95,"[""features bats"", ""explores identity"", ""explores belonging"", ""sparks conversation""]",f,f
+rec,sonnet,rec_2,7,2,The Giving Tree,,0.95,"[""layered meaning"", ""evolves with child age""]",f,f
+rec,sonnet,rec_2,7,2,Owl at Home,,0.95,"[""gentle"", ""funny"", ""philosophical""]",f,f
+rec,sonnet,rec_2,7,2,Bedtime for Frances,,0.95,"[""relatable"", ""humorous"", ""parent-friendly""]",f,f
+rec,sonnet,rec_2,7,2,Harold and the Purple Crayon,,0.95,"[""sparks imagination"", ""encourages creativity""]",f,f
+rec,sonnet,rec_3,8,0,Barefoot Books,1,0.95,"[""small publisher"", ""explicitly committed to sustainability"", ""FSC-certified paper"", ""vegetable-based inks"", ""world cultures and nature focus""]",f,f
+rec,sonnet,rec_3,8,0,Greystone Kids,2,0.9,"[""Canadian publisher"", ""FSC certification"", ""nature and science focus""]",f,f
+rec,sonnet,rec_3,8,0,Chronicle Books,3,0.85,"[""larger indie publisher"", ""solid sustainability commitments"", ""FSC-certified"", ""beautiful design""]",f,f
+rec,sonnet,rec_3,8,0,Candlewick Press,4,0.85,"[""independent US publisher"", ""sustainable sourcing commitments""]",f,f
+rec,sonnet,rec_3,8,0,Charlesbridge,5,0.85,"[""independent publisher"", ""recycled/FSC paper"", ""soy-based inks"", ""science and nature focus""]",f,f
+rec,sonnet,rec_3,8,0,Feiwel & Friends,,0.0,[],f,f
+rec,sonnet,rec_3,8,0,HMH,,0.0,[],f,f
+rec,sonnet,rec_3,8,0,Random House,,0.0,[],f,f
+rec,sonnet,rec_3,8,0,IndieBound,,0.85,"[""independent booksellers"", ""eco-conscious curation""]",f,f
+rec,sonnet,rec_3,8,0,Bookshop.org,,0.85,"[""independent booksellers"", ""eco-conscious curation""]",f,f
+rec,sonnet,rec_3,8,0,Dr. Seuss,,0.0,[],f,f
+versus,haiku,versus_where_the_wild_things_are,7,0,The Very Hungry Caterpillar,1,1.0,"[""interactive"", ""tactile"", ""colorful"", ""durable"", ""simple text"", ""rhythmic"", ""engaging""]",t,f
+versus,haiku,versus_where_the_wild_things_are,7,0,Where the Wild Things Are,2,0.5,"[""complex narrative"", ""imaginative"", ""advanced concepts"", ""longer text"", ""read-aloud format"", ""better for older children""]",f,t
+rec,opus,rec_3,9,1,Hervé Tullet,,0.95,"[""interactive"", ""playful"", ""vivid""]",f,f
+rec,opus,rec_3,9,1,Eric Carle,,0.95,"[""classic"", ""colorful"", ""collage art"", ""joyful"", ""saturated"", ""rhythmic""]",f,f
+rec,opus,rec_3,9,1,Bill Martin Jr.,,0.9,"[""rhythmic"", ""repetitive"", ""bright"", ""colorful""]",f,f
+rec,opus,rec_3,9,1,Anna Dewdney,,0.9,"[""cozy"", ""vivid"", ""emotional""]",f,f
+rec,opus,rec_3,9,1,Adam Rubin,,0.9,"[""silly"", ""colorful""]",f,f
+rec,opus,rec_3,9,1,Drew Daywalt,,0.9,"[""colorful"", ""character-focused""]",f,f
+rec,opus,rec_3,9,1,Alice Schertle,,0.9,"[""warm"", ""colorful""]",f,f
+rec,opus,rec_3,9,1,Jill McElmurry,,0.9,"[""bright"", ""informative""]",f,f
+rec,opus,rec_3,9,1,Bill Cotter,,0.95,"[""bold"", ""interactive"", ""playful""]",f,f
+rec,opus,rec_3,9,1,Christie Matheson,,0.9,"[""watercolor"", ""interactive"", ""artistic""]",f,f
+rec,opus,rec_2,7,1,Goodnight Moon,1,0.95,"[""soothing"", ""rhythmic"", ""durable board book edition"", ""excellent value"", ""finds game for toddlers""]",f,t
+rec,opus,rec_2,7,1,The Very Hungry Caterpillar,2,0.95,"[""sensory appeal"", ""educational"", ""teaches counting"", ""teaches days of the week"", ""durable board book edition"", ""excellent value""]",t,f
+rec,opus,rec_2,7,1,"Brown Bear, Brown Bear, What Do You See?",3,0.95,"[""repetitive"", ""language patterning"", ""early language development"", ""durable board book edition"", ""excellent value""]",f,f
+rec,opus,rec_2,7,1,Frog and Toad,4,0.9,"[""read-aloud friendly"", ""emotional development"", ""grows with reader"", ""lovely""]",f,f
+rec,opus,rec_2,7,1,The Tiger Who Came to Tea,5,0.95,"[""pure delight"", ""timeless"", ""ages well"", ""imaginative""]",f,f
+rec,opus,rec_2,7,1,Harold and the Purple Crayon,6,0.95,"[""imagination sparking"", ""open-ended narrative"", ""long-term appeal""]",f,f
+rec,opus,rec_2,7,1,Madeline,7,0.85,"[""rhyming"", ""adventure themes"", ""international setting"", ""charming""]",f,f
+rec,opus,rec_2,7,1,Winnie-the-Pooh,8,0.85,"[""flexible reading depth"", ""grows from excerpts to full chapters"", ""rich text"", ""classic""]",f,f
+rec,opus,rec_2,7,1,Where the Wild Things Are,9,0.9,"[""emotional depth"", ""explores anger and reunion themes"", ""ages with reader""]",f,t
+rec,opus,rec_2,7,1,Each Peach Pear Plum,10,0.85,"[""nursery rhyme"", ""spot-the-image game"", ""literacy development"", ""complex illustrations""]",f,f
+rec,opus,rec_2,7,1,Julián Is a Mermaid,11,0.9,"[""stunning illustrations"", ""layered themes"", ""identity and acceptance themes"", ""diverse representation""]",f,f
+rec,opus,rec_2,7,1,The Snowy Day,12,0.85,"[""simple narrative"", ""nostalgic"", ""observational"", ""grows with reader"", ""timeless appeal""]",f,f
+rec,opus,rec_2,7,1,Last Stop on Market Street,13,0.85,"[""conversation starter"", ""gratitude themes"", ""community themes"", ""diverse representation""]",f,f
+rec,opus,rec_2,7,1,Journey,14,0.85,"[""wordless"", ""visual storytelling"", ""imagination sparking"", ""high reread value""]",f,f
+rec,opus,rec_2,7,1,A Ball for Daisy,15,0.85,"[""wordless"", ""visual storytelling"", ""simple joy themes"", ""high reread value""]",f,f
+rec,opus,rec_2,7,1,Flotsam,16,0.85,"[""wordless"", ""visual storytelling"", ""imagination sparking"", ""discoverable details"", ""high reread value""]",f,f
+rec,opus,rec_3,8,1,Nosy Crow,1,0.9,"[""FSC-certified paper"", ""sustainable sourcing"", ""strong sustainability track record""]",f,f
+rec,opus,rec_3,8,1,Flying Eye Books / Nobrow,2,0.85,"[""FSC paper"", ""European printers"", ""shorter supply chains"", ""independent UK publisher""]",f,f
+rec,opus,rec_3,8,1,Magic Cat Publishing,3,0.85,"[""FSC-certified"", ""nature and curiosity books"", ""quality-focused""]",f,f
+rec,opus,rec_3,8,1,Phaidon,4,0.8,"[""FSC paper"", ""children's list"", ""quality""]",f,f
+rec,opus,rec_3,8,1,Candlewick Press,5,0.85,"[""FSC-certified paper"", ""publishes sustainability reports""]",f,f
+rec,opus,rec_3,8,1,Barefoot Books,6,0.95,"[""B Corp certified"", ""FSC paper"", ""vegetable-based inks"", ""strong environmental ethic""]",f,f
+rec,opus,rec_3,8,1,Frances Lincoln,,0.75,"[""sustainable printing"", ""FSC paper""]",f,f
+rec,opus,rec_3,8,1,Random House,,0.7,"[""FSC paper printing""]",f,f
+rec,opus,rec_3,8,1,Chronicle Books,,0.75,"[""sustainability practices""]",f,f
+rec,opus,rec_3,8,1,AbeBooks,,0.85,"[""secondhand books"", ""extends book life""]",f,f
+rec,opus,rec_3,8,1,Better World Books,,0.85,"[""secondhand books"", ""extends book life""]",f,f
+rec,opus,rec_3,8,1,Thriftbooks,,0.85,"[""secondhand books"", ""extends book life""]",f,f
+rec,sonnet,rec_3,6,2,Tasha Tudor,1,1.0,"[""archival paper"", ""sewn bindings""]",f,f
+rec,sonnet,rec_3,6,2,Penguin Classics Deluxe,1,1.0,"[""archival paper"", ""sewn bindings""]",f,f
+rec,sonnet,rec_3,6,2,TOON Books,2,1.0,"[""FSC-certified paper"", ""durable binding"", ""serious design intent""]",f,f
+rec,sonnet,rec_3,6,2,Enchanted Lion Books,3,1.0,"[""boutique publisher"", ""exceptional paper"", ""exceptional printing"", ""sustainability-conscious""]",f,f
+rec,sonnet,rec_3,6,2,Prestel,4,1.0,"[""art-forward"", ""museum-quality reproduction""]",f,f
+rec,sonnet,rec_3,6,2,Schirmer/Mosel,4,1.0,"[""art-forward"", ""museum-quality reproduction""]",f,f
+rec,sonnet,rec_3,6,2,Candlewick Press,5,1.0,"[""high physical quality"", ""acid-free stock""]",f,f
+rec,sonnet,rec_3,6,2,Phaidon,6,1.0,"[""excellent materials""]",f,f
+rec,sonnet,rec_3,6,2,Perma-Bound,,1.0,"[""library binding vendor"", ""extraordinarily durable""]",f,f
+rec,sonnet,rec_3,6,2,Follett,,1.0,"[""library binding vendor""]",f,f
+perception,opus,perception_2,7,0,Eric Carle,,1.0,"[""beloved"", ""prolific"", ""focuses on transformation and hope"", ""modern classic status""]",f,f
+perception,opus,perception_2,7,0,The Very Hungry Caterpillar,,1.0,"[""beloved"", ""trusted"", ""durable appeal"", ""tactile design"", ""high-contrast collage illustrations"", ""die-cut holes"", ""gentle pacing"", ""supports early learning"", ""staple text"", ""modern classic"", ""best-selling"", ""available in multiple formats""]",t,f
+rec,haiku,rec_3,6,2,Greystone Kids,1,0.85,"[""strong environmental commitment"", ""sustainable""]",f,f
+rec,haiku,rec_3,6,2,Little Bee Books,2,0.75,"[""eco-friendly materials""]",f,f
+rec,haiku,rec_3,6,2,Barefoot Books,3,0.8,"[""ethically produced"", ""multilingual""]",f,f
+rec,haiku,rec_3,6,2,Candlewick Press,4,0.7,"[""quality production standards""]",f,f
+perception,opus,perception_3,5,0,Eric Carle,1,0.95,"[""beautiful"", ""classic"", ""timeless""]",f,f
+rec,opus,rec_2,9,1,Thriftbooks,,0.85,"[""used books"", ""$4-5 price point"", ""free shipping""]",f,f
+rec,opus,rec_2,9,1,Half Price Books,,0.85,"[""board books"", ""$1-3 price point"", ""discounted""]",f,f
+rec,opus,rec_2,9,1,Goodwill,,0.85,"[""thrift store"", ""children's books"", ""$0.50-$2 price point""]",f,f
+rec,opus,rec_2,9,1,Dollar Tree,,0.85,"[""name-brand books"", ""$1.25 price point"", ""surprising selection""]",f,f
+rec,opus,rec_2,9,1,Facebook Marketplace,,0.85,"[""secondhand"", ""parent sellers"", ""outgrown books available""]",f,f
+rec,opus,rec_2,9,1,Buy Nothing,,0.85,"[""community-based"", ""free or very cheap"", ""outgrown books available""]",f,f
+rec,sonnet,rec_2,8,1,Corraini,1,0.95,"[""gold standard"", ""design-conscious"", ""faithful reproduction"", ""well-executed""]",f,f
+rec,sonnet,rec_2,8,1,NYRB,2,0.95,"[""beautifully printed"", ""high color fidelity"", ""superior reproduction"", ""high production standards""]",f,f
+rec,sonnet,rec_2,8,1,Enchanted Lion,3,0.95,"[""design-conscious"", ""thoughtful production"", ""attention to materials"", ""editorial quality""]",f,f
+rec,sonnet,rec_2,8,1,HMH,4,0.85,"[""consistent quality"", ""maintained across decades"", ""faithful reproduction"", ""reliable""]",f,f
+rec,sonnet,rec_2,8,1,Phaidon,5,0.85,"[""superior quality"", ""richer blacks"", ""cleaner registration"", ""worth seeking out""]",f,f
+rec,sonnet,rec_2,8,1,Tara Books,6,0.8,"[""handmade"", ""silk-screened"", ""artisanal"", ""museum-quality"", ""extraordinary""]",f,f
+rec,sonnet,rec_2,8,1,Philomel,7,0.75,"[""quality die-cutting"", ""load-bearing design"", ""crisp printing"", ""holds up well""]",f,f
+rec,sonnet,rec_2,8,1,Scholastic,8,0.75,"[""high-fidelity reproduction"", ""excellent color handling""]",f,f
+rec,sonnet,rec_2,8,1,Hachette,9,0.75,"[""high-fidelity reproduction"", ""excellent color handling""]",f,f
+rec,sonnet,rec_2,8,1,Chronicle Books,10,0.55,"[""variable quality"", ""strong premium line"", ""above average at premium end""]",f,f
+rec,sonnet,rec_2,8,1,Penguin,,0.6,"[""major publisher"", ""quality imprint parent""]",f,f
+rec,sonnet,rec_2,8,1,Delacorte,,-0.6,"[""lower quality reproduction"", ""inferior registration""]",f,f
+rec,sonnet,rec_2,8,1,Four Winds,,-0.6,"[""lower quality reproduction"", ""inferior registration""]",f,f
+rec,sonnet,rec_1,8,0,Viking,1,0.9,"[""noticeably good print quality"", ""quality reprints"", ""improved color accuracy""]",f,f
+rec,sonnet,rec_1,8,0,HarperCollins,2,0.85,"[""quality reprints"", ""improved color accuracy""]",f,f
+rec,sonnet,rec_1,8,0,Penguin,3,0.85,"[""quality reprints"", ""improved color accuracy""]",f,f
+rec,haiku,rec_3,10,2,Scholastic,,0.8,"[""releases deluxe editions"", ""releases limited bindings"", ""produces fancier editions""]",f,f
+perception,sonnet,perception_3,10,0,The Very Hungry Caterpillar,1,1.0,"[""beloved"", ""timeless"", ""durable"", ""iconic"", ""vibrant colors"", ""die-cut holes feature"", ""heirloom potential"", ""resale value""]",t,f
+perception,sonnet,perception_3,10,0,Eric Carle,,0.9,"[""beautiful artwork"", ""vibrant colors""]",f,f
+rec,haiku,rec_1,6,1,Barefoot Books,1,0.95,"[""eco-friendly production"", ""FSC-certified"", ""beautiful"", ""multicultural stories"", ""strong illustration""]",f,f
+rec,haiku,rec_1,6,1,Enchanted Lion Books,2,0.95,"[""stunning international picture books"", ""FSC-certified"", ""exceptional production quality""]",f,f
+rec,haiku,rec_1,6,1,Candlewick Press,3,0.9,"[""beautiful design"", ""quality binding""]",f,f
+rec,haiku,rec_1,6,1,Oliver Jeffers,,0.9,"[""gorgeous illustrations"", ""quality hardcovers""]",f,f
+rec,haiku,rec_1,6,1,Jill McDonald,,0.9,"[""stunning art"", ""whimsical""]",f,f
+rec,haiku,rec_1,6,1,Kate DiCamillo,,0.85,"[""special hardcover editions"", ""beautiful production""]",f,f
+versus,opus,versus_goodnight_moon,10,0,The Very Hungry Caterpillar,1,1.0,"[""interactive design"", ""curriculum-aligned"", ""die-cut pages"", ""teaches counting"", ""teaches days of week"", ""teaches life cycles"", ""predictable structure"", ""supports emergent readers"", ""high-contrast artwork"", ""group-friendly"", ""highly visible from distance"", ""durable engagement"", ""re-readable"", ""cross-curricular utility""]",t,f
+versus,opus,versus_goodnight_moon,10,0,Goodnight Moon,2,0.65,"[""iconic"", ""masterpiece"", ""bedtime ritual"", ""intimate"", ""muted palette"", ""limited curriculum extensions"", ""difficult for group reading"", ""calming""]",f,t
+rec,haiku,rec_1,7,0,Dear Zoo,1,1.0,"[""lift-the-flap"", ""entertaining""]",f,f
+rec,haiku,rec_1,7,0,The Very Hungry Caterpillar,2,1.0,"[""illustrated"", ""die-cut"", ""interactive""]",t,f
+rec,haiku,rec_1,7,0,"Brown Bear, Brown Bear, What Do You See?",3,1.0,"[""rhythmic"", ""educational""]",f,f
+rec,haiku,rec_1,7,0,Goodnight Moon,4,1.0,"[""gold-standard"", ""soothing""]",f,t
+rec,haiku,rec_1,7,0,Pat the Bunny,5,1.0,"[""vintage"", ""tactile"", ""interactive""]",f,f
+rec,haiku,rec_1,7,0,Where's Spot?,6,1.0,"[""lift-the-flap"", ""simple""]",f,f
+rec,haiku,rec_1,7,0,The Snowy Day,7,1.0,"[""atmospheric"", ""illustrated""]",f,f
+rec,haiku,rec_1,7,0,Corduroy,8,1.0,"[""emotional"", ""lovely""]",f,f
+rec,haiku,rec_1,7,0,The Runaway Bunny,9,1.0,"[""comforting"", ""timeless""]",f,f
+versus,sonnet,versus_goodnight_moon,5,0,Goodnight Moon,1,1.0,"[""built for bedtime"", ""calming"", ""slow"", ""repetitive"", ""soothing"", ""darkening illustrations"", ""works well for multiple ages"", ""ideal for consistent nightly ritual"", ""comforting""]",f,t
+versus,sonnet,versus_goodnight_moon,5,0,The Very Hungry Caterpillar,,0.6,"[""fantastic"", ""energetic"", ""counting-focused"", ""daytime read"", ""not suitable for bedtime""]",t,f
+rec,opus,rec_3,7,2,Usborne,,0.8,"[""publisher of children's books"", ""early learning focus"", ""quality""]",f,f
+rec,opus,rec_3,7,2,Ladybird,,0.8,"[""publisher of children's books"", ""early learning focus"", ""quality""]",f,f
+perception,sonnet,perception_3,5,0,Eric Carle,1,0.9,"[""durable"", ""interactive"", ""colorful"", ""educational"", ""multi-age appeal"", ""re-readable"", ""classic""]",f,f
+perception,sonnet,perception_3,5,0,ThredUp,,0.6,"[""secondhand"", ""affordable"", ""good condition""]",f,f
+perception,sonnet,perception_3,5,0,Facebook Marketplace,,0.6,"[""secondhand"", ""affordable"", ""good condition""]",f,f
+rec,haiku,rec_2,8,1,Candlewick Press,,0.7,"[""quality publisher""]",f,f
+rec,haiku,rec_2,8,1,Enchanted Lion,,0.7,"[""quality publisher""]",f,f
+rec,haiku,rec_2,8,1,Drawn & Quarterly,,0.7,"[""quality publisher""]",f,f
+rec,opus,rec_2,5,1,Just Like Me Books,1,1.0,"[""Black-owned"", ""curates beautifully""]",f,f
+rec,opus,rec_2,5,1,Mahogany Books,2,1.0,"[""Black-owned"", ""curates beautifully""]",f,f
+rec,opus,rec_2,5,1,EyeSeeMe,3,1.0,"[""Black-owned"", ""curates beautifully""]",f,f
+rec,opus,rec_2,5,1,YouTube,4,1.0,"[""platform"", ""source for author/illustrator interviews""]",f,f
+rec,sonnet,rec_1,5,0,Margaret Wise Brown,1,1.0,"[""perfect bedtime"", ""indestructible"", ""wonderful"", ""beloved""]",f,f
+rec,sonnet,rec_1,5,0,Eric Carle,2,1.0,"[""bold"", ""beautiful art"", ""simple"", ""durable"", ""loved by both ages""]",f,f
+rec,sonnet,rec_1,5,0,Maurice Sendak,3,1.0,"[""timeless"", ""adventurous"", ""grows with kids""]",f,f
+rec,sonnet,rec_1,5,0,Dr. Seuss,4,1.0,"[""rhythmic"", ""rhyming"", ""repetitive"", ""irresistible to read aloud""]",f,f
+rec,sonnet,rec_1,5,0,Ezra Jack Keats,5,1.0,"[""simple"", ""gorgeous"", ""gentle"", ""classic""]",f,f
+rec,sonnet,rec_1,5,0,Sam McBratney,6,1.0,"[""warm"", ""soothing"", ""calming""]",f,f
+rec,sonnet,rec_1,5,0,Don Freeman,7,1.0,"[""sweet"", ""lovable"", ""durable""]",f,f
+rec,sonnet,rec_1,5,0,Shel Silverstein,8,1.0,"[""nuanced"", ""grows with kids"", ""beloved""]",f,f
+rec,sonnet,rec_1,5,0,Bill Martin Jr.,9,1.0,"[""rhythmic"", ""fun to read aloud"", ""memorable"", ""appealing to multiple ages""]",f,f
+rec,sonnet,rec_1,5,0,Laura Numeroff,10,1.0,"[""circular"", ""silly"", ""delightful"", ""appealing to multiple ages""]",f,f
+versus,opus,versus_goodnight_moon,6,0,Eric Carle,1,0.95,"[""hand-painted tissue-paper collage art"", ""educational"", ""interactive"", ""die-cut page holes"", ""metamorphosis narrative"", ""grows with child"", ""durable"", ""visual impact"", ""gift-worthy""]",f,f
+versus,opus,versus_goodnight_moon,6,0,Margaret Wise Brown,2,0.85,"[""poetic"", ""atmospheric"", ""rhythmic"", ""repetitive"", ""lullaby-like"", ""emotionally resonant"", ""narrow age appeal""]",f,f
+versus,opus,versus_goodnight_moon,6,0,Clement Hurd,,0.85,"[""quality illustration"", ""beloved classics""]",f,f
+versus,opus,versus_goodnight_moon,6,0,Philomel/Putnam,,0.8,"[""sturdy hardcover"", ""well-bound"", ""gift-worthy editions"", ""special anniversary editions"", ""quality production""]",f,f
+versus,opus,versus_goodnight_moon,6,0,HarperCollins,,0.7,"[""modest production quality"", ""smaller trim size"", ""simpler binding"", ""heirloom feeling""]",f,f
+rec,haiku,rec_3,8,0,Candlewick Press,1,0.8,"[""environmentally conscious"", ""sustainable printing"", ""sustainable paper sourcing""]",f,f
+rec,haiku,rec_3,8,0,Charlesbridge,2,0.85,"[""environmentally focused"", ""eco-friendly materials"", ""environmental values""]",f,f
+rec,haiku,rec_3,8,0,Barefoot Books,3,0.8,"[""uses recycled paper"", ""sustainability practices""]",f,f
+rec,haiku,rec_3,8,0,Penguin Random House,,0.4,"[""increasingly sustainable printing""]",f,f
+rec,haiku,rec_3,8,0,"Little, Brown",,0.0,[],f,f
+rec,haiku,rec_2,9,1,Facebook Marketplace,1,0.85,"[""marketplace"", ""used books"", ""$1-2 prices""]",f,f
+rec,haiku,rec_2,9,1,Goodwill,2,0.9,"[""thrift store"", ""great selection"", ""under $1""]",f,f
+rec,haiku,rec_2,9,1,Salvation Army,2,0.8,"[""thrift store"", ""under $1""]",f,f
+rec,haiku,rec_2,9,1,Amazon,3,0.6,"[""online retailer"", ""paperback sales"", ""requires deal hunting""]",f,f
+rec,haiku,rec_2,9,1,Book Depository,3,0.6,"[""online retailer"", ""paperback sales"", ""requires deal hunting""]",f,f
+versus,opus,versus_the_gruffalo,7,0,The Very Hungry Caterpillar,1,0.9,"[""age-appropriate for 0-3 years"", ""interactive die-cut holes"", ""tactile features"", ""teaches counting, days of week, colors, food names, butterfly life cycle"", ""short rhythmic text"", ""easy to read aloud"", ""sturdy board book format available"", ""durable for babies"", ""immediately enjoyed""]",t,f
+versus,opus,versus_the_gruffalo,7,0,The Gruffalo,2,0.75,"[""designed for age 3+"", ""longer narrative"", ""rhyming story"", ""requires sustained attention and plot comprehension"", ""paperback or picture-book format"", ""less durable"", ""becomes favorite in a couple of years"", ""good value if discounted""]",f,t
+versus,haiku,versus_where_the_wild_things_are,10,0,Where the Wild Things Are,1,0.9,"[""masterpiece"", ""literarily sophisticated"", ""essential"", ""interpretive depth"", ""traditional structure"", ""intricate illustrations"", ""durable"", ""ages well""]",f,t
+versus,haiku,versus_where_the_wild_things_are,10,0,The Very Hungry Caterpillar,2,0.25,"[""beloved"", ""popular"", ""charming"", ""straightforward"", ""structurally vulnerable"", ""tears easily"", ""gimmicky""]",t,f
+versus,sonnet,versus_the_gruffalo,10,0,The Gruffalo,1,0.9,"[""longer engagement window"", ""rich rhyming text"", ""clever wit"", ""rewards re-reading"", ""builds literacy skills"", ""layered humor"", ""clever plot"", ""has sequel""]",f,t
+versus,sonnet,versus_the_gruffalo,10,0,The Very Hungry Caterpillar,2,0.65,"[""bold colors"", ""simple repetition"", ""tactile die-cut pages"", ""short"", ""teaches counting and days of week"", ""ages out quickly"", ""nostalgic keepsake""]",t,f
+rec,opus,rec_2,7,0,Hervé Tullet,5,1.0,"[""interactive"", ""magical"", ""delightful""]",f,f
+rec,haiku,rec_3,10,1,Julia Donaldson,1,1.0,"[""essential anchor pieces"", ""exceptionally valuable"", ""culturally significant"", ""perennially beloved""]",f,f
+rec,haiku,rec_3,10,1,Axel Scheffler,2,1.0,"[""exceptionally valuable"", ""beautiful deluxe editions"", ""superior print quality""]",f,f
+rec,haiku,rec_3,10,1,Maurice Sendak,3,1.0,"[""absolutely foundational"", ""command premium prices""]",f,f
+rec,haiku,rec_3,10,1,Adam Rubin,4,0.9,"[""contemporary cult classic"", ""humor appeals across ages""]",f,f
+rec,haiku,rec_3,10,1,Kate DiCamillo,5,0.9,"[""award-winning"", ""emotionally resonant""]",f,f
+rec,haiku,rec_3,10,1,Laura Numeroff,6,0.9,"[""gorgeous illustrations"", ""extremely durable collecting piece"", ""anniversary editions""]",f,f
+rec,haiku,rec_3,10,1,Oliver Jeffers,7,0.85,"[""modern illustrator"", ""future value potential""]",f,f
+rec,haiku,rec_3,10,1,Jon Klassen,8,0.85,"[""modern illustrator"", ""future value potential""]",f,f
+rec,haiku,rec_3,10,1,Carson Ellis,9,0.85,"[""modern illustrator"", ""future value potential""]",f,f
+rec,haiku,rec_3,10,1,Chris Biggs,10,0.8,"[""stunning illustrated editions""]",f,f
+rec,haiku,rec_3,10,1,Felicia Bond,11,0.8,"[""gorgeous illustrations""]",f,f
+rec,haiku,rec_3,10,1,Andy Greenwald,12,0.8,"[""vibrant beautiful illustrations""]",f,f
+rec,opus,rec_1,8,2,Viking,1,1.0,"[""prints beautifully"", ""well-made"", ""great value"", ""best paper quality in the mid-range""]",f,f
+rec,opus,rec_1,8,2,HarperCollins,2,1.0,"[""rich saturated printing"", ""sturdy binding"", ""thick matte pages"", ""holds up well to repeated reading""]",f,f
+rec,opus,rec_1,8,2,Penguin,3,1.0,"[""nice heavyweight paper"", ""best paper quality in the mid-range""]",f,f
+rec,opus,rec_1,8,2,Candlewick,4,1.0,"[""best paper quality in the mid-range""]",f,f
+rec,opus,rec_1,8,2,Chronicle,5,1.0,"[""best paper quality in the mid-range""]",f,f
+rec,opus,rec_1,8,2,World of Eric Carle,6,1.0,"[""excellent color reproduction of tissue-paper collages""]",f,f
+rec,opus,rec_2,9,0,Bill Martin Jr.,1,0.95,"[""top-pick"", ""repetitive"", ""predictable"", ""indestructible""]",f,f
+rec,opus,rec_2,9,0,Half Price Books,2,0.95,"[""gold-mines"", ""used-books"", ""affordable""]",f,f
+rec,opus,rec_2,9,0,ThriftBooks.com,2,0.95,"[""gold-mines"", ""used-books"", ""online""]",f,f
+rec,opus,rec_2,9,0,Margaret Wise Brown,3,0.85,"[""soothing"", ""rhythmic"", ""memorizable""]",f,f
+rec,opus,rec_2,9,0,Eric Carle,4,0.85,"[""colorful"", ""interactive"", ""educational""]",f,f
+rec,opus,rec_2,9,0,Hervé Tullet,5,0.9,"[""magical"", ""interactive""]",f,f
+rec,opus,rec_2,9,0,B.J. Novak,6,0.85,"[""entertaining"", ""silly""]",f,f
+rec,opus,rec_2,9,0,Mo Willems,7,0.85,"[""interactive"", ""engaging""]",f,f
+rec,opus,rec_2,9,0,Maurice Sendak,8,0.8,"[""timeless""]",f,f
+rec,opus,rec_2,9,0,Dollar Tree,9,0.7,"[""affordable"", ""budget-friendly""]",f,f
+rec,opus,rec_2,9,0,Goodwill,10,0.8,"[""budget-friendly"", ""used-books""]",f,f
+rec,opus,rec_2,9,0,Facebook,11,0.65,"[""community-based"", ""local""]",f,f
+rec,sonnet,rec_3,6,1,Enchanted Lion Books,1,0.95,"[""small independent press"", ""imports genuinely literary picture books"", ""printed in Europe"", ""high standards"", ""sewn bindings"", ""quality stock"", ""catalog depth""]",f,f
+rec,sonnet,rec_3,6,1,Floris Books,2,0.95,"[""ethical commitments"", ""environmental commitments"", ""FSC-certified paper standard"", ""specializes in Elsa Beskow"", ""Waldorf-adjacent nature titles"", ""exceptional physical durability""]",f,f
+rec,sonnet,rec_3,6,1,Phaidon Press,3,0.9,"[""museum-quality production"", ""heavy paper stock"", ""archival binding"", ""art-focused children's books""]",f,f
+rec,sonnet,rec_3,6,1,Tundra Books,4,0.9,"[""strong sustainability commitments"", ""FSC-certified standard"", ""diverse contemporary voices"", ""lasting literary merit""]",f,f
+rec,sonnet,rec_3,6,1,Groundwood Books,5,0.9,"[""strong sustainability commitments"", ""FSC-certified standard"", ""diverse contemporary voices"", ""lasting literary merit""]",f,f
+versus,haiku,versus_where_the_wild_things_are,9,0,The Very Hungry Caterpillar,1,0.95,"[""simple and repetitive story"", ""bright and colorful illustrations"", ""interactive die-cut holes"", ""sturdy board book"", ""toddler-proof"", ""engaging without overstimulation"", ""short reading time"", ""captivates young children"", ""tactile elements"", ""age-appropriate for 2-year-olds""]",t,f
+versus,haiku,versus_where_the_wild_things_are,9,0,Where the Wild Things Are,2,0.55,"[""wonderful"", ""complex story"", ""emotionally nuanced"", ""requires sustained attention"", ""potentially scary for toddlers"", ""beautiful illustrations"", ""less interactive"", ""better suited for ages 3-4+""]",f,t
+rec,sonnet,rec_1,9,1,Eric Carle,1,1.0,"[""bright"", ""tactile"", ""educational""]",f,f
+rec,sonnet,rec_1,9,1,Margaret Wise Brown,2,1.0,"[""calm"", ""rhythmic"", ""bedtime staple""]",f,f
+rec,sonnet,rec_1,9,1,Bill Martin Jr.,3,1.0,"[""repetitive"", ""engaging""]",f,f
+rec,sonnet,rec_1,9,1,Karma Wilson,4,1.0,"[""cozy"", ""rhyming""]",f,f
+rec,sonnet,rec_1,9,1,Hervé Tullet,5,1.0,"[""interactive"", ""visually stunning""]",f,f
+rec,sonnet,rec_1,9,1,Adam Rubin,6,1.0,"[""humorous"", ""engaging for kids and adults""]",f,f
+rec,sonnet,rec_1,9,1,Anna Dewdney,7,1.0,"[""emotionally resonant"", ""addresses separation anxiety"", ""sweet""]",f,f
+rec,sonnet,rec_1,9,1,Drew Daywalt,8,1.0,"[""humorous illustrations"", ""great for older toddlers""]",f,f
+rec,sonnet,rec_1,9,1,Pete the Cat,9,1.0,"[""cool art style"", ""catchy"", ""rereadable""]",f,f
+rec,sonnet,rec_1,9,1,ThriftBooks,,0.6,"[""affordable"", ""good condition books""]",f,f
+rec,sonnet,rec_1,9,1,AbeBooks,,0.6,"[""affordable"", ""good condition books""]",f,f
+rec,sonnet,rec_1,9,1,Target,,0.6,"[""affordable"", ""convenient"", ""dollar spot""]",f,f
+rec,sonnet,rec_1,9,1,Dollar Tree,,0.6,"[""affordable"", ""accessible""]",f,f
+rec,sonnet,rec_1,9,1,Amazon,,0.6,"[""convenient"", ""used option available""]",f,f
+rec,sonnet,rec_1,6,0,Candlewick Press,1,0.9,"[""FSC-certified stock"", ""well-sewn bindings"", ""US arm of Walker Books""]",f,f
+rec,sonnet,rec_1,6,0,Greystone Kids,2,0.9,"[""Canadian independent"", ""FSC-certified"", ""high production standards""]",f,f
+rec,sonnet,rec_1,6,0,Chronicle Books,3,0.8,"[""strong sustainability commitments"", ""art-forward production""]",f,f
+rec,sonnet,rec_1,6,0,Enchanted Lion Books,4,0.95,"[""small New York press"", ""FSC-certified"", ""European aesthetic sensibility"", ""extraordinary taste"", ""imports and translates European picture books"", ""curated selection""]",f,f
+rec,sonnet,rec_1,6,0,NorthSouth Books,5,0.85,"[""Swiss-American publisher"", ""printed in Germany/Belgium"", ""high production values"", ""old master aesthetic""]",f,f
+rec,sonnet,rec_1,6,0,Flying Eye Books / Nobrow,6,0.8,"[""London-based"", ""uses FSC paper"", ""bold visual design choices"", ""distinctive art direction""]",f,f
+rec,sonnet,rec_1,6,0,Beach Lane/S&S,7,0.7,[],f,f
+rec,sonnet,rec_1,6,0,Clarion/HMH,8,0.75,[],f,f
+rec,sonnet,rec_1,6,0,Philomel,9,0.7,[],f,f
+rec,sonnet,rec_3,6,0,Enchanted Lion Books,1,0.9,"[""beautifully made"", ""quality paper stock"", ""attention to typography"", ""small press"", ""translated European originals""]",f,f
+rec,sonnet,rec_3,6,0,Candlewick Press,2,0.85,"[""B Corp certified"", ""FSC paper standard"", ""carbon-offset printing""]",f,f
+rec,sonnet,rec_3,6,0,NYRB Children's Collection,3,0.85,"[""reproduces overlooked classics"", ""high production quality"", ""attention to original art""]",f,f
+rec,sonnet,rec_3,6,0,Phaidon,4,0.8,"[""art-forward production"", ""heavy paper stock"", ""sewn bindings""]",f,f
+rec,sonnet,rec_3,6,0,HarperCollins,,0.7,"[""produces authoritative editions""]",f,f
+rec,sonnet,rec_3,6,0,Usborne,,-0.1,"[""publishes art reference materials""]",f,f
+rec,haiku,rec_1,5,2,Margaret Wise Brown,1,1.0,"[""short"", ""rhythmic"", ""calming"", ""extremely durable"", ""board book""]",f,f
+rec,haiku,rec_1,5,2,Eric Carle,2,1.0,"[""sturdy"", ""bright colors"", ""tactile"", ""board book""]",f,f
+rec,haiku,rec_1,5,2,Bill Martin Jr.,3,1.0,"[""repetitive"", ""engaging"", ""tough board editions""]",f,f
+rec,haiku,rec_1,5,2,Rod Campbell,4,1.0,"[""lift-the-flap"", ""durable"", ""fun""]",f,f
+rec,haiku,rec_1,5,2,Maurice Sendak,5,1.0,"[""timeless"", ""board book edition available""]",f,f
+rec,haiku,rec_1,5,2,Shel Silverstein,6,1.0,"[""timeless"", ""sturdy""]",f,f
+rec,haiku,rec_1,5,2,Robert McCloskey,7,1.0,"[""beautiful illustrations"", ""reads aloud wonderfully""]",f,f
+rec,haiku,rec_1,5,2,Don Freeman,8,1.0,"[""touching story"", ""board book available""]",f,f
+rec,haiku,rec_1,5,2,Esphyr Slobodkina,9,1.0,"[""engaging"", ""repetitive""]",f,f
+rec,haiku,rec_1,5,2,Ezra Jack Keats,10,1.0,"[""simple"", ""beautiful"", ""soothing for bedtime""]",f,f
+rec,sonnet,rec_1,6,2,Candlewick Press,1,1.0,"[""FSC-certified paper"", ""high-quality printing"", ""reliably excellent production quality"", ""sewn bindings""]",f,f
+rec,sonnet,rec_1,6,2,Chronicle Books,2,1.0,"[""FSC-certified paper"", ""high-quality printing"", ""excellent paper quality"", ""excellent production values""]",f,f
+rec,sonnet,rec_1,6,2,Enchanted Lion Books,3,1.0,"[""FSC-certified paper"", ""high-quality printing"", ""small Brooklyn press"", ""treats every book as an art object"", ""sewn bindings""]",f,f
+rec,sonnet,rec_1,6,2,Harry N. Abrams,4,1.0,"[""known for superb print quality""]",f,f
+rec,sonnet,rec_1,6,2,Tundra Books,5,1.0,"[""FSC-certified paper"", ""high-quality printing""]",f,f
+rec,sonnet,rec_1,6,2,Prestel,6,1.0,"[""FSC-certified paper"", ""high-quality printing""]",f,f
+rec,sonnet,rec_1,6,2,Viking,7,0.85,"[""handsomely produced""]",f,f
+rec,sonnet,rec_1,6,2,Powell's,8,0.8,"[""independent bookshop"", ""beautiful wrapping"", ""can order specific editions""]",f,f
+rec,sonnet,rec_1,6,2,Bookshop.org,9,0.8,"[""independent bookshop"", ""beautiful wrapping"", ""can order specific editions""]",f,f
+rec,sonnet,rec_1,6,2,Dial Books,,0.0,[],f,f
+rec,sonnet,rec_1,6,2,Feiwel & Friends,,0.0,[],f,f
+rec,sonnet,rec_1,6,2,Clarion Books,,0.0,[],f,f
+rec,sonnet,rec_1,6,2,"Farrar, Straus and Giroux",,0.0,[],f,f
+rec,sonnet,rec_1,6,2,Schwartz & Wade,,0.0,[],f,f
+rec,sonnet,rec_1,6,2,HarperCollins,,0.0,[],f,f
+rec,opus,rec_3,6,2,Enchanted Lion Books,1,1.0,"[""small"", ""independent"", ""exceptional physical quality"", ""curated translations"", ""archival paper"", ""ages beautifully""]",f,f
+rec,opus,rec_3,6,2,Candlewick Press,2,0.95,"[""FSC-certified"", ""employee-owned"", ""sustainability-minded"", ""beautifully bound""]",f,f
+rec,opus,rec_3,6,2,Frederick Warne,3,0.95,"[""traditional cloth bindings"", ""exquisite"", ""durable"", ""authorized editions""]",f,f
+rec,opus,rec_3,6,2,Flying Eye Books,4,0.9,"[""beautiful production"", ""FSC-certified""]",f,f
+rec,opus,rec_3,6,2,Nobrook,5,0.9,"[""beautiful production"", ""FSC-certified""]",f,f
+rec,opus,rec_3,6,2,Hamish Hamilton,6,0.92,"[""heirloom-grade production"", ""oversewn""]",f,f
+rec,opus,rec_3,6,2,Anansi,7,0.92,"[""heirloom-grade production"", ""oversewn""]",f,f
+rec,opus,rec_3,6,2,Chronicle Books,8,0.88,"[""FSC-certified paper"", ""stunning""]",f,f
+rec,opus,rec_3,6,2,HarperCollins,9,0.85,"[""sewn-bound"", ""heavy stock"", ""sturdy""]",f,f
+rec,opus,rec_3,6,2,"Little, Brown",10,0.85,"[""beautifully produced""]",f,f
+rec,opus,rec_3,6,2,Viking,11,0.85,"[""well-made"", ""FSC-certified paper""]",f,f
+rec,opus,rec_3,6,2,Keats Foundation,12,0.82,"[""handsome editions""]",f,f
+rec,opus,rec_3,6,2,Penguin Random House,13,0.8,"[""hardcover""]",f,f
+rec,opus,rec_3,6,2,Penguin,14,0.8,"[""hardcover""]",f,f
+rec,opus,rec_3,6,2,Macmillan,15,0.8,"[""solidly made""]",f,f
+rec,opus,rec_3,6,2,Putnam,16,0.75,"[""hardcover""]",f,f
+rec,haiku,rec_3,10,0,The Day the Crayons Quit,1,0.95,"[""classic"", ""must-own"", ""signed editions"", ""sought-after""]",f,f
+rec,haiku,rec_3,10,0,Dragons Love Tacos,2,0.95,"[""classic"", ""early signed copies"", ""must-own"", ""premium""]",f,f
+rec,haiku,rec_3,10,0,Pete the Cat,3,0.95,"[""classic"", ""hardcover"", ""must-own"", ""original"", ""signed""]",f,f
+rec,haiku,rec_3,10,0,The Tale of Despereaux,4,0.85,"[""illustrated"", ""literary"", ""signed""]",f,f
+rec,haiku,rec_3,10,0,Where the Wild Things Are,5,0.85,"[""anniversary edition"", ""literary"", ""signed""]",f,t
+rec,haiku,rec_3,10,0,Charlotte's Web,6,0.85,"[""deluxe"", ""illustrated"", ""literary""]",f,f
+rec,haiku,rec_3,10,0,Caldecott Medal,7,0.85,"[""award-winning"", ""illustrated"", ""limited edition"", ""prestige"", ""slipcase""]",f,f
+rec,haiku,rec_3,10,0,Guess How Much I Love You,8,0.85,"[""gift edition"", ""prestige"", ""special edition""]",f,f
+rec,haiku,rec_3,10,0,The Giving Tree,9,0.85,"[""original"", ""prestige""]",f,f
+rec,haiku,rec_3,10,0,Corduroy,10,0.85,"[""anniversary edition"", ""hardcover"", ""prestige""]",f,f
+rec,haiku,rec_3,10,0,The Paper Dolls,11,0.75,"[""contemporary"", ""investment-grade""]",f,f
+rec,haiku,rec_3,10,0,Stick Man,12,0.75,"[""contemporary"", ""investment-grade"", ""signed""]",f,f
+rec,haiku,rec_3,10,0,Chris Van Allsburg,13,0.75,"[""contemporary"", ""investment-grade"", ""limited printings"", ""signed""]",f,f
+rec,opus,rec_3,10,1,Maurice Sendak,1,1.0,"[""crown jewel"", ""scarce"", ""prestigious"", ""highest priority collectible""]",f,f
+rec,opus,rec_3,10,1,Eric Carle,2,0.8,"[""rare signed copies"", ""Japanese first edition"", ""challenging to authenticate""]",f,f
+rec,opus,rec_3,10,1,Chris Van Allsburg,3,0.95,"[""Caldecott winner"", ""beautifully designed"", ""prestigious"", ""sleeper collectibles""]",f,f
+rec,opus,rec_3,10,1,Shaun Tan,4,0.95,"[""wordless masterpiece"", ""deluxe editions available"", ""artistic merit""]",f,f
+rec,opus,rec_3,10,1,Folio Society,5,0.9,"[""prestige"", ""classic illustrated works"", ""beautifully designed"", ""special format editions""]",f,f
+rec,opus,rec_3,10,1,Brian Selznick,6,0.85,"[""designed as art objects"", ""beautifully designed"", ""artistic merit""]",f,f
+rec,opus,rec_3,10,1,Oliver Jeffers,7,0.85,"[""frequently signs at events"", ""accessible"", ""actively marketed""]",f,f
+rec,opus,rec_3,10,1,Mo Willems,8,0.85,"[""climbing in value"", ""investment potential"", ""series collectible""]",f,f
+rec,opus,rec_3,10,1,Jon Klassen,9,0.85,"[""accessible signed copies"", ""appreciating in value"", ""trilogy collectible""]",f,f
+rec,opus,rec_3,10,1,Matt de la Peña,10,0.8,"[""Caldecott winner"", ""contemporary""]",f,f
+rec,opus,rec_3,10,1,Christian Robinson,11,0.8,"[""Caldecott winner"", ""illustrator""]",f,f
+rec,opus,rec_3,10,1,Philip Stead,12,0.8,"[""Caldecott winner"", ""co-creator""]",f,f
+rec,opus,rec_3,10,1,Erin Stead,13,0.8,"[""Caldecott winner"", ""co-creator""]",f,f
+rec,opus,rec_3,10,1,Sophie Blackall,14,0.8,"[""Caldecott winner"", ""illustrator""]",f,f
+rec,opus,rec_3,10,1,Andrea Wang,15,0.8,"[""Caldecott winner"", ""author""]",f,f
+rec,opus,rec_3,10,1,Jason Chin,16,0.8,"[""Caldecott winner"", ""illustrator""]",f,f
+rec,opus,rec_3,10,1,Jerry Pinkney,17,0.85,"[""Caldecott winner"", ""wordless"", ""underrated"", ""good value""]",f,f
+rec,opus,rec_3,10,1,David Wiesner,18,0.85,"[""three-time Caldecott winner"", ""wordless"", ""underrated"", ""good value""]",f,f
+rec,opus,rec_3,10,1,Beatrice Alemagna,19,0.8,"[""European editions"", ""original language editions""]",f,f
+rec,opus,rec_3,10,1,Jon Agee,20,0.8,"[""underrated"", ""good value""]",f,f
+rec,opus,rec_3,10,1,Heritage Auctions,,0.8,"[""reputable dealer"", ""auction house""]",f,f
+rec,opus,rec_3,10,1,Peter Harrington,,0.8,"[""reputable dealer"", ""rare books specialist""]",f,f
+rec,opus,rec_3,10,1,Aleph-Bet Books,,0.85,"[""specializes in children's books"", ""reputable dealer""]",f,f
+rec,opus,rec_3,10,1,Books of Wonder,,0.85,"[""hosts signings"", ""independent bookstore"", ""NYC location""]",f,f
+rec,opus,rec_3,10,1,Once Upon a Time,,0.85,"[""hosts signings"", ""independent bookstore"", ""LA location""]",f,f
+rec,opus,rec_3,10,1,ABAA,,0.8,"[""credentialing organization"", ""quality criterion for dealers""]",f,f
+rec,haiku,rec_3,6,1,Macmillan,,1.0,"[""quality publisher"", ""library-quality hardcover editions""]",f,f
+rec,haiku,rec_3,6,1,Candlewick Press,,1.0,"[""quality publisher"", ""library-quality hardcover editions""]",f,f
+rec,haiku,rec_3,6,1,Walker Books,,1.0,"[""quality publisher"", ""library-quality hardcover editions""]",f,f
+rec,opus,rec_1,7,1,Oxfam Books,1,0.95,"[""best children's selections""]",f,f
+rec,opus,rec_1,7,1,Barnardo's,1,0.95,"[""best children's selections""]",f,f
+rec,opus,rec_1,7,1,British Heart Foundation,1,0.95,"[""best children's selections""]",f,f
+rec,opus,rec_1,7,1,National Trust,2,0.8,"[""budget bundles"", ""3 for £1 deals""]",f,f
+rec,opus,rec_1,7,1,The Works,3,0.9,"[""newer hardbacks"", ""affordable pricing""]",f,f
+rec,opus,rec_2,10,2,Caldecott Medal,1,1.0,"[""award-winning"", ""canonical"", ""American standard""]",f,f
+rec,opus,rec_2,10,2,Kate Greenaway Medal,2,1.0,"[""award-winning"", ""prestigious""]",f,f
+rec,opus,rec_2,10,2,Carnegie Medal,3,1.0,"[""award-winning"", ""prestigious""]",f,f
+rec,opus,rec_2,10,2,Smarties Prize,4,1.0,"[""award-winning""]",f,f
+rec,opus,rec_2,10,2,Newbery,5,1.0,"[""award-winning"", ""prestigious""]",f,f
+rec,opus,rec_2,10,2,Stonewall Book Award,6,1.0,"[""award-winning"", ""LGBTQ-affirming""]",f,f
+rec,opus,rec_2,10,2,Asian/Pacific American Award,7,1.0,"[""award-winning"", ""diversity-focused""]",f,f
+perception,haiku,perception_3,7,0,Eric Carle,1,0.9,"[""vibrant"", ""engaging""]",f,f
+rec,haiku,rec_3,5,2,Ingram,1,0.8,"[""reinforced bindings"", ""better paper quality""]",f,f
+rec,haiku,rec_1,8,0,Rod Campbell,1,1.0,"[""interactive"", ""lift-the-flap"", ""bright"", ""engaging"", ""sturdy pages"", ""repetitive learning""]",f,f
+rec,haiku,rec_1,8,0,Eric Carle,2,1.0,"[""iconic"", ""colorful"", ""die-cut pages"", ""excellent paper quality"", ""striking"", ""collage art""]",f,f
+rec,haiku,rec_1,8,0,Don Freeman,3,1.0,"[""warm"", ""pencil and watercolor illustrations"", ""sweet"", ""simple story"", ""emotional depth""]",f,f
+rec,haiku,rec_1,8,0,James Dean,4,1.0,"[""groovy"", ""bold colors"", ""durable""]",f,f
+rec,haiku,rec_1,8,0,Bill Martin Jr.,5,1.0,"[""predictable rhythm""]",f,f
+rec,haiku,rec_1,8,0,Maurice Sendak,6,1.0,"[""classic"", ""lush"", ""imaginative illustrations"", ""durable""]",f,f
+rec,haiku,rec_1,8,0,Sam McBratney,7,1.0,"[""soft"", ""warm illustrations"", ""touching message about love""]",f,f
+rec,haiku,rec_1,8,0,Anita Jeram,,1.0,"[""soft"", ""warm illustrations""]",f,f
+rec,haiku,rec_3,9,0,Rod Campbell,1,1.0,"[""bright"", ""colorful"", ""lift-the-flap"", ""bold"", ""vibrant"", ""fun rhythm""]",f,f
+rec,haiku,rec_3,9,0,Bill Martin Jr.,2,1.0,"[""colorful"", ""predictable"", ""catchy"", ""bold""]",f,f
+rec,haiku,rec_3,9,0,Eric Carle,3,1.0,"[""iconic"", ""die-cut"", ""jewel-toned"", ""simple"", ""engaging""]",f,f
+rec,haiku,rec_3,9,0,Hervé Tullet,4,1.0,"[""interactive"", ""bright"", ""simple"", ""participatory""]",f,f
+rec,haiku,rec_3,9,0,David McKee,5,1.0,"[""patchwork"", ""brilliant"", ""rainbow"", ""visually fascinating""]",f,f
+rec,haiku,rec_3,9,0,Marcus Pfister,6,1.0,"[""shimmering"", ""colorful"", ""iridescent"", ""underwater""]",f,f
+rec,haiku,rec_3,9,0,Shout Out Loud!,7,1.0,"[""bold"", ""interactive""]",f,f
+rec,haiku,rec_3,9,0,Richard Scarry,8,1.0,"[""densely packed"", ""detailed"", ""colorful""]",f,f
+rec,haiku,rec_1,5,0,Where the Wild Things Are,1,1.0,"[""adventurous"", ""imaginative"", ""durable""]",f,t
+rec,haiku,rec_1,5,0,The Very Hungry Caterpillar,2,1.0,"[""colorful"", ""tactile"", ""nearly indestructible""]",t,f
+rec,haiku,rec_1,5,0,Goodnight Moon,3,1.0,"[""perfect for bedtime routines"", ""simple text""]",f,t
+rec,haiku,rec_1,5,0,"Brown Bear, Brown Bear, What Do You See?",4,1.0,"[""rhythmic"", ""engaging""]",f,f
+rec,haiku,rec_1,5,0,Pat the Bunny,5,1.0,"[""touchable elements"", ""engaging""]",f,f
+rec,haiku,rec_1,5,0,The Cat in the Hat,6,1.0,"[""energetic"", ""tough""]",f,f
+rec,haiku,rec_1,5,0,Corduroy,7,1.0,"[""sweet"", ""gentle"", ""durable""]",f,f
+rec,haiku,rec_1,5,0,Make Way for Ducklings,8,1.0,"[""charming illustrations""]",f,f
+rec,sonnet,rec_2,8,0,Tara Books,1,0.95,"[""handmade"", ""screen-printed"", ""collector-worthy"", ""archival-quality"", ""indie publisher"", ""folk art traditions""]",f,f
+rec,sonnet,rec_2,8,0,Enchanted Lion Books,2,0.95,"[""indie publisher"", ""design-focused"", ""collector-worthy""]",f,f
+rec,sonnet,rec_2,8,0,Viking,3,0.9,"[""lithograph preservation"", ""design excellence"", ""publisher discipline"", ""fine linework quality"", ""color fidelity""]",f,f
+rec,sonnet,rec_2,8,0,Candlewick Press,4,0.85,"[""outstanding color work"", ""rich jewel tones"", ""ink consistency"", ""color mood management""]",f,f
+rec,sonnet,rec_2,8,0,Clarion,5,0.85,"[""excellent color reproduction"", ""precise cyan/teal palette reproduction""]",f,f
+rec,sonnet,rec_2,8,0,Phaidon,6,0.85,"[""thick boards"", ""rounded corners"", ""matte laminate"", ""scratch-resistant"", ""art object design""]",f,f
+rec,sonnet,rec_2,8,0,HarperCollins,7,0.8,"[""die-cut engineering"", ""tight hole registration"", ""heavy board stock"", ""superior anniversary editions"", ""rich ink saturation"", ""premium paper weight""]",f,f
+rec,sonnet,rec_2,8,0,Simon & Schuster,8,0.8,"[""heavy stock"", ""careful color handling"", ""tropical color retention"", ""palette fidelity""]",f,f
+rec,sonnet,rec_2,8,0,Houghton Mifflin,9,0.8,"[""superior printing quality"", ""fine detail preservation"", ""pastel pencil work preservation""]",f,f
+rec,sonnet,rec_2,8,0,Farrar Straus,10,0.75,"[""beautiful ink depth"", ""superior hardcover quality""]",f,f
+rec,sonnet,rec_2,8,0,Mondadori,11,0.75,"[""superior color fidelity"", ""European printing quality""]",f,f
+rec,sonnet,rec_2,8,0,Golden Books,12,0.75,"[""heavier stock"", ""secure tactile binding"", ""improved durability in newer editions""]",f,f
+rec,haiku,rec_1,9,0,Rod Campbell,1,0.9,"[""interactive"", ""lift-the-flap"", ""hilarious"", ""repetitive""]",f,f
+rec,haiku,rec_1,9,0,Sam McBratney,2,0.9,"[""sweet"", ""rhythmic"", ""lovable""]",f,f
+rec,haiku,rec_1,9,0,Eric Carle,3,0.95,"[""iconic"", ""textured""]",f,f
+rec,haiku,rec_1,9,0,Margaret Wise Brown,4,0.9,"[""soothing"", ""bedtime-friendly""]",f,f
+rec,haiku,rec_1,9,0,Sandra Boynton,5,0.95,"[""sound effects"", ""toddler-friendly"", ""hilarious""]",f,f
+rec,haiku,rec_1,9,0,Leo Lionni,6,0.9,"[""simple"", ""beautiful"", ""teaches colors""]",f,f
+rec,haiku,rec_1,9,0,Bill Martin Jr.,7,0.9,"[""pattern-based"", ""rhythmic"", ""engaging""]",f,f
+rec,haiku,rec_1,9,0,Don Freeman,8,0.9,"[""sweet"", ""great illustrations""]",f,f
+rec,haiku,rec_1,9,0,ThriftBooks,,0.75,"[""affordable"", ""accessible"", ""secondhand""]",f,f
+rec,sonnet,rec_1,10,0,Turtleback,1,1.0,"[""durable"", ""library bindings"", ""reinforced"", ""widely available""]",f,f
+rec,sonnet,rec_1,10,0,Bound to Last,2,1.0,"[""durable"", ""library bindings"", ""reinforced"", ""widely available""]",f,f
+rec,sonnet,rec_1,10,0,Amazon,3,0.7,"[""retailer"", ""source for library bindings"", ""accessible""]",f,f
+rec,sonnet,rec_1,10,0,ThriftBooks,4,0.7,"[""retailer"", ""source for library bindings"", ""accessible""]",f,f
+rec,sonnet,rec_1,10,0,AbeBooks,5,0.7,"[""retailer"", ""source for library bindings"", ""accessible""]",f,f
+versus,sonnet,versus_where_the_wild_things_are,6,0,HarperCollins,,0.9,"[""gorgeous"", ""collector's piece"", ""high-quality""]",f,f
+rec,sonnet,rec_3,8,1,Chronicle Books,1,0.9,"[""transparent"", ""publicly documented sustainability commitment"", ""FSC certified"", ""recycled content""]",f,f
+rec,sonnet,rec_3,8,1,Candlewick Press,2,0.85,"[""consistent environmental commitment"", ""frequently FSC certified""]",f,f
+rec,sonnet,rec_3,8,1,Holiday House,3,0.8,"[""formal FSC commitments"", ""well-regarded""]",f,f
+rec,sonnet,rec_3,8,1,Neal Porter Books,3,0.8,"[""formal FSC commitments"", ""well-regarded""]",f,f
+rec,sonnet,rec_3,8,1,Peachtree,3,0.8,"[""formal FSC commitments"", ""well-regarded""]",f,f
+rec,sonnet,rec_3,8,1,Enchanted Lion Books,4,0.75,"[""small independent press"", ""thoughtful production choices""]",f,f
+rec,sonnet,rec_3,8,1,Penguin Random House,,-0.2,"[""large publisher"", ""corporate sustainability goals"", ""variable consistency by imprint"", ""variable consistency by title""]",f,f
+rec,sonnet,rec_3,8,1,HarperCollins,,-0.2,"[""large publisher"", ""corporate sustainability goals"", ""variable consistency by imprint"", ""variable consistency by title""]",f,f
+rec,sonnet,rec_3,8,1,Macmillan,,-0.2,"[""large publisher"", ""corporate sustainability goals"", ""variable consistency by imprint"", ""variable consistency by title""]",f,f
+rec,sonnet,rec_3,8,2,Barefoot Books,1,1.0,"[""eco-conscious families"", ""eco-minded"", ""recycled paper"", ""FSC-certified"", ""environmental mission"", ""consistent practices""]",f,f
+rec,sonnet,rec_3,8,2,Chronicle Books,2,0.9,"[""explicit sustainability program"", ""FSC certification"", ""art-forward""]",f,f
+rec,sonnet,rec_3,8,2,Candlewick Press,3,0.8,"[""FSC-paper commitments""]",f,f
+rec,sonnet,rec_3,8,2,Penguin Random House,4,0.7,"[""large publisher"", ""formal sustainability program"", ""FSC paper on many titles""]",f,f
+rec,sonnet,rec_3,8,2,Random House,,0.7,"[""eco reprint editions""]",f,f
+rec,sonnet,rec_3,8,2,HMH,,0.5,[],f,f
+rec,sonnet,rec_3,8,2,Roaring Brook,,0.5,[],f,f
+rec,sonnet,rec_3,8,2,Harper,,0.5,"[""select editions""]",f,f
+rec,sonnet,rec_3,8,2,Bookshop.org,,0.6,"[""online bookstore"", ""includes sustainability notes""]",f,f
+versus,sonnet,versus_where_the_wild_things_are,5,0,The Very Hungry Caterpillar,,0.95,"[""interactive"", ""educational"", ""simple"", ""short"", ""repetitive"", ""gentle"", ""satisfying"", ""reassuring"", ""memorable"", ""engaging for toddlers""]",t,f
+versus,sonnet,versus_where_the_wild_things_are,5,0,Where the Wild Things Are,,0.95,"[""educational"", ""imaginative"", ""dramatic illustrations"", ""emotionally validating"", ""visually thrilling"", ""explores feelings and emotions"", ""longer narrative""]",f,t
+rec,opus,rec_2,6,2,Enchanted Lion Books,,0.85,"[""quality paper"", ""quality binding"", ""quality printing"", ""honors illustrations""]",f,f
+rec,opus,rec_2,6,2,Candlewick,,0.85,"[""quality paper"", ""quality binding"", ""quality printing"", ""honors illustrations""]",f,f
+rec,opus,rec_2,6,2,Chronicle Books,,0.85,"[""quality paper"", ""quality binding"", ""quality printing"", ""honors illustrations""]",f,f
+rec,haiku,rec_2,8,0,Eric Carle,1,1.0,"[""iconic"", ""die-cut work"", ""bold color separations"", ""durable""]",f,f
+rec,haiku,rec_2,8,0,Robert Sabuda,2,1.0,"[""exceptional"", ""paper engineering"", ""printing precision"", ""pop-up books""]",f,f
+rec,haiku,rec_2,8,0,Jon Klassen,3,1.0,"[""contemporary"", ""exquisite color layering"", ""restraint""]",f,f
+rec,haiku,rec_2,8,0,Robert McCloskey,4,1.0,"[""masterful"", ""color separation"", ""color registration""]",f,f
+rec,haiku,rec_2,8,0,Leo Lionni,5,1.0,"[""innovative"", ""color approach"", ""vibrant""]",f,f
+rec,haiku,rec_2,8,0,Janet Stevens,6,1.0,"[""sophisticated"", ""die-cuts"", ""flaps""]",f,f
+rec,haiku,rec_2,8,0,David Wiesler,7,1.0,"[""luminous"", ""wordless"", ""illustration work""]",f,f
+rec,haiku,rec_2,8,0,Don Freeman,8,1.0,"[""timeless"", ""line work"", ""boards age gracefully""]",f,f
+rec,haiku,rec_2,8,0,Maurice Sendak,9,0.9,"[""superior binding"", ""timeless"", ""edition-dependent quality""]",f,f
+rec,haiku,rec_2,8,0,Kate Greenaway Medal,10,1.0,"[""award"", ""honors illustration excellence"", ""British award""]",f,f
+rec,opus,rec_2,8,0,Frederick Warne,4,0.9,"[""original plates"", ""color-corrected"", ""iconic cloth-textured boards"", ""premium restoration""]",f,f
+rec,opus,rec_2,8,0,"Little, Brown",5,0.9,"[""excellent watercolor reproduction"", ""gorgeous gatefolds"", ""thoughtful design""]",f,f
+perception,sonnet,perception_1,6,0,The Very Hungry Caterpillar,2,0.6,"[""masterly concept integration"", ""seamless narrative arc"", ""innovative format and design"", ""die-cut holes"", ""escalating page sizes"", ""tactile quality"", ""distinctive collage art"", ""tissue-paper collage technique"", ""visual energy"", ""excellent pacing for ages 2-4"", ""builds confidence through repetition"", ""thin prose"", ""loose science"", ""relies heavily on nostalgia"", ""commodified into brand merchandise"", ""landmark rather than masterpiece""]",t,f
+perception,sonnet,perception_1,6,0,Where the Wild Things Are,1,0.85,"[""language works independently of images"", ""greater literary depth""]",f,t
+perception,sonnet,perception_1,6,0,Goodnight Moon,1,0.85,"[""language works independently of images""]",f,t
+perception,sonnet,perception_1,6,0,Owl at Home,1,0.85,"[""greater literary depth""]",f,f
+perception,sonnet,perception_1,6,0,Corduroy,1,0.85,"[""greater literary depth""]",f,f
+rec,haiku,rec_1,10,0,Demco,1,1.0,"[""library binding editions"", ""reinforces spines and pages"", ""investment-worthy for heavy use""]",f,f
+rec,haiku,rec_1,10,0,Perma-Bound,1,1.0,"[""library binding editions"", ""reinforces spines and pages"", ""investment-worthy for heavy use""]",f,f
+perception,opus,perception_3,7,0,Eric Carle,1,0.9,"[""durable"", ""well-made"", ""sturdy"", ""educational"", ""holds resale value"", ""modern classic"", ""survives heavy use""]",f,f
+perception,opus,perception_3,7,0,eBay,,0.0,"[""resale platform"", ""secondhand market""]",f,f
+perception,opus,perception_3,7,0,NCT,,0.0,"[""sales venue"", ""secondhand market""]",f,f
+rec,sonnet,rec_2,6,1,Taschen,1,1.0,"[""beautifully produced editions"", ""worth seeking out""]",f,f
+rec,sonnet,rec_2,6,1,NYRB Children's Collection,2,1.0,"[""beautifully produced editions"", ""worth seeking out""]",f,f
+rec,opus,rec_1,8,1,Viking,1,0.9,"[""quality paper"", ""thick pages"", ""durable"", ""excellent print reproduction"", ""premium construction""]",f,f
+rec,opus,rec_1,8,1,HarperCollins,2,0.85,"[""durable"", ""high-quality construction"", ""withstands repeated use"", ""beautiful reproduction""]",f,f
+rec,opus,rec_1,8,1,Frederick Warne,3,0.8,"[""preserves original art"", ""beautiful reproduction"", ""faithful to original""]",f,f
+versus,opus,versus_the_gruffalo,6,0,Eric Carle,1,0.95,"[""hand-painted tissue collage technique"", ""bold and graphic"", ""tactile and three-dimensional"", ""folk-art aesthetic"", ""iconic"", ""distinctive artistic approach"", ""established heirloom pedigree"", ""cultural significance"", ""sturdy binding"", ""fragile die-cut holes""]",f,f
+versus,opus,versus_the_gruffalo,6,0,Axel Scheffler,2,0.8,"[""detailed pen-and-watercolor style"", ""expressive characters"", ""atmospheric detail"", ""clever visual humor"", ""traditional picture-book craftsmanship"", ""narrative richness"", ""sturdy construction""]",f,f
+versus,opus,versus_the_gruffalo,6,0,Julia Donaldson,2,0.8,"[""rich storytelling"", ""highly rereadable"", ""narrative detail""]",f,f
+versus,opus,versus_the_gruffalo,6,0,Macmillan,,0.75,"[""solid conventional picture-book build"", ""sewn binding"", ""sturdy boards"", ""glossy laminated cover"", ""durable"", ""no fragile elements""]",f,f
+versus,opus,versus_the_gruffalo,6,0,World of Eric Carle,,0.8,"[""well-manufactured"", ""exceptionally durable""]",f,f
+rec,opus,rec_3,5,0,Sandra Boynton,1,1.0,"[""indestructible"", ""durable"", ""humorous"", ""adult-friendly""]",f,f
+rec,opus,rec_3,5,0,Eric Carle,2,1.0,"[""most physically durable"", ""sturdy"", ""visually engaging""]",f,f
+rec,opus,rec_3,5,0,Leslie Patricelli,3,1.0,"[""physically durable""]",f,f
+rec,opus,rec_3,5,0,Julia Donaldson,4,1.0,"[""rhyming"", ""hypnotic"", ""engaging narratives""]",f,f
+rec,opus,rec_3,5,0,Margaret Wise Brown,5,1.0,"[""rhythmic"", ""calming"", ""durable"", ""iconic""]",f,f
+rec,opus,rec_3,5,0,Eric Hill,6,1.0,"[""interactive"", ""durable"", ""sturdy flaps""]",f,f
+rec,opus,rec_3,5,0,Bill Martin Jr.,7,1.0,"[""predictable patterns"", ""engaging for toddlers"", ""encourages independent reading""]",f,f
+rec,opus,rec_3,5,0,Dorothy Kunhardt,8,1.0,"[""tactile"", ""durable"", ""enduring""]",f,f
+rec,opus,rec_3,5,0,Ezra Jack Keats,9,1.0,"[""simple"", ""layered"", ""works across ages""]",f,f
+rec,opus,rec_3,5,0,Maurice Sendak,10,1.0,"[""emotionally engaging"", ""accessible"", ""complex narratives""]",f,f
+rec,opus,rec_3,5,0,Don Freeman,11,1.0,"[""gentle"", ""emotional depth"", ""grows with children""]",f,f
+rec,opus,rec_3,5,0,Robert McCloskey,12,1.0,"[""detailed illustrations"", ""engaging"", ""longer narratives""]",f,f
+rec,opus,rec_3,5,0,Crockett Johnson,13,1.0,"[""imaginative"", ""sparks creativity""]",f,f
+rec,opus,rec_3,5,0,Janet & Allan Ahlberg,14,1.0,"[""interactive"", ""works across ages"", ""literary references""]",f,f
+rec,opus,rec_3,5,0,Beatrix Potter,15,1.0,"[""classic"", ""timeless""]",f,f
+rec,opus,rec_3,5,0,Hervé Tullet,16,1.0,"[""interactive"", ""battery-free"", ""durable""]",f,f
+rec,opus,rec_3,5,0,Mo Willems,17,1.0,"[""humorous"", ""simple art"", ""engaging across ages""]",f,f
+versus,opus,versus_where_the_wild_things_are,6,0,Where the Wild Things Are,1,0.95,"[""emotionally complex"", ""atmospheric"", ""painterly"", ""imaginative"", ""emotionally resonant"", ""lasting heirloom value"", ""grows with child"", ""nostalgic appeal"", ""treasured by children and adults""]",f,t
+versus,opus,versus_where_the_wild_things_are,6,0,The Very Hungry Caterpillar,2,0.85,"[""vibrant"", ""interactive"", ""tactile"", ""joyful"", ""hand-painted collage"", ""die-cut pages"", ""educational"", ""suitable for toddlers"", ""immediate joy""]",t,f
+versus,opus,versus_where_the_wild_things_are,6,0,Folio Society,,0.8,"[""heirloom quality"", ""high-end editions"", ""collector quality""]",f,f
+versus,opus,versus_where_the_wild_things_are,6,0,Caldecott Medal,,0.75,"[""prestigious award"", ""quality indicator"", ""restored artwork"", ""gorgeous color reproduction""]",f,f
+rec,opus,rec_3,10,0,Books of Wonder,1,0.9,"[""specializes in signed first editions"", ""NYC-based expert""]",f,f
+rec,opus,rec_3,10,0,The Folio Society,2,0.9,"[""gorgeous editions"", ""prestige quality"", ""collector-focused""]",f,f
+rec,opus,rec_3,10,0,HarperCollins,3,0.8,"[""anniversary editions"", ""slipcases"", ""multiple classic titles""]",f,f
+rec,opus,rec_3,10,0,Heritage Auctions,4,0.7,"[""high-end"", ""auction house"", ""premium originals""]",f,f
+rec,opus,rec_3,10,0,Houghton Mifflin Harcourt,5,0.8,"[""beautiful slipcased editions"", ""prestige quality""]",f,f
+rec,opus,rec_3,10,0,Powell's Rare Book Room,6,0.7,"[""rare book specialist"", ""Portland-based""]",f,f
+rec,opus,rec_3,10,0,AbeBooks,7,0.7,"[""signed and first edition filters"", ""online marketplace""]",f,f
+perception,sonnet,perception_3,6,0,Eric Carle,1,0.95,"[""iconic"", ""artistic heritage"", ""hand-painted collages"", ""unique""]",f,f
+perception,sonnet,perception_3,6,0,Folio Society,,0.8,"[""premium quality"", ""superior binding craft"", ""superior paper weight"", ""leather-bound"", ""heavyweight acid-free paper""]",f,f
+perception,sonnet,perception_3,6,0,Easton Press,,0.8,"[""premium quality"", ""superior binding craft"", ""superior paper weight""]",f,f
+rec,opus,rec_2,8,0,Chronicle Books,1,0.9,"[""impeccable production"", ""durable to repeated use"", ""vibrant spot colors"", ""quality matte lamination""]",f,f
+rec,opus,rec_2,8,0,Clavis,2,0.85,"[""crisp die-cuts"", ""excellent registration"", ""quality board stock""]",f,f
+rec,opus,rec_2,8,0,Walker Books,3,0.9,"[""superior UK printing"", ""better than US editions""]",f,f
+rec,opus,rec_2,8,0,Houghton Mifflin,6,0.85,"[""heavy uncoated stock"", ""preserves artwork tonality"", ""quality paper stock""]",f,f
+rec,opus,rec_2,8,0,Folio Society,7,0.9,"[""bookbinding-level construction"", ""design objects"", ""premium quality""]",f,f
+rec,opus,rec_2,8,0,Workman,8,0.9,"[""thick board stock"", ""durable construction"", ""child-proof rounded corners""]",f,f
+rec,opus,rec_2,8,0,HarperCollins,9,0.6,"[""color restoration"", ""previous editions substandard"", ""corrected palette""]",f,f
+rec,opus,rec_2,8,0,Taschen,10,0.9,"[""Smyth-sewn binding"", ""heavyweight coated stock"", ""excellent ink density"", ""premium construction""]",f,f
+rec,opus,rec_2,8,0,Enchanted Lion Books,11,0.9,"[""European production values"", ""high-quality translations"", ""visually stunning""]",f,f
+rec,opus,rec_2,8,0,Phaidon,12,0.85,"[""unusual paper stocks"", ""bold Pantone work"", ""design-focused""]",f,f
+rec,opus,rec_2,8,0,NorthSouth Books,13,0.65,"[""Swiss printing excellence"", ""superior foil stamping"", ""original editions preferred over licensed""]",f,f
+rec,opus,rec_2,8,0,Tara Books,14,0.95,"[""handmade editions"", ""silkscreen printing"", ""hand-bound construction"", ""collectible"", ""appreciates in value""]",f,f
+perception,sonnet,perception_1,7,0,Goodnight Moon,1,0.7,"[""hypnotic cadence"", ""sleep-friendly"", ""developmentally appropriate for very young infants""]",f,t
+perception,sonnet,perception_1,7,0,Guess How Much I Love You,2,0.65,"[""emotionally warm"", ""good for bonding"", ""emotional language""]",f,f
+perception,sonnet,perception_1,7,0,The Snuggle Bunny,2,0.65,"[""emotionally warm"", ""good for bonding""]",f,f
+perception,sonnet,perception_1,7,0,Eric Carle,,0.75,"[""collage artist"", ""bold color palette"", ""high-contrast design"", ""saturated colors""]",f,f
+rec,opus,rec_3,8,2,Nosy Crow,1,0.95,"[""UK publisher"", ""FSC-certified paper"", ""carbon-neutral certification""]",f,f
+rec,opus,rec_3,8,2,Walker Books,2,0.8,"[""long-standing FSC commitment"", ""classic titles""]",f,f
+rec,opus,rec_3,8,2,Candlewick,2,0.8,"[""long-standing FSC commitment"", ""classic titles""]",f,f
+rec,opus,rec_3,8,2,Barefoot Books,3,0.9,"[""independent"", ""B Corp certified"", ""FSC paper"", ""soy-based inks""]",f,f
+rec,opus,rec_3,8,2,Flying Eye Books,4,0.85,"[""FSC-certified"", ""beautifully designed""]",f,f
+rec,opus,rec_3,8,2,Tiny Owl Publishing,5,0.9,"[""small"", ""UK-based"", ""independent"", ""FSC paper"", ""diverse stories""]",f,f
+rec,opus,rec_3,8,2,Child's Play,6,0.8,"[""FSC paper"", ""employee-owned""]",f,f
+rec,opus,rec_3,8,2,Magic Cat Publishing,,0.6,"[""FSC-certified""]",f,f
+rec,opus,rec_3,8,2,Quarto,,0.6,"[""FSC-certified""]",f,f
+rec,opus,rec_3,8,2,Frances Lincoln,,0.6,"[""FSC-certified""]",f,f
+rec,opus,rec_3,8,2,Penguin Random House,,0.35,"[""Big Five publisher"", ""FSC paper usage"", ""inconsistent implementation""]",f,f
+rec,opus,rec_3,8,2,HarperCollins,,0.35,"[""Big Five publisher"", ""FSC paper usage"", ""inconsistent implementation""]",f,f
+rec,opus,rec_2,8,2,Enchanted Lion Books,1,0.95,"[""design-conscious"", ""reference-quality"", ""indie publisher"", ""Smyth-sewn bindings"", ""French flaps"", ""thoughtful endpapers""]",f,f
+rec,opus,rec_2,8,2,Candlewick,2,0.85,"[""high production values"", ""outperforms Big Five"", ""impeccable""]",f,f
+rec,opus,rec_2,8,2,Chronicle Books,3,0.85,"[""exceptional matte lamination"", ""exceptional ink registration"", ""outperforms Big Five""]",f,f
+rec,opus,rec_2,8,2,Phaidon,4,0.85,"[""art-focused"", ""treats every book like an art object""]",f,f
+rec,opus,rec_2,8,2,Folio Society,5,0.8,"[""premium"", ""collector-grade"", ""letterpress-printed"", ""cloth-bound"", ""slipcased""]",f,f
+rec,opus,rec_2,8,2,"Little, Brown",6,0.8,"[""gorgeous"", ""rich reproduction"", ""precision"", ""stunning color reproduction"", ""quality stock""]",f,f
+rec,opus,rec_2,8,2,Hodder/Levine,7,0.8,"[""museum-quality"", ""sepia gravure-style printing"", ""quality stock""]",f,f
+rec,opus,rec_2,8,2,Frederick Warne,8,0.75,"[""centennial editions"", ""authentic color separations"", ""original art fidelity""]",f,f
+rec,opus,rec_2,8,2,Penguin,9,0.75,"[""gorgeous hand-lettering reproduction""]",f,f
+rec,opus,rec_2,8,2,Roaring Brook,10,0.7,"[""meticulous"", ""woodblock-and-pencil reproduction""]",f,f
+rec,opus,rec_2,8,2,Putnam,11,0.7,"[""consistent heavy stock"", ""detail preservation""]",f,f
+rec,opus,rec_2,8,2,Feiwel & Friends,12,0.7,"[""technical precision"", ""color excellence""]",f,f
+rec,opus,rec_2,8,2,Doubleday,13,0.7,"[""precision-cut"", ""beautiful registration""]",f,f
+rec,opus,rec_2,8,2,HarperCollins,14,0.65,"[""color restoration"", ""authentic reproduction""]",f,f
+perception,haiku,perception_3,9,0,Target,,0.0,[],f,f
+perception,haiku,perception_3,9,0,Eric Carle,1,0.85,"[""beloved"", ""high-quality"", ""classic"", ""beautiful die-cut illustrations"", ""educational"", ""durable"", ""reasonably priced"", ""excellent""]",f,f
+perception,haiku,perception_3,9,0,The Very Hungry Caterpillar,2,0.7,"[""cultural goodwill"", ""solid""]",t,f
+rec,opus,rec_3,8,0,Barefoot Books,1,1.0,"[""FSC-certified paper"", ""soy-based inks"", ""B Corp certified"", ""best sustainability practices""]",f,f
+rec,opus,rec_3,8,0,Flying Eye Books / Nobrow,2,0.95,"[""FSC-certified"", ""responsibly sourced paper"", ""prints in Latvia or Poland""]",f,f
+rec,opus,rec_3,8,0,Phaidon,3,0.9,"[""FSC-certified paper"", ""strong environmental practices""]",f,f
+rec,opus,rec_3,8,0,Magic Cat Publishing,4,0.9,"[""independent UK publisher"", ""FSC-certified"", ""EU-based printing""]",f,f
+rec,opus,rec_3,8,0,Candlewick Press,5,0.85,"[""generally uses FSC paper"", ""sustainability focus""]",f,f
+rec,opus,rec_3,8,0,Chronicle Books,6,0.85,"[""B Corp"", ""FSC commitments""]",f,f
+rec,opus,rec_3,8,0,Hamish Hamilton,,0.85,"[""FSC-certified paper"", ""strong environmental practices""]",f,f
+rec,opus,rec_3,8,0,Two Hoots,,0.8,"[""FSC-certified"", ""sustainable printing""]",f,f
+rec,opus,rec_3,8,0,"Little, Brown",,0.8,"[""FSC-certified"", ""environmental commitment""]",f,f
+rec,opus,rec_3,8,0,Frances Lincoln,,0.8,"[""FSC-certified"", ""sustainable practices""]",f,f
+rec,opus,rec_3,8,0,World of Books,,0.7,"[""secondhand retailer"", ""near-zero environmental footprint""]",f,f
+rec,opus,rec_3,8,0,ThriftBooks,,0.7,"[""secondhand retailer"", ""sustainable option""]",f,f
+rec,haiku,rec_1,7,1,Dear Zoo,1,0.85,"[""sturdy"", ""flap book"", ""endlessly engaging"", ""interactive""]",f,f
+rec,haiku,rec_1,7,1,The Very Hungry Caterpillar,2,0.95,"[""iconic"", ""interactive"", ""die-cut pages"", ""colorful"", ""tactile"", ""built to last""]",t,f
+rec,haiku,rec_1,7,1,Guess How Much I Love You,3,0.8,"[""sweet"", ""reads beautifully aloud""]",f,f
+rec,haiku,rec_1,7,1,Where the Wild Things Are,4,0.9,"[""gorgeous illustrations"", ""works from toddler years onward""]",f,t
+rec,haiku,rec_1,7,1,Pat the Bunny,5,0.85,"[""interactive"", ""textured"", ""babies love the textures""]",f,f
+rec,haiku,rec_1,7,1,"Brown Bear, Brown Bear, What Do You See?",6,0.85,"[""rhythm and pattern"", ""great for language development""]",f,f
+rec,haiku,rec_1,7,1,The Tale of Peter Rabbit,7,0.85,"[""beautiful illustrations"", ""timeless storytelling""]",f,f
+rec,haiku,rec_1,7,1,Wind in the Willows,8,0.75,"[""grows with them"", ""illustrated editions""]",f,f
+rec,opus,rec_1,7,0,Usborne,1,0.9,"[""touch-and-feel books"", ""often in clearance bins""]",f,f
+rec,opus,rec_1,7,0,NCT,2,0.85,"[""nearly-new sales"", ""unbeatable for bulk book buying""]",f,f
+perception,opus,perception_1,5,0,Eric Carle,1,0.7,"[""pedagogically excellent"", ""visually distinctive"", ""textured tissue-paper collage"", ""recognizable"", ""good for read-alouds"", ""well-designed learning object""]",f,f
+perception,opus,perception_1,5,0,Don't Let the Pigeon Drive the Bus,2,0.8,"[""funny"", ""surprising"", ""excellent reread value"", ""better for 4-5 year olds""]",f,f
+perception,opus,perception_1,5,0,The Gruffalo,2,0.8,"[""funny"", ""surprising"", ""excellent reread value"", ""better for 4-5 year olds""]",f,t
+rec,opus,rec_1,9,1,Costco,,0.75,"[""offers hardcover bestsellers"", ""affordable prices""]",f,f
+rec,opus,rec_1,9,1,Book Outlet,,0.8,"[""online retailer"", ""big discounts"", ""overstock inventory""]",f,f
+rec,opus,rec_1,9,1,Half Price Books,,0.85,"[""used books"", ""great selection""]",f,f
+rec,sonnet,rec_2,5,0,Kadir Nelson,,1.0,"[""illustrator"", ""stunning"", ""Black artist""]",f,f
+rec,sonnet,rec_2,5,0,Bryan Collier,,1.0,"[""illustrator"", ""stunning"", ""Black artist""]",f,f
+rec,sonnet,rec_2,5,0,Ekua Holmes,,1.0,"[""illustrator"", ""stunning"", ""Black artist""]",f,f
+rec,sonnet,rec_2,5,0,Ezra Jack Keats,,1.0,"[""groundbreaking"", ""beautiful"", ""illustrator"", ""book series""]",f,f
+rec,sonnet,rec_2,5,2,Sulwe,1,1.0,"[""skin tone"", ""self-love""]",f,f
+rec,sonnet,rec_2,5,2,Hair Love,2,1.0,"[""natural hair"", ""father-daughter bond""]",f,f
+rec,sonnet,rec_2,5,2,The Proudest Blue,3,1.0,"[""multicultural families""]",f,f
+rec,sonnet,rec_2,5,2,I Am Enough,4,1.0,"[""identity"", ""pride""]",f,f
+rec,sonnet,rec_2,5,2,Moses: When Harriet Tubman Led Her People to Freedom,5,1.0,"[""Harriet Tubman"", ""freedom"", ""history""]",f,f
+rec,sonnet,rec_2,5,2,Before She Was Harriet,6,1.0,"[""Harriet Tubman"", ""history""]",f,f
+rec,sonnet,rec_2,5,2,Ron's Big Mission,7,1.0,"[""Ron McNair"", ""library access""]",f,f
+rec,sonnet,rec_2,5,2,Sit-In: How Four Friends Stood Up by Sitting Down,8,1.0,"[""activism"", ""civil rights""]",f,f
+rec,sonnet,rec_2,5,2,Last Stop on Market Street,9,1.0,"[""everyday joy"", ""community""]",f,f
+rec,sonnet,rec_2,5,2,Tar Beach,10,1.0,"[""everyday joy"", ""community""]",f,f
+rec,sonnet,rec_2,5,2,The Other Side,11,1.0,"[""everyday joy"", ""community""]",f,f
+rec,sonnet,rec_2,5,2,Uptown,12,1.0,"[""everyday joy"", ""community""]",f,f
+rec,sonnet,rec_2,5,2,Antiracist Baby,13,1.0,"[""antiracism"", ""Black celebration""]",f,f
+rec,sonnet,rec_2,5,2,Chocolate Me!,14,1.0,"[""Black celebration""]",f,f
+rec,sonnet,rec_2,5,2,Goodnight Moon,15,1.0,"[""classic"", ""timeless""]",f,t
+rec,sonnet,rec_2,5,2,Where the Wild Things Are,16,1.0,"[""classic"", ""timeless""]",f,t
+rec,sonnet,rec_2,5,2,The Very Hungry Caterpillar,17,1.0,"[""classic"", ""timeless""]",t,f
+rec,sonnet,rec_2,5,2,Corduroy,18,1.0,"[""classic"", ""timeless""]",f,f
+rec,sonnet,rec_2,5,2,Stellaluna,19,1.0,"[""classic"", ""timeless""]",f,f
+rec,sonnet,rec_2,5,2,The Snowy Day,20,1.0,"[""classic"", ""timeless"", ""pioneering Black representation"", ""bridge book""]",f,f
+rec,sonnet,rec_2,5,2,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",21,1.0,"[""classic"", ""timeless""]",f,f
+rec,sonnet,rec_2,5,2,Owl Moon,22,1.0,"[""classic"", ""timeless"", ""bedtime""]",f,f
+rec,sonnet,rec_2,5,2,Jacqueline Woodson,,1.0,"[""large catalog"", ""quality marker""]",f,f
+rec,sonnet,rec_2,5,2,Bryan Collier,,1.0,"[""large catalog"", ""quality marker""]",f,f
+rec,sonnet,rec_2,5,2,Andrea Davis Pinkney,,1.0,"[""large catalog"", ""quality marker""]",f,f
+rec,sonnet,rec_2,5,2,Caldecott,,1.0,"[""reliable quality marker"", ""award""]",f,f
+rec,sonnet,rec_2,5,2,Coretta Scott King Award,,1.0,"[""reliable quality marker"", ""award""]",f,f
+versus,opus,versus_goodnight_moon,5,0,Goodnight Moon,1,0.95,"[""designed to wind kids down"", ""soothing"", ""lullaby-like cadence"", ""repetitive"", ""sleep cue signal"", ""muted illustrations"", ""darkening room signals sleep"", ""works across age range""]",f,t
+versus,opus,versus_goodnight_moon,5,0,The Very Hungry Caterpillar,3,0.45,"[""wonderful"", ""energizing"", ""educational"", ""bright collage art"", ""sparks conversation"", ""great for daytime learning"", ""not ideal for settling down""]",t,f
+versus,opus,versus_goodnight_moon,5,0,Guess How Much I Love You,2,0.75,"[""pairs beautifully"", ""bedtime staple"", ""rotation option""]",f,f
+rec,opus,rec_1,10,2,Live Oak Media,1,1.0,"[""library edition publisher"", ""durable construction"", ""sewn bindings"", ""reinforced covers""]",f,f
+rec,opus,rec_1,10,2,Perma-Bound,2,1.0,"[""library edition publisher"", ""durable construction"", ""sewn bindings"", ""reinforced covers""]",f,f
+rec,opus,rec_1,10,2,Turtleback,3,1.0,"[""library edition publisher"", ""durable construction"", ""sewn bindings"", ""reinforced covers""]",f,f
+rec,haiku,rec_1,9,1,Amazon,1,0.7,"[""used book marketplace"", ""online retail""]",f,f
+rec,haiku,rec_1,9,1,ThriftBooks,1,0.7,"[""used book marketplace"", ""online retail""]",f,f
+rec,haiku,rec_1,9,1,Facebook,1,0.7,"[""community resale platform"", ""local"", ""peer-to-peer""]",f,f
+rec,haiku,rec_1,9,1,Goodwill,2,0.7,"[""thrift store chain"", ""second-hand retail"", ""affordable""]",f,f
+rec,opus,rec_1,6,2,Walker Books,1,1.0,"[""exceptional production values"", ""FSC-certified printing"", ""timeless classics"", ""beautifully bound""]",f,f
+rec,opus,rec_1,6,2,Candlewick Press,1,1.0,"[""exceptional production values"", ""FSC-certified printing""]",f,f
+rec,opus,rec_1,6,2,Nosy Crow,2,1.0,"[""strong sustainability credentials"", ""FSC-certified paper"", ""beautifully tactile""]",f,f
+rec,opus,rec_1,6,2,Flying Eye Books,3,1.0,"[""design-led"", ""lavishly produced hardcovers"", ""thick paper"", ""beautiful cloth-style spines""]",f,f
+rec,opus,rec_1,6,2,Nobrow,,0.8,"[""design-focused sister company""]",f,f
+rec,opus,rec_1,6,2,Thames & Hudson,4,1.0,"[""heirloom quality"", ""large format"", ""breathtaking illustrations""]",f,f
+rec,opus,rec_1,6,2,Walker Studio,5,1.0,"[""atmospheric"", ""beautifully produced""]",f,f
+rec,opus,rec_1,6,2,Big Picture Press,5,1.0,"[""enormous reference picture books"", ""joyous design""]",f,f
+rec,opus,rec_1,6,2,Enchanted Lion Books,6,1.0,"[""most craft-focused children's publisher"", ""French flaps"", ""gorgeous paper"", ""careful binding"", ""exquisitely made""]",f,f
+rec,opus,rec_1,6,2,Old Barn Books,7,0.9,"[""smaller independent"", ""translated picture books"", ""lovely paper""]",f,f
+rec,opus,rec_1,6,2,Book Island,7,0.9,"[""smaller independent"", ""translated picture books"", ""lovely paper""]",f,f
+rec,opus,rec_1,6,2,Macmillan,,0.8,"[""handsome gift editions""]",f,f
+rec,sonnet,rec_1,7,2,Julia Donaldson,1,0.95,"[""broad portfolio"", ""reliably excellent for toddlers"", ""universally recommended""]",f,f
+rec,sonnet,rec_1,7,2,Dr. Seuss,2,0.85,"[""abundant in secondhand stores"", ""suitable for older children"", ""genuinely brilliant""]",f,f
+rec,sonnet,rec_1,7,2,The Very Hungry Caterpillar,3,0.8,"[""ubiquitous"", ""classic"", ""worth owning despite abundance""]",t,f
+rec,sonnet,rec_1,7,2,Facebook Marketplace,,0.7,"[""cost-effective source"", ""bulk bundles available"", ""local options""]",f,f
+perception,opus,perception_3,8,0,Eric Carle,,0.85,"[""well-made"", ""durable"", ""reinforced die-cuts"", ""hold up well to wear""]",f,f
+rec,sonnet,rec_2,8,2,Enchanted Lion Books,1,0.95,"[""consistently exceptional"", ""exceptional paper choice"", ""Smyth-sewn bindings"", ""generous white space""]",f,f
+rec,sonnet,rec_2,8,2,Flying Eye Books,2,0.9,"[""screen-print aesthetic"", ""flat color with grain textures"", ""binding quality far above mass market"", ""contemporary design""]",f,f
+rec,sonnet,rec_2,8,2,Oxford University Press,3,0.95,"[""extraordinary fidelity"", ""deep saturated color"", ""European printing standards"", ""superior color vibrancy"", ""seek older editions over reprints""]",f,f
+rec,sonnet,rec_2,8,2,Abrams,4,0.9,"[""consistently produces best quality"", ""art book-quality children's books"", ""large format emphasis"", ""color richness"", ""detail density""]",f,f
+rec,sonnet,rec_2,8,2,Chronicle Books,5,0.85,"[""exceptional production"", ""tight registration"", ""tactile warmth"", ""uncoated paper stock""]",f,f
+rec,sonnet,rec_2,8,2,HarperCollins,6,0.7,"[""publishes major celebrated works"", ""50th anniversary editions upgraded"", ""reprints lower quality than originals""]",f,f
+rec,sonnet,rec_2,8,2,Clarion/HMH,7,0.8,"[""publishes Caldecott winners"", ""faithful color matching"", ""full-bleed watercolor reproduction""]",f,f
+rec,sonnet,rec_2,8,2,Princeton Architectural Press,8,0.8,"[""design-forward"", ""grid and typography focus"", ""contemporary titles""]",f,f
+rec,sonnet,rec_2,8,2,Houghton Mifflin,9,0.75,"[""manages difficult pastel reproduction"", ""velvety texture preservation"", ""oversized format critical to design"", ""smaller editions lose quality""]",f,f
+rec,sonnet,rec_2,8,2,Workman,10,0.65,"[""genuinely inventive engineering"", ""spiral-bound flaps"", ""durable"", ""not most elegant"", ""built to take abuse""]",f,f
+rec,sonnet,rec_2,8,2,Philomel,11,0.85,"[""gold standard die-cut production"", ""tight registration"", ""multiple page stocks""]",f,f
+rec,sonnet,rec_2,8,2,Greenwillow,12,0.75,"[""publishes quality design-focused works""]",f,f
+rec,sonnet,rec_2,8,2,Viking,13,0.75,"[""publishes quality reproduction works""]",f,f
+rec,haiku,rec_3,9,2,Rod Campbell,1,0.8,"[""interactive"", ""lift-the-flap"", ""bold illustrations"", ""simple"", ""fun rhythm""]",f,f
+rec,haiku,rec_3,9,2,Eric Carle,2,0.85,"[""iconic"", ""colorful illustrations"", ""die-cut pages"", ""tactile""]",f,f
+rec,haiku,rec_3,9,2,Bill Martin Jr.,3,0.8,"[""repetitive"", ""rhythmic text"", ""bright animals"", ""stunning""]",f,f
+rec,haiku,rec_3,9,2,Leslie Patricelli,4,0.8,"[""hilarious"", ""humorous"", ""engaging""]",f,f
+rec,haiku,rec_3,9,2,Hervé Tullet,5,0.75,"[""interactive"", ""bold primary colors""]",f,f
+rec,haiku,rec_3,9,2,Claire Freedman,6,0.85,"[""ridiculous"", ""colorful"", ""funny""]",f,f
+rec,haiku,rec_3,9,2,Eric Hill,7,0.75,"[""lift-the-flap"", ""simple"", ""bold pictures""]",f,f
+rec,haiku,rec_3,9,2,DK Publishing,8,0.8,"[""sensory"", ""bright images"", ""touch-and-feel""]",f,f
+rec,haiku,rec_1,6,2,Candlewick Press,1,0.95,"[""gorgeous illustrations"", ""careful book production"", ""transparent about sustainable practices""]",f,f
+rec,haiku,rec_1,6,2,NorthSouth Books,2,0.95,"[""Swiss publisher"", ""quality printing"", ""environmental responsibility"", ""transparent about sustainable practices""]",f,f
+rec,haiku,rec_1,6,2,Enchanted Lion Books,3,0.95,"[""beautifully illustrated"", ""international picture books"", ""high production values""]",f,f
+rec,haiku,rec_1,6,2,Barefoot Books,4,0.95,"[""culturally diverse stories"", ""quality craftsmanship""]",f,f
+rec,haiku,rec_1,6,2,Minedition,5,0.95,"[""German-Swiss publisher"", ""exceptional artistic standards""]",f,f
+rec,haiku,rec_1,6,2,Jon J. Muth,6,0.95,"[""exceptional watercolor work""]",f,f
+rec,haiku,rec_1,6,2,Chris Riddell,7,0.95,"[""marvelous pen-and-ink work""]",f,f
+versus,haiku,versus_goodnight_moon,5,0,Goodnight Moon,1,0.9,"[""very short"", ""repetitive"", ""soothing rhythm"", ""slow pacing"", ""calming"", ""predictable"", ""gentle"", ""simple"", ""works for multiple ages"", ""signals time to wind down""]",f,t
+versus,haiku,versus_goodnight_moon,5,0,The Very Hungry Caterpillar,2,0.6,"[""wonderful"", ""engaging"", ""plot-driven"", ""longer"", ""may energize rather than calm"", ""better for daytime reading""]",t,f
+rec,haiku,rec_2,9,2,Facebook Marketplace,,0.85,"[""used marketplace"", ""budget-friendly"", ""$1-3 price range""]",f,f
+rec,haiku,rec_2,9,2,ThriftBooks,,0.85,"[""used books retailer"", ""budget-friendly"", ""$1-3 price range""]",f,f
+rec,haiku,rec_2,9,2,Amazon,,0.8,"[""online retailer"", ""frequent discounts""]",f,f
+rec,haiku,rec_2,9,2,Target,,0.8,"[""retail chain"", ""frequent discounts""]",f,f
+rec,haiku,rec_2,9,2,Dollar Tree,,0.75,"[""discount retailer"", ""budget-friendly"", ""low-cost board books""]",f,f
+rec,haiku,rec_2,9,2,Five Below,,0.75,"[""retail chain"", ""budget-friendly"", ""low-cost board books""]",f,f
+rec,sonnet,rec_1,10,2,Demco,1,0.85,"[""pre-bound editions"", ""direct seller"", ""school library supplier"", ""great quality""]",f,f
+rec,sonnet,rec_1,10,2,Perma-Bound,1,0.85,"[""pre-bound editions"", ""direct seller"", ""school library supplier"", ""great quality""]",f,f
+rec,sonnet,rec_1,10,2,Brodart,2,0.75,"[""book jacket covers"", ""laminate film"", ""extra durability""]",f,f
+rec,sonnet,rec_1,10,2,Amazon,3,0.5,"[""online retailer"", ""library binding search available""]",f,f
+rec,sonnet,rec_1,10,2,ThriftBooks,3,0.5,"[""online retailer"", ""library binding search available""]",f,f
+rec,sonnet,rec_1,10,2,AbeBooks,3,0.5,"[""online retailer"", ""library binding search available""]",f,f
+rec,opus,rec_2,7,0,Margaret Wise Brown,1,1.0,"[""soothing"", ""interactive"", ""multi-age appeal""]",f,f
+rec,opus,rec_2,7,0,Eric Carle,2,1.0,"[""tactile"", ""educational"", ""multi-layered"", ""multi-age appeal""]",f,f
+rec,opus,rec_2,7,0,Maurice Sendak,3,1.0,"[""visually engaging"", ""emotionally rich"", ""versatile""]",f,f
+rec,opus,rec_2,7,0,Janet & Allan Ahlberg,4,1.0,"[""interactive"", ""hidden details"", ""highly rewarding"", ""re-readable""]",f,f
+rec,opus,rec_2,7,0,Julia Donaldson,6,1.0,"[""rhythmic"", ""plotty"", ""versatile"", ""reliable"", ""durable""]",f,f
+rec,opus,rec_2,7,0,Michael Rosen,7,1.0,"[""repetitive"", ""sound-effect driven"", ""universally engaging""]",f,f
+rec,opus,rec_2,7,0,Matt de la Peña,8,1.0,"[""beautiful"", ""thematically rich"", ""emotionally engaging""]",f,f
+rec,opus,rec_2,7,0,Ezra Jack Keats,9,1.0,"[""simple"", ""evocative"", ""timeless"", ""re-readable""]",f,f
+rec,haiku,rec_2,7,2,Eric Carle,1,1.0,"[""die-cut illustrations"", ""bright colors"", ""satisfying lifecycle story"", ""works from infancy through preschool"", ""excellent quality board books"", ""durable""]",f,f
+rec,haiku,rec_2,7,2,Maurice Sendak,2,1.0,"[""beautiful art"", ""emotional arc"", ""appeals to multiple ages"", ""excellent quality board books"", ""durable"", ""emotionally intelligent""]",f,f
+rec,haiku,rec_2,7,2,Rod Campbell,3,0.9,"[""lift-the-flap mechanics"", ""works from young ages"", ""rhythm"", ""interactive"", ""guessing game aspect""]",f,f
+rec,haiku,rec_2,7,2,Bill Martin Jr.,4,0.95,"[""hypnotic rhythm"", ""predictable pattern"", ""teaches language"", ""teaches color recognition"", ""high rereadability""]",f,f
+rec,haiku,rec_2,7,2,Anna Dewdney,5,0.9,"[""simple story"", ""about emotions"", ""emotional intelligence"", ""grows with child""]",f,f
+rec,haiku,rec_3,8,2,Barefoot Books,1,0.9,"[""eco-friendly printing"", ""FSC-certified paper"", ""soy-based inks"", ""picture books"", ""multicultural folktales""]",f,f
+rec,haiku,rec_3,8,2,Candlewick Press,2,0.9,"[""FSC-certified paper"", ""transparent sustainability practices"", ""classic titles""]",f,f
+rec,haiku,rec_3,8,2,Child's Play,3,0.9,"[""recycled paper"", ""FSC-certified paper"", ""soy-based inks"", ""strong sustainability focus""]",f,f
+rec,haiku,rec_3,8,2,Graffeg,4,0.9,"[""UK-based"", ""excellent sustainability practices"", ""FSC paper"", ""recycled materials""]",f,f
+rec,haiku,rec_3,8,2,"Little, Brown Books for Young Readers",5,0.7,"[""transitioning to sustainable practices"", ""individual title verification recommended""]",f,f
+rec,haiku,rec_3,8,2,Cockle Press,6,0.85,"[""specifies paper sourcing""]",f,f
+rec,haiku,rec_3,8,2,Thames & Hudson,7,0.85,"[""children's line"", ""specifies paper sourcing""]",f,f
+perception,opus,perception_1,9,0,The Very Hungry Caterpillar,1,0.85,"[""tactile"", ""sensory experience"", ""efficient pedagogy"", ""well-designed"", ""visually distinctive"", ""collage art"", ""durable"", ""thin narrative"", ""biologically inaccurate""]",t,f
+perception,opus,perception_1,9,0,Press Here,2,0.75,"[""fantastic"", ""less ubiquitous""]",f,f
+perception,opus,perception_1,9,0,Don't Let the Pigeon Drive the Bus!,2,0.75,"[""fantastic"", ""less ubiquitous""]",f,f
+rec,haiku,rec_3,5,1,Dear Zoo,1,1.0,"[""sturdy"", ""lift-the-flap"", ""board book"", ""simple"", ""repetitive"", ""engaging""]",f,f
+rec,haiku,rec_3,5,1,The Very Hungry Caterpillar,2,1.0,"[""bright"", ""tactile"", ""die-cut pages"", ""teaches without being preachy""]",t,f
+rec,haiku,rec_3,5,1,Goodnight Moon,3,1.0,"[""indestructible"", ""board book"", ""good for cuddling"", ""works at any age""]",f,t
+rec,haiku,rec_3,5,1,"Brown Bear, Brown Bear, What Do You See?",4,1.0,"[""repetitive rhythm"", ""predictable patterns"", ""readable aloud""]",f,f
+rec,haiku,rec_3,5,1,Guess How Much I Love You,5,1.0,"[""sweet"", ""not cloying"", ""available in multiple formats""]",f,f
+rec,haiku,rec_3,5,1,Corduroy,6,1.0,"[""emotional arc"", ""simple language"", ""visually engaging""]",f,f
+rec,haiku,rec_3,5,1,If You Give a Mouse a Cookie,7,1.0,"[""circular logic"", ""humorous"", ""engaging for preschoolers""]",f,f
+rec,haiku,rec_3,5,1,Elmer,8,1.0,"[""teaches acceptance"", ""visually engaging"", ""lasting appeal""]",f,f
+rec,haiku,rec_3,5,1,Pete the Cat,9,1.0,"[""rhythmic"", ""board book format"", ""entertaining to read repeatedly""]",f,f
+rec,opus,rec_3,9,2,"Brown Bear, Brown Bear, What Do You See?",,1.0,"[""bold colors"", ""saturated colors"", ""repetitive rhythm"", ""classic"", ""toddler-friendly""]",f,f
+rec,opus,rec_3,9,2,The Very Hungry Caterpillar,,1.0,"[""iconic"", ""collage art"", ""transformation narrative"", ""classic""]",t,f
+rec,opus,rec_3,9,2,Press Here,,1.0,"[""primary colors"", ""interactive"", ""magical"", ""simple"", ""sensory""]",f,f
+rec,opus,rec_3,9,2,Mix It Up!,,1.0,"[""playful"", ""color mixing"", ""educational"", ""interactive""]",f,f
+rec,opus,rec_3,9,2,Dragons Love Tacos,,1.0,"[""wacky"", ""colorful"", ""silly"", ""humorous"", ""modern""]",f,f
+rec,opus,rec_3,9,2,The Day the Crayons Quit,,1.0,"[""bright"", ""colorful"", ""personality"", ""modern""]",f,f
+rec,opus,rec_3,9,2,Pete the Cat: I Love My White Shoes,,1.0,"[""cheerful"", ""colorful"", ""sing-along"", ""musical"", ""franchise""]",f,f
+rec,opus,rec_3,9,2,Little Blue Truck,,1.0,"[""warm"", ""cozy"", ""sound effects"", ""engaging"", ""modern""]",f,f
+rec,opus,rec_3,9,2,Don't Let the Pigeon Drive the Bus!,,1.0,"[""simple"", ""expressive"", ""humorous"", ""interactive""]",f,f
+rec,opus,rec_3,9,2,"Hello, World! board book series",,1.0,"[""bright"", ""educational"", ""board book"", ""durable"", ""series""]",f,f
+rec,opus,rec_3,9,2,Round Is a Mooncake,,1.0,"[""vibrant"", ""colorful"", ""educational"", ""shapes""]",f,f
+versus,haiku,versus_the_gruffalo,6,0,Eric Carle,2,0.4,"[""innovative"", ""iconic"", ""interactive"", ""tactile"", ""vulnerable to wear"", ""nostalgic artifact""]",f,f
+versus,haiku,versus_the_gruffalo,6,0,Axel Scheffler,1,0.8,"[""classically masterful"", ""sophisticated"", ""durable"", ""elegant"", ""timeless"", ""ages gracefully""]",f,f
+rec,opus,rec_3,6,0,Candlewick Press,1,0.9,"[""heavy uncoated stock"", ""ages well"", ""beautifully made"", ""gorgeous"", ""FSC-certified paper"", ""high standard hardcovers""]",f,f
+rec,opus,rec_3,6,0,Tara Books,2,0.95,"[""handmade"", ""hand-screen-printed"", ""handmade paper"", ""heirloom quality"", ""artisanal""]",f,f
+rec,opus,rec_3,6,0,Enchanted Lion Books,3,0.9,"[""small independent press"", ""extraordinarily well-bound"", ""quality hardcover bindings""]",f,f
+rec,opus,rec_3,6,0,Flying Eye Books / Nobrow,4,0.9,"[""FSC-certified paper"", ""vegetable-based inks"", ""European printing"", ""lower transport emissions"", ""sustainable""]",f,f
+rec,opus,rec_3,6,0,Barefoot Books,5,0.85,"[""B Corp certified"", ""FSC paper"", ""strong storytelling"", ""sustainable""]",f,f
+rec,opus,rec_3,6,0,HarperCollins,6,0.8,"[""quality editions"", ""anniversary editions"", ""multiple format options""]",f,f
+rec,opus,rec_3,6,0,Folio Society,7,0.85,"[""cloth-bound"", ""exceptional quality"", ""high physical standard""]",f,f
+rec,opus,rec_3,6,0,Frederick Warne,8,0.85,"[""small-format hardcovers"", ""original color separations"", ""durable"", ""heritage standards""]",f,f
+rec,opus,rec_3,6,0,Viking,9,0.8,"[""large hardcover format"", ""tactile quality"", ""high-quality production""]",f,f
+rec,opus,rec_3,6,0,Penguin,10,0.8,"[""hardcover production"", ""durable"", ""holds up to repeated readings""]",f,f
+rec,haiku,rec_3,9,1,Bill Martin Jr.,1,1.0,"[""repetitive text"", ""rhythmic"", ""playful"", ""classic""]",f,f
+rec,haiku,rec_3,9,1,Eric Carle,2,1.0,"[""striking illustrations"", ""bright"", ""engaging"", ""interactive die-cuts""]",f,f
+rec,haiku,rec_3,9,1,David McKee,3,1.0,"[""colorful"", ""cheerful"", ""visually interesting"", ""classic""]",f,f
+rec,haiku,rec_3,9,1,Rod Campbell,4,1.0,"[""interactive lift-flaps"", ""simple text"", ""colorful""]",f,f
+rec,haiku,rec_3,9,1,Hervé Tullet,5,1.0,"[""bold primary colors"", ""interactive"", ""engaging""]",f,f
+rec,haiku,rec_3,9,1,Marcus Pfister,6,1.0,"[""iridescent details"", ""beautiful visuals"", ""colorful""]",f,f
+rec,haiku,rec_1,8,2,Eric Carle,1,1.0,"[""vibrant collage illustrations"", ""visually engaging"", ""interactive"", ""sturdy"", ""affordable""]",f,f
+rec,haiku,rec_1,8,2,Margaret Wise Brown,2,1.0,"[""soothing"", ""warm"", ""lovely rhythm"", ""repetition"", ""perfect for bedtime""]",f,f
+rec,haiku,rec_1,8,2,Maurice Sendak,3,1.0,"[""iconic"", ""expressive illustrations"", ""captivating""]",f,f
+rec,haiku,rec_1,8,2,Ezra Jack Keats,4,1.0,"[""gorgeous collage-style artwork"", ""beautiful colors"", ""quieter"", ""contemplative"", ""good paper quality""]",f,f
+rec,haiku,rec_1,8,2,Don Freeman,5,1.0,"[""warm"", ""engaging illustrations"", ""heartfelt""]",f,f
+rec,haiku,rec_1,8,2,Robert McCloskey,6,1.0,"[""stunning pencil illustrations"", ""full of character"", ""excellent paper quality""]",f,f
+rec,haiku,rec_1,8,2,Clement Hurd,,1.0,"[""understated"", ""warm illustrations""]",f,f
+perception,sonnet,perception_2,10,0,World Publishing,,0.3,"[""original 1969 publisher"", ""associated with scarce valuable first editions""]",f,f
+perception,sonnet,perception_2,10,0,American Library Association,,0.9,"[""authoritative source"", ""highly regards the book"", ""influences early childhood reading lists"", ""recognizes pedagogical value""]",f,f
+versus,sonnet,versus_goodnight_moon,9,0,The Very Hungry Caterpillar,1,0.95,"[""interactive die-cut holes"", ""recognizable foods"", ""narrative arc"", ""vibrant bold collage artwork"", ""stimulating"", ""exciting"", ""satisfying"", ""engaging for toddlers"", ""rereadable""]",t,f
+versus,sonnet,versus_goodnight_moon,9,0,Goodnight Moon,2,0.65,"[""calming"", ""sleep-inducing"", ""soothing rhythm"", ""muted colors"", ""gentle repetition"", ""wonderful"", ""better for younger babies"", ""parent favorite"", ""not exciting""]",f,t
+rec,sonnet,rec_3,7,0,Margaret Wise Brown,1,1.0,"[""soothing"", ""rhythmic"", ""bedtime staple""]",f,f
+rec,sonnet,rec_3,7,0,Eric Carle,2,1.0,"[""beautifully illustrated"", ""distinctive visual style"", ""counting"", ""colours"", ""life cycles"", ""board books""]",f,f
+rec,sonnet,rec_3,7,0,Dorothy Kunhardt,3,1.0,"[""gold standard"", ""touch-and-feel books""]",f,f
+rec,sonnet,rec_3,7,0,Maurice Sendak,4,1.0,"[""imaginative storytelling""]",f,f
+rec,sonnet,rec_3,7,0,Sam McBratney,5,1.0,"[""warm"", ""emotionally rich""]",f,f
+rec,sonnet,rec_3,7,0,Ezra Jack Keats,6,1.0,"[""pioneering"", ""tender"", ""beautifully simple""]",f,f
+rec,sonnet,rec_3,7,0,Bill Martin Jr.,7,1.0,"[""board books"", ""rhythmic""]",f,f
+rec,sonnet,rec_3,7,0,Julia Donaldson,8,1.0,"[""excellent rhythm"", ""excellent storytelling""]",f,f
+rec,sonnet,rec_3,7,0,Dr. Seuss,9,1.0,"[""classics""]",f,f
+rec,sonnet,rec_3,7,0,Jan Thomas,10,1.0,"[""excellent for young babies"", ""simple"", ""funny""]",f,f
+rec,sonnet,rec_3,7,0,Sandra Boynton,11,1.0,"[""excellent for young babies"", ""simple"", ""funny""]",f,f
+rec,sonnet,rec_1,9,2,Margaret Wise Brown,2,0.9,"[""simple"", ""soothing""]",f,f
+rec,sonnet,rec_1,9,2,Eric Carle,3,0.9,"[""bright"", ""interactive"", ""engaging""]",f,f
+rec,sonnet,rec_1,9,2,Maurice Sendak,4,0.85,"[""imaginative"", ""substantial""]",f,f
+rec,sonnet,rec_1,9,2,Mo Willems,1,1.0,"[""hilarious"", ""funny"", ""safe bet""]",f,f
+rec,sonnet,rec_1,9,2,Hervé Tullet,5,0.9,"[""interactive"", ""re-readable""]",f,f
+rec,sonnet,rec_1,9,2,Adam Rubin,6,0.85,"[""fun"", ""engaging""]",f,f
+rec,sonnet,rec_1,9,2,ThriftBooks,,0.7,"[""affordable"", ""budget-friendly""]",f,f
+rec,sonnet,rec_1,9,2,Better World Books,,0.7,"[""affordable"", ""budget-friendly""]",f,f
+rec,haiku,rec_2,5,0,Matthew A. Cherry,1,1.0,"[""gorgeous illustrations"", ""natural hair celebration"", ""father-daughter bonding""]",f,f
+rec,haiku,rec_2,5,0,Matt de la Peña,2,1.0,"[""warm"", ""lyrical"", ""celebrates joy in everyday moments""]",f,f
+rec,haiku,rec_2,5,0,Faith Ringgold,3,1.0,"[""stunning"", ""dreamlike"", ""Harlem setting"", ""African American experience""]",f,f
+rec,haiku,rec_2,5,0,Margaret Musgrove,4,1.0,"[""alphabet celebration"", ""African peoples and traditions"", ""beautifully illustrated""]",f,f
+rec,haiku,rec_2,5,0,Natasha Anastasia Tarpley,5,1.0,"[""natural hair celebration"", ""self-love""]",f,f
+rec,haiku,rec_2,5,0,Ezra Jack Keats,6,1.0,"[""beloved classic"", ""groundbreaking"", ""Black child protagonist""]",f,f
+rec,haiku,rec_2,5,0,Ramin Ganeshram,7,1.0,"[""untold story"", ""enslaved cook's daughter narrative""]",f,f
+rec,haiku,rec_2,5,0,Michael Tyler,8,1.0,"[""celebrates diverse skin tones"", ""celebrates beauty""]",f,f
+rec,haiku,rec_2,5,0,Maurice Sendak,9,0.85,"[""timeless classic""]",f,f
+rec,haiku,rec_2,5,0,Margaret Wise Brown,10,0.85,"[""timeless classic""]",f,f
+rec,haiku,rec_2,5,0,Eric Carle,11,0.85,"[""timeless classic""]",f,f
+rec,haiku,rec_2,5,0,Robert McCloskey,12,0.85,"[""timeless classic""]",f,f
+rec,haiku,rec_2,5,0,Don Freeman,13,0.85,"[""timeless classic""]",f,f
+perception,sonnet,perception_3,8,0,Eric Carle,1,0.85,"[""excellent build quality"", ""thick sturdy cardboard pages"", ""durable"", ""reinforced die-cut holes"", ""chew-resistant"", ""well-made"", ""long-lasting"", ""good value for price"", ""suitable for toddles 1-5+ years""]",f,f
+rec,sonnet,rec_3,5,0,Mo Willems,1,1.0,"[""prolific"", ""consistent quality"", ""humorous"", ""emotionally engaging"", ""multi-generational appeal"", ""series-oriented"", ""highly rereadable""]",f,f
+rec,sonnet,rec_3,5,0,Eric Carle,2,1.0,"[""prolific"", ""consistent quality"", ""interactive"", ""durable"", ""pattern-based"", ""multi-age learning"", ""highly rereadable""]",f,f
+rec,sonnet,rec_3,5,0,Margaret Wise Brown,3,1.0,"[""rhythmic"", ""hypnotic"", ""emotionally profound"", ""soothing"", ""multi-age appeal""]",f,f
+rec,sonnet,rec_3,5,0,Bill Martin Jr.,4,1.0,"[""rhythmic"", ""pattern-based"", ""engaging"", ""multi-age appeal"", ""highly rereadable""]",f,f
+rec,sonnet,rec_3,5,0,Maurice Sendak,5,1.0,"[""emotionally meaningful"", ""explores feelings"", ""character-driven""]",f,f
+rec,sonnet,rec_3,5,0,Dorothy Kunhardt,6,1.0,"[""tactile"", ""classic"", ""interactive"", ""multi-age engagement""]",f,f
+rec,sonnet,rec_3,5,0,Adam Rubin,7,1.0,"[""absurdist humor"", ""rereadable"", ""multi-age appeal""]",f,f
+rec,sonnet,rec_3,5,0,Doreen Cronin,8,1.0,"[""humorous"", ""teaches concepts"", ""clever narrative""]",f,f
+rec,sonnet,rec_3,5,0,Shel Silverstein,9,1.0,"[""emotionally deep"", ""thought-provoking"", ""multi-age appeal""]",f,f
+rec,sonnet,rec_3,5,0,Judith Viorst,10,1.0,"[""emotionally validating"", ""relatable"", ""engaging titles""]",f,f
+rec,sonnet,rec_3,5,0,Laura Numeroff,11,1.0,"[""satisfying narrative structure"", ""consistent quality"", ""series-based""]",f,f
+rec,sonnet,rec_3,5,0,Janell Cannon,12,1.0,"[""beautiful art"", ""emotionally meaningful"", ""explores belonging"", ""grows with child""]",f,f
+rec,sonnet,rec_3,5,0,Don Freeman,13,1.0,"[""emotionally resonant"", ""timeless"", ""multi-age appeal""]",f,f
+rec,sonnet,rec_3,5,0,Crockett Johnson,14,1.0,"[""imaginative"", ""simple"", ""celebrates creativity""]",f,f
+rec,sonnet,rec_3,5,0,Virginia Lee Burton,15,1.0,"[""gripping narrative"", ""engaging""]",f,f
+rec,sonnet,rec_2,5,1,bookshop.org,,0.7,"[""helpful resource"", ""alternative to local bookstores"", ""can locate diverse titles""]",f,f
+perception,opus,perception_1,10,0,The Very Hungry Caterpillar,1,0.7,"[""interactive"", ""tactile"", ""die-cut pages"", ""formally innovative"", ""collage technique"", ""hand-painted tissue paper aesthetic"", ""visually striking"", ""sophisticated artistic style"", ""multi-functional teaching"", ""pedagogical"", ""foundational"", ""commercially viable"", ""physically experimental"", ""functional text"", ""ubiquitous""]",t,f
+perception,opus,perception_1,10,0,Sendak,2,0.8,"[""lyrical text"", ""emotional resonance"", ""strong narrative""]",f,f
+perception,opus,perception_1,10,0,Marshall,2,0.75,"[""strong narrative""]",f,f
+perception,opus,perception_1,10,0,Klassen,2,0.75,"[""strong narrative""]",f,f
+perception,opus,perception_1,10,0,Blackall,2,0.75,"[""strong narrative""]",f,f
+perception,opus,perception_1,10,0,Steig,,0.8,"[""lyrical text""]",f,f
+perception,opus,perception_1,10,0,Where the Wild Things Are,,0.8,"[""emotional resonance""]",f,t
+perception,opus,perception_1,10,0,Owl Moon,,0.8,"[""emotional resonance""]",f,f
+rec,opus,rec_2,9,2,Sandra Boynton,1,1.0,"[""cheap"", ""hilarious"", ""toddler-tested"", ""short"", ""funny"", ""engaging for adults""]",f,f
+rec,opus,rec_2,9,2,Eric Carle,2,0.9,"[""colorful"", ""must-have"", ""beloved""]",f,f
+rec,opus,rec_2,9,2,Bill Martin Jr.,3,0.85,"[""simple"", ""rhythmic"", ""colorful"", ""fun""]",f,f
+rec,opus,rec_2,9,2,Margaret Wise Brown,4,0.8,"[""timeless"", ""soothing"", ""classic""]",f,f
+rec,opus,rec_2,9,2,Dorothy Kunhardt,4,0.8,"[""classic"", ""touch-and-feel"", ""beloved"", ""generational""]",f,f
+rec,opus,rec_2,9,2,Hervé Tullet,4,0.8,"[""magical"", ""interactive"", ""no batteries"", ""no flaps""]",f,f
+rec,opus,rec_2,9,2,Rod Campbell,4,0.8,"[""lift-the-flap"", ""beloved by toddlers""]",f,f
+rec,opus,rec_2,9,2,Half Price Books,,0.7,"[""cheap"", ""bundles"", ""money-saving"", ""used books""]",f,f
+rec,opus,rec_2,9,2,ThriftBooks,,0.7,"[""cheap"", ""bundles"", ""money-saving"", ""online"", ""used books""]",f,f
+rec,opus,rec_2,9,2,eBay,,0.7,"[""cheap"", ""bundles"", ""money-saving"", ""marketplace""]",f,f
+rec,opus,rec_2,9,2,Dollar Tree,,0.7,"[""cheap"", ""brand-new books"", ""money-saving"", ""budget-friendly""]",f,f
+rec,opus,rec_1,6,0,Walker Books,1,0.95,"[""FSC-certified paper"", ""thick stock"", ""sewn bindings"", ""careful printing""]",f,f
+rec,opus,rec_1,6,0,Candlewick Press,1,0.95,"[""FSC-certified paper"", ""thick stock"", ""sewn bindings"", ""careful printing""]",f,f
+rec,opus,rec_1,6,0,Flying Eye Books,2,0.95,"[""gorgeous production values"", ""matte finishes"", ""richly pigmented printing"", ""FSC-certified""]",f,f
+rec,opus,rec_1,6,0,Nobrow,2,0.95,"[""gorgeous production values"", ""matte finishes"", ""richly pigmented printing"", ""FSC-certified""]",f,f
+rec,opus,rec_1,6,0,Thames & Hudson Children's,3,0.9,"[""beautiful"", ""art-book quality""]",f,f
+rec,opus,rec_1,6,0,Enchanted Lion Books,4,0.95,"[""extraordinary attention to design"", ""paper quality""]",f,f
+rec,opus,rec_1,6,0,NorthSouth Books,5,0.85,"[""lovely production"", ""Swiss-rooted""]",f,f
+rec,opus,rec_1,6,0,The Folio Society,6,0.95,"[""heirloom quality"", ""children's editions""]",f,f
+rec,opus,rec_1,6,0,HarperCollins,7,0.75,[],f,f
+rec,opus,rec_1,6,0,Hamish Hamilton,8,0.85,[],f,f
+rec,opus,rec_1,6,0,Abrams,9,0.85,[],f,f
+rec,opus,rec_1,6,0,"Little, Brown",10,0.8,[],f,f
+rec,opus,rec_1,6,0,Templar,11,0.8,[],f,f
+rec,opus,rec_1,6,0,Two Hoots,12,0.75,[],f,f
+rec,opus,rec_1,6,0,Bloomsbury,13,0.75,[],f,f
+rec,opus,rec_1,5,1,Sandra Boynton,,0.95,"[""sturdy"", ""silly""]",f,f
+perception,sonnet,perception_1,8,0,The Very Hungry Caterpillar,1,0.85,"[""clever format"", ""tactile engagement"", ""distinctive collage art"", ""organic learning"", ""appropriate pacing for young kids"", ""genuine merit""]",t,f
+perception,sonnet,perception_1,8,0,Where the Wild Things Are,2,0.75,"[""emotional depth"", ""complementary""]",f,t
+perception,sonnet,perception_1,8,0,Owl Babies,3,0.75,"[""emotional depth"", ""complementary""]",f,f
+rec,opus,rec_3,6,1,Walker Books,1,0.92,"[""sewn bindings"", ""FSC paper"", ""strong colour reproduction""]",f,f
+rec,opus,rec_3,6,1,Candlewick,1,0.92,"[""sewn bindings"", ""FSC paper"", ""strong colour reproduction""]",f,f
+rec,opus,rec_3,6,1,Enchanted Lion Books,2,0.92,"[""small Brooklyn press"", ""exceptional printing"", ""cloth spines""]",f,f
+rec,opus,rec_3,6,1,Floris Books,3,0.92,"[""Steiner-influenced"", ""FSC certified"", ""durable""]",f,f
+rec,opus,rec_3,6,1,NorthSouth Books,4,0.92,"[""Swiss-printed"", ""archival quality""]",f,f
+rec,opus,rec_3,6,1,Thames & Hudson,5,0.92,"[""museum-grade production""]",f,f
+rec,opus,rec_3,6,1,Frances Lincoln,6,0.92,"[""recycled or FSC stock""]",f,f
+rec,opus,rec_3,6,1,Quarto,6,0.92,"[""recycled or FSC stock""]",f,f
+rec,opus,rec_3,6,1,Frederick Warne,,0.8,"[""sewn-bound"", ""FSC-certified""]",f,f
+rec,opus,rec_3,6,1,Folio Society,,0.8,"[""signed/numbered editions"", ""special editions"", ""keepsakes""]",f,f
+rec,opus,rec_2,5,2,Matthew A. Cherry,1,1.0,"[""affirms identity"", ""celebrates family"", ""celebrates curls""]",f,f
+rec,opus,rec_2,5,2,Derrick Barnes,2,1.0,"[""celebrates cultural rituals"", ""affirms identity""]",f,f
+rec,opus,rec_2,5,2,Grace Byers,3,1.0,"[""gentle"", ""self-affirming""]",f,f
+rec,opus,rec_2,5,2,Lupita Nyong'o,4,1.0,"[""tender"", ""addresses colorism"", ""affirms self-worth""]",f,f
+rec,opus,rec_2,5,2,Jacqueline Woodson,5,1.0,"[""celebrates belonging"", ""addresses difference"", ""inclusive""]",f,f
+rec,opus,rec_2,5,2,Gaia Cornwall,6,1.0,"[""courage-building""]",f,f
+rec,opus,rec_2,5,2,Oge Mora,7,1.0,"[""family-focused"", ""realistic""]",f,f
+rec,opus,rec_2,5,2,Matt de la Peña,8,1.0,"[""finds beauty in ordinary"", ""perspective-shifting""]",f,f
+rec,opus,rec_2,5,2,Faith Ringgold,9,1.0,"[""dreamlike"", ""heritage-focused""]",f,f
+rec,opus,rec_2,5,2,Ellen Levine,10,1.0,"[""historical"", ""biographical""]",f,f
+rec,opus,rec_2,5,2,Doreen Rappaport,11,1.0,"[""educational"", ""accessible""]",f,f
+rec,opus,rec_2,5,2,Troy Andrews,12,1.0,"[""biographical"", ""music-focused""]",f,f
+rec,opus,rec_2,5,2,Roda Ahmed,13,1.0,"[""STEM-focused"", ""biographical""]",f,f
+rec,opus,rec_2,5,2,Kwame Alexander,14,1.0,"[""poetic"", ""stunning""]",f,f
+rec,opus,rec_2,5,2,Margaret Wise Brown,15,1.0,"[""classic"", ""timeless"", ""bedtime essential""]",f,f
+rec,opus,rec_2,5,2,Maurice Sendak,16,1.0,"[""classic"", ""imaginative"", ""timeless""]",f,f
+rec,opus,rec_2,5,2,Ezra Jack Keats,17,1.0,"[""classic"", ""diverse"", ""milestone for representation""]",f,f
+rec,opus,rec_2,5,2,Don Freeman,18,1.0,"[""classic"", ""gentle"", ""timeless""]",f,f
+rec,opus,rec_2,5,2,Crockett Johnson,19,1.0,"[""classic"", ""imaginative"", ""timeless""]",f,f
+rec,opus,rec_2,5,2,Eric Carle,20,1.0,"[""classic"", ""engaging""]",f,f
+rec,opus,rec_2,5,2,Robert McCloskey,21,1.0,"[""classic"", ""timeless""]",f,f
+rec,opus,rec_2,5,2,Ludwig Bemelmans,22,1.0,"[""classic"", ""charming""]",f,f
+rec,opus,rec_2,5,2,Esphyr Slobodkina,23,1.0,"[""classic"", ""timeless""]",f,f
+rec,opus,rec_2,5,2,Munro Leaf,24,1.0,"[""classic"", ""timeless""]",f,f
+rec,opus,rec_2,5,2,Shel Silverstein,25,1.0,"[""humorous"", ""heartfelt"", ""poetic""]",f,f
+rec,opus,rec_2,5,2,Tomie dePaola,26,1.0,"[""magical"", ""humorous""]",f,f
+rec,opus,rec_2,5,2,Mo Willems,27,1.0,"[""humorous"", ""engaging"", ""interactive""]",f,f
+rec,opus,rec_2,5,2,Andrea Beaty,28,1.0,"[""STEM-focused"", ""diverse protagonist"", ""bridge book""]",f,f
+rec,haiku,rec_2,9,0,The Very Hungry Caterpillar,1,0.85,"[""interactive"", ""engaging""]",t,f
+rec,haiku,rec_2,9,0,Goodnight Moon,2,0.85,"[""soothing"", ""classic"", ""board book editions available""]",f,t
+rec,haiku,rec_2,9,0,"Brown Bear, Brown Bear, What Do You See?",3,0.8,"[""repetitive"", ""educational"", ""teaches colors"", ""colorful""]",f,f
+rec,haiku,rec_2,9,0,Dear Zoo,4,0.85,"[""interactive"", ""lift-the-flap"", ""engaging""]",f,f
+rec,haiku,rec_2,9,0,Corduroy,5,0.85,"[""sweet"", ""beautiful illustrations""]",f,f
+rec,haiku,rec_2,9,0,Pete the Cat,6,0.8,"[""funny"", ""colorful"", ""series""]",f,f
+rec,haiku,rec_2,9,0,"Click, Clack, Moo",7,0.85,"[""humorous"", ""entertaining""]",f,f
+rec,haiku,rec_2,9,0,Goodwill,8,0.85,"[""thrift store"", ""affordable"", ""secondhand"", ""budget-friendly""]",f,f
+rec,haiku,rec_2,9,0,Facebook Marketplace,9,0.8,"[""online marketplace"", ""secondhand"", ""peer-to-peer"", ""affordable""]",f,f
+rec,haiku,rec_2,9,0,OfferUp,10,0.8,"[""mobile marketplace"", ""secondhand"", ""peer-to-peer""]",f,f
+rec,haiku,rec_2,9,0,Barnes & Noble,11,0.75,"[""bookstore"", ""clearance section"", ""discounted""]",f,f
+rec,haiku,rec_2,9,0,Target,11,0.75,"[""retail"", ""clearance section"", ""discounted""]",f,f
+rec,haiku,rec_2,9,0,Amazon,12,0.75,"[""online retailer"", ""deals"", ""secondhand options""]",f,f
+versus,opus,versus_the_gruffalo,5,0,The Gruffalo,1,0.95,"[""rhyming couplets"", ""bouncy meter"", ""clever narrative arc"", ""twist ending"", ""repeated refrains"", ""richer vocabulary"", ""humor"", ""sustained appeal on repeated readings"", ""good for ages 3-6+"", ""recommended for long-term reading""]",f,t
+versus,opus,versus_the_gruffalo,5,0,The Very Hungry Caterpillar,2,0.9,"[""short predictable sentences"", ""interactive die-cut holes"", ""teaches concepts"", ""gentle pacing"", ""good for ages 1-3"", ""foolproof read-aloud"", ""no scary moments"", ""loses appeal as children age""]",t,f
+versus,haiku,versus_goodnight_moon,7,0,Goodnight Moon,1,0.9,"[""anchors bedtime routine"", ""rhythmic"", ""soothing"", ""predictable"", ""short"", ""practical daily value"", ""establishes healthy sleep patterns""]",f,t
+versus,haiku,versus_goodnight_moon,7,0,The Very Hungry Caterpillar,2,0.8,"[""interactive"", ""die-cut holes"", ""tactile exploration"", ""teaching opportunities"", ""counting and concepts"", ""visual details"", ""all-day engagement""]",t,f
+rec,sonnet,rec_1,9,0,ThriftBooks,1,0.9,"[""online retailer"", ""discounted books"", ""budget-friendly"", ""carries classic books"", ""$2-4 pricing""]",f,f
+rec,sonnet,rec_1,9,0,AbeBooks,2,0.9,"[""online retailer"", ""discounted books"", ""budget-friendly"", ""carries classic books"", ""$2-4 pricing""]",f,f
+rec,sonnet,rec_1,9,0,Dollar Tree,3,0.85,"[""retail chain"", ""budget-friendly"", ""carries board books"", ""exceeded expectations""]",f,f
+rec,sonnet,rec_2,9,0,Goodwill,1,0.8,"[""very cheap"", ""used books"", ""children's books""]",f,f
+rec,sonnet,rec_2,9,0,Facebook,2,0.8,"[""free books"", ""used books"", ""bulk availability""]",f,f
+rec,sonnet,rec_2,9,0,Amazon,3,0.7,"[""cheap"", ""used listings"", ""sells classics""]",f,f
+rec,sonnet,rec_2,9,0,Dollar Tree,4,0.85,"[""affordable"", ""board books"", ""good value""]",f,f
+versus,opus,versus_goodnight_moon,9,0,The Very Hungry Caterpillar,1,0.95,"[""interactive"", ""tactile"", ""bright"", ""bold"", ""visually stimulating"", ""educational"", ""engaging"", ""durable""]",t,f
+versus,opus,versus_goodnight_moon,9,0,Goodnight Moon,2,0.6,"[""soothing"", ""calming"", ""quiet"", ""repetitive"", ""meditative"", ""bedtime-focused""]",f,t
+versus,opus,versus_goodnight_moon,9,0,Eric Carle,,0.85,"[""bright"", ""bold"", ""collage art"", ""visually stimulating""]",f,f
+rec,sonnet,rec_1,8,2,Viking,1,0.9,"[""well-made"", ""excellent quality"", ""durable hardcover editions""]",f,f
+rec,sonnet,rec_1,8,2,Penguin,2,0.8,"[""well-made"", ""durable editions""]",f,f
+perception,haiku,perception_1,5,0,The Very Hungry Caterpillar,1,0.7,"[""tactile die-cut holes"", ""brilliant"", ""interactive"", ""repetitive structure"", ""predictable"", ""appropriate pacing and sentence length for 18-36 month olds"", ""simple concept without being dumbed down"", ""excellent for its purpose"", ""hooks young kids on books"", ""sensory engagement"", ""not a deep story"", ""minimal emotional arc"", ""lacks narrative sophistication"", ""simplified life science"", ""slightly inaccurate""]",t,f
+perception,haiku,perception_1,5,0,Where the Wild Things Are,,0.5,"[""narrative sophistication"", ""emotionally resonant""]",f,t
+perception,haiku,perception_1,5,0,Corduroy,,0.5,"[""narrative sophistication"", ""emotionally resonant""]",f,f
+versus,opus,versus_goodnight_moon,7,0,The Very Hungry Caterpillar,1,0.9,"[""versatile"", ""interactive"", ""educational"", ""long-lasting"", ""engaging""]",t,f
+versus,opus,versus_goodnight_moon,7,0,Goodnight Moon,2,0.7,"[""specialised"", ""calming"", ""limited-scope"", ""beautiful""]",f,t
+rec,opus,rec_1,6,1,Walker Books,1,0.95,"[""FSC pioneer"", ""celebrated"", ""high production values""]",f,f
+rec,opus,rec_1,6,1,Candlewick Press,2,0.9,"[""renowned for craftsmanship"", ""FSC-certified""]",f,f
+rec,opus,rec_1,6,1,Frances Lincoln Children's Books,3,0.9,"[""stunning illustration"", ""FSC-certified""]",f,f
+rec,opus,rec_1,6,1,Quarto,4,0.9,"[""stunning illustration"", ""FSC-certified""]",f,f
+rec,opus,rec_1,6,1,NorthSouth Books,5,0.95,"[""European craftsmanship"", ""foil-finished covers""]",f,f
+rec,opus,rec_1,6,1,Thames & Hudson,6,0.9,"[""beautifully produced"", ""cloth-bound spines"", ""breathtaking""]",f,f
+rec,opus,rec_1,6,1,Walker Studio,7,0.85,"[""lavish production""]",f,f
+rec,opus,rec_1,6,1,Big Picture Press,8,0.85,"[""lavish""]",f,f
+rec,opus,rec_1,6,1,Andersen Press,9,0.85,"[""anniversary editions""]",f,f
+rec,opus,rec_1,6,1,Faber & Faber Children's,10,0.85,"[""cloth-bound editions"", ""handsome""]",f,f
+rec,opus,rec_1,6,1,HarperCollins,11,0.85,"[""gorgeously designed""]",f,f
+rec,opus,rec_1,6,1,"Little, Brown",12,0.9,"[""Caldecott-winning"", ""exquisite craftsmanship""]",f,f
+rec,opus,rec_1,6,1,Red Fox,,0.85,"[""gorgeous""]",f,f
+rec,opus,rec_1,6,1,Bodley Head,,0.85,"[""gorgeous""]",f,f
+rec,opus,rec_1,6,1,Bookshop.org,,0.8,"[""independent"", ""helpful"", ""lavishly produced selection""]",f,f
+rec,haiku,rec_3,7,2,Eric Carle,1,1.0,"[""vibrant illustrations"", ""repetitive"", ""colorful"", ""learning-focused"", ""color recognition""]",f,f
+rec,haiku,rec_3,7,2,Margaret Wise Brown,2,1.0,"[""soothing"", ""rhythmic"", ""bedtime-appropriate"", ""comforting"", ""reassuring""]",f,f
+rec,haiku,rec_3,7,2,Sandra Boynton,3,1.0,"[""durable"", ""reliable"", ""humorous"", ""appeals to both babies and parents""]",f,f
+rec,haiku,rec_3,7,2,Dorothy Kunhardt,4,1.0,"[""tactile"", ""engaging""]",f,f
+rec,haiku,rec_3,7,2,Rod Campbell,5,1.0,"[""interactive"", ""lift-the-flap"", ""fun""]",f,f
+rec,haiku,rec_3,7,2,Maurice Sendak,6,1.0,"[""imaginative"", ""beautifully illustrated""]",f,f
+rec,haiku,rec_3,7,2,Ezra Jack Keats,7,1.0,"[""wonderful imagery""]",f,f
+rec,haiku,rec_3,7,2,Mo Willems,8,1.0,"[""funny"", ""relatable""]",f,f
+rec,haiku,rec_3,7,2,Dr. Seuss,9,1.0,"[""consistently delivers quality""]",f,f
+versus,haiku,versus_the_gruffalo,7,0,The Very Hungry Caterpillar,1,0.9,"[""ideal for babies under 2"", ""interactive reading"", ""die-cut holes"", ""bold vibrant illustrations"", ""captures attention"", ""short simple story"", ""about transformation"", ""quintessential board book"", ""engages through touch and bright colors""]",t,f
+versus,haiku,versus_the_gruffalo,7,0,The Gruffalo,2,0.85,"[""suitable for babies 2 and older"", ""longer stories"", ""clever rhythmic storytelling"", ""fun to read aloud"", ""narrative depth"", ""clever mouse outwitting predators"", ""worth reading repeatedly""]",f,t
+versus,sonnet,versus_the_gruffalo,8,0,The Gruffalo,1,0.9,"[""richly detailed illustrations"", ""expressive characters"", ""lush backgrounds"", ""excellent printing quality"", ""sturdy construction"", ""no fragile elements"", ""highly durable"", ""rewarding for re-reading"", ""engaging story"", ""holds up extremely well""]",f,t
+versus,sonnet,versus_the_gruffalo,8,0,The Very Hungry Caterpillar,2,0.65,"[""unique illustration technique"", ""visually striking"", ""bold colors"", ""iconic artwork"", ""indestructible (board book edition)"", ""charming die-cuts"", ""fragile die-cuts (hardcover)"", ""tears easily"", ""degrades over time""]",t,f
+versus,sonnet,versus_the_gruffalo,6,0,The Very Hungry Caterpillar,1,0.9,"[""innovative"", ""unique"", ""one-of-a-kind"", ""hand-painted tissue paper collage"", ""bold"", ""joyful"", ""generational legacy"", ""timeless"", ""universal"", ""iconic"", ""heirloom quality""]",t,f
+versus,sonnet,versus_the_gruffalo,6,0,The Gruffalo,2,0.7,"[""masterful"", ""detailed"", ""expressive"", ""durable"", ""resilient"", ""sturdy"", ""beloved"", ""clever"", ""witty"", ""practical""]",f,t
+versus,sonnet,versus_the_gruffalo,6,0,Eric Carle,1,0.9,"[""innovative"", ""one-of-a-kind"", ""singular"", ""hand-painted tissue paper collage"", ""artist""]",f,f
+versus,sonnet,versus_the_gruffalo,6,0,Axel Scheffler,2,0.7,"[""masterful"", ""skilled"", ""detailed"", ""expressive"", ""illustrator"", ""rich in texture"", ""classic style""]",f,f
+versus,sonnet,versus_the_gruffalo,6,0,Julia Donaldson,,0.5,"[""author""]",f,f
+versus,sonnet,versus_where_the_wild_things_are,10,0,Harper & Row,,0.75,"[""collectible"", ""well-produced editions""]",f,f
+perception,opus,perception_1,7,0,Goodnight Moon,1,0.8,"[""rhythmic"", ""hypnotic cadence"", ""works better for actual babies""]",f,t
+perception,opus,perception_1,7,0,Dear Zoo,2,0.8,"[""interactive"", ""flaps"", ""works better for actual babies""]",f,f
+perception,opus,perception_1,7,0,Where's Spot?,3,0.7,"[""flaps"", ""works better for actual babies""]",f,f
+rec,opus,rec_2,8,1,Enchanted Lion Books,1,0.95,"[""best-produced picture books in the US"", ""cloth spines"", ""French flaps"", ""thoughtful typography""]",f,f
+rec,opus,rec_2,8,1,Tara Books,2,0.95,"[""handmade"", ""screen-printed"", ""hand-bound on handmade paper"", ""extraordinary objects""]",f,f
+rec,opus,rec_2,8,1,MinaLima,3,0.9,"[""interactive elements"", ""pull-tabs"", ""foldouts"", ""envelopes with letters"", ""paper engineering"", ""exquisite typography""]",f,f
+rec,opus,rec_2,8,1,Folio Society,4,0.85,"[""heirloom construction"", ""sewn bindings"", ""ribbon markers"", ""slipcases""]",f,f
+rec,opus,rec_2,8,1,Thames & Hudson,5,0.85,"[""heirloom construction"", ""sewn bindings"", ""ribbon markers"", ""slipcases""]",f,f
+rec,opus,rec_2,8,1,Candlewick,6,0.85,"[""cloth spines"", ""perfect press work"", ""priority for first printings""]",f,f
+rec,opus,rec_2,8,1,Chronicle,7,0.8,"[""accordion-style spreads"", ""heavier paper"", ""priority for first printings""]",f,f
+rec,opus,rec_2,8,1,Templar,8,0.75,"[""priority for first printings""]",f,f
+rec,opus,rec_2,8,1,Lemniscaat,9,0.75,"[""excellent production values"", ""Dutch publisher"", ""European imports""]",f,f
+rec,opus,rec_2,8,1,"Little, Brown",10,0.8,"[""heavyweight uncoated stock"", ""stunning ink density""]",f,f
+rec,opus,rec_2,8,1,HarperCollins,11,0.7,"[""textural mixed media reproduction"", ""restored art"", ""quality reproduction""]",f,f
+rec,opus,rec_3,7,1,Julia Donaldson,1,0.95,"[""established author"", ""high re-read value"", ""durable""]",f,f
+rec,opus,rec_3,7,1,Eric Carle,2,0.95,"[""classic"", ""established author"", ""high re-read value"", ""durable""]",f,f
+rec,opus,rec_3,7,1,Oliver Jeffers,3,0.95,"[""established author"", ""high re-read value"", ""durable""]",f,f
+rec,opus,rec_3,7,1,Judith Kerr,4,0.95,"[""established author"", ""high re-read value"", ""durable""]",f,f
+rec,opus,rec_3,7,1,Janet and Allan Ahlberg,5,0.95,"[""established author"", ""high re-read value"", ""durable""]",f,f
+rec,opus,rec_3,7,1,Bill Martin Jr.,,0.85,"[""classic""]",f,f
+rec,opus,rec_3,7,1,Margaret Wise Brown,,0.85,"[""classic""]",f,f
+rec,opus,rec_3,7,1,Rod Campbell,,0.85,[],f,f
+rec,opus,rec_3,7,1,Fiona Watt,,0.85,"[""touchy-feely""]",f,f
+rec,opus,rec_3,7,1,Eric Hill,,0.85,[],f,f
+rec,opus,rec_3,7,1,Sam McBratney,,0.85,[],f,f
+rec,opus,rec_3,7,1,Michael Rosen,,0.85,[],f,f
+rec,opus,rec_3,7,1,Lynley Dodd,,0.85,[],f,f
+rec,opus,rec_3,7,1,Maurice Sendak,,0.85,"[""classic""]",f,f
+rec,opus,rec_3,7,1,Jill Murphy,,0.85,[],f,f
+rec,opus,rec_3,7,1,Martin Waddell,,0.85,[],f,f
+rec,opus,rec_3,7,1,Raymond Briggs,,0.85,"[""classic""]",f,f
+rec,opus,rec_3,7,1,Marcus Pfister,,0.85,[],f,f
+rec,opus,rec_3,7,1,Lauren Child,,0.85,[],f,f
+rec,opus,rec_3,7,1,David McKee,,0.85,[],f,f
+rec,opus,rec_3,7,1,Usborne,,0.8,"[""publisher"", ""touchy-feely""]",f,f
+rec,opus,rec_3,7,1,Peppa Pig,,-0.9,"[""TV/film tie-in"", ""thin novelisation"", ""character tie-in""]",f,f
+rec,opus,rec_3,7,1,Paw Patrol,,-0.9,"[""TV/film tie-in"", ""character tie-in""]",f,f
+rec,opus,rec_3,7,1,Disney,,-0.9,"[""TV/film tie-in"", ""character tie-in""]",f,f
+rec,opus,rec_3,5,1,Indestructibles,1,0.9,"[""rip-proof"", ""chew-proof"", ""washable""]",f,f
+rec,sonnet,rec_3,7,2,Goodnight Moon,1,1.0,"[""gold standard"", ""bedtime book""]",f,t
+rec,sonnet,rec_3,7,2,The Very Hungry Caterpillar,2,1.0,"[""brilliant"", ""teaches colors"", ""teaches counting"", ""teaches life cycles""]",t,f
+rec,sonnet,rec_3,7,2,Where the Wild Things Are,3,1.0,"[""timeless"", ""teaches emotions""]",f,t
+rec,sonnet,rec_3,7,2,Pat the Bunny,4,1.0,"[""interactive"", ""touch-and-feel"", ""classic""]",f,f
+rec,sonnet,rec_3,7,2,"Brown Bear, Brown Bear, What Do You See?",5,1.0,"[""perfect for early language""]",f,f
+rec,sonnet,rec_3,7,2,The Hungry Little Caterpillar,7,0.8,"[""authentic version important"", ""avoid knockoffs""]",f,f
+rec,sonnet,rec_3,7,2,Owl Babies,8,0.8,[],f,f
+rec,sonnet,rec_3,7,2,Each Peach Pear Plum,9,0.8,[],f,f
+rec,sonnet,rec_3,7,2,Dear Zoo,10,0.8,"[""lift-the-flap""]",f,f
+rec,sonnet,rec_3,7,2,We're Going on a Bear Hunt,11,0.8,[],f,f
+rec,sonnet,rec_3,7,2,The Snowy Day,12,0.8,[],f,f
+rec,sonnet,rec_3,7,2,Corduroy,13,0.8,[],f,f
+rec,sonnet,rec_3,7,2,Penguin,,0.9,"[""publisher"", ""trustworthy""]",f,f
+rec,sonnet,rec_3,7,2,HarperCollins,,0.9,"[""publisher"", ""trustworthy""]",f,f
+rec,sonnet,rec_3,7,2,Macmillan,,0.9,"[""publisher"", ""trustworthy""]",f,f
+rec,sonnet,rec_3,7,2,Scholastic,,0.9,"[""publisher"", ""trustworthy""]",f,f
+versus,opus,versus_where_the_wild_things_are,9,0,The Very Hungry Caterpillar,1,0.95,"[""simple repetitive structure"", ""interactive die-cut holes"", ""teaches counting and days of week"", ""teaches colors and fruits"", ""gentle tone"", ""no scary moments"", ""durable board book edition"", ""perfect for 2-year-olds""]",t,f
+versus,opus,versus_where_the_wild_things_are,9,0,Where the Wild Things Are,2,0.7,"[""complex emotional themes"", ""beautiful illustrations"", ""darker tone"", ""can look intimidating to toddlers"", ""longer narrative arc"", ""better for ages 4-8""]",f,t
+rec,haiku,rec_2,8,2,Eric Carle,1,1.0,"[""iconic"", ""durable"", ""timeless""]",f,f
+rec,haiku,rec_2,8,2,Robert Sabuda,2,1.0,"[""extraordinary paper engineering"", ""color-fast"", ""quality printing""]",f,f
+rec,haiku,rec_2,8,2,Hervé Tullet,3,1.0,"[""innovative"", ""interactive"", ""quality construction""]",f,f
+rec,haiku,rec_2,8,2,David Wiesner,4,1.0,"[""gorgeous artwork"", ""Caldecott winner"", ""quality printing""]",f,f
+rec,haiku,rec_2,8,2,Chris Van Allsburg,5,1.0,"[""stunning illustration"", ""rich color fidelity"", ""premium quality""]",f,f
+rec,haiku,rec_2,8,2,Jon Klassen,6,1.0,"[""minimalist"", ""perfectly executed"", ""ages well""]",f,f
+rec,haiku,rec_2,8,2,Carson Ellis,7,1.0,"[""minimalist"", ""perfectly executed"", ""ages well""]",f,f
+rec,haiku,rec_2,8,2,Beatrix Potter,8,1.0,"[""quality binding"", ""quality paper"", ""collectible""]",f,f
+rec,haiku,rec_2,8,2,Penguin Classics,9,1.0,"[""quality binding"", ""quality paper"", ""heirloom quality""]",f,f
+rec,haiku,rec_2,8,2,Prestel Publishing,10,1.0,"[""art-focused"", ""quality printing"", ""quality binding""]",f,f
+rec,haiku,rec_2,8,2,Phaidon,11,1.0,"[""specialty publisher"", ""quality paper stock"", ""color separation"", ""quality binding""]",f,f
+rec,haiku,rec_2,8,2,Candlewick,12,1.0,"[""specialty publisher"", ""quality paper stock"", ""color separation"", ""quality binding""]",f,f
+perception,opus,perception_3,6,0,Penguin Random House,1,1.0,"[""well-made"", ""refined over decades"", ""sewn binding"", ""sturdy construction"", ""quality standards""]",f,f
+perception,opus,perception_3,6,0,Eric Carle,1,1.0,"[""signature die-cut holes"", ""tissue paper collages"", ""collage artwork"", ""rich saturated color""]",f,f
+rec,sonnet,rec_1,7,0,Eric Carle,1,0.85,"[""tactile"", ""good for early counting""]",f,f
+rec,sonnet,rec_1,7,0,Sam McBratney,2,0.8,"[""lovely"", ""good for bedtime bonding""]",f,f
+rec,sonnet,rec_1,7,0,Margaret Wise Brown,3,0.85,"[""genuinely calming"", ""good for bedtime routine""]",f,f
+rec,sonnet,rec_1,7,0,Judith Kerr,4,0.8,"[""endlessly re-readable""]",f,f
+rec,sonnet,rec_1,7,0,David McKee,5,0.85,"[""simple"", ""warm"", ""holds attention well""]",f,f
+rec,sonnet,rec_1,7,0,Maurice Sendak,6,0.95,"[""genuinely brilliant""]",f,f
+rec,sonnet,rec_1,7,0,Ezra Jack Keats,7,0.85,"[""beautiful"", ""underrated""]",f,f
+rec,sonnet,rec_1,7,0,Martin Waddell,8,0.8,"[""very reassuring"", ""good for addressing separation anxiety""]",f,f
+rec,sonnet,rec_1,7,0,Oxfam,,0.75,"[""better quality donations than general charity shops""]",f,f
+rec,opus,rec_1,10,1,Titlewave,1,0.95,"[""library binding wholesaler"", ""gold standard bindings"", ""sells to individuals"", ""Smyth-sewn"", ""reinforced endpapers"", ""Mylar-covered jackets""]",f,f
+rec,opus,rec_1,10,1,Junior Library Guild,2,0.9,"[""library binding seller"", ""gold standard bindings"", ""sells to individuals"", ""Smyth-sewn"", ""reinforced endpapers""]",f,f
+rec,opus,rec_1,10,1,Bookshop.org,3,0.8,"[""online retailer"", ""recommended for searching library bindings""]",f,f
+rec,opus,rec_1,10,1,Amazon,4,0.65,"[""online retailer"", ""recommended for searching library bindings""]",f,f
+rec,opus,rec_1,10,1,Follett,5,0.75,"[""library wholesaler"", ""typical source for library bindings""]",f,f
+rec,opus,rec_1,10,1,Baker & Taylor,6,0.7,"[""library wholesaler"", ""typical source for library bindings""]",f,f
+rec,opus,rec_1,10,1,Permabound,7,0.7,"[""library wholesaler"", ""typical source for library bindings""]",f,f
+rec,opus,rec_1,10,1,Mylar,,0.85,"[""protective material for book jackets"", ""durable"", ""associated with high-quality bindings""]",f,f
+rec,sonnet,rec_1,6,1,Candlewick Press,1,1.0,"[""excellent paper"", ""excellent printing"", ""excellent binding"", ""FSC certification""]",f,f
+rec,sonnet,rec_1,6,1,Enchanted Lion Books,2,1.0,"[""independent"", ""art-focused"", ""imports European books"", ""exceptional illustration quality""]",f,f
+rec,sonnet,rec_1,6,1,Creative Editions,3,1.0,"[""exceptional production quality"", ""fine paper"", ""fine printing"", ""fine binding""]",f,f
+rec,sonnet,rec_1,6,1,Chronicle Books,4,0.8,"[""sustainability commitments"", ""FSC certification varies by title""]",f,f
+rec,sonnet,rec_1,6,1,Groundwood Books,5,1.0,"[""Canadian"", ""strong environmental commitments"", ""fine production quality""]",f,f
+rec,sonnet,rec_1,6,1,Phaidon,6,1.0,"[""art-world sensibility"", ""beautiful design""]",f,f
+rec,sonnet,rec_1,6,1,HarperCollins,,0.0,[],f,f
+rec,sonnet,rec_1,6,1,Frances Lincoln,,0.5,"[""beautiful hardcover reproduction""]",f,f
+rec,sonnet,rec_1,6,1,Clarion,,0.5,"[""excellent reproduction quality""]",f,f
+rec,sonnet,rec_1,6,1,Philomel,,0.5,"[""fine hardcover object""]",f,f
+rec,sonnet,rec_3,10,0,Taschen,1,0.85,"[""oversized art editions"", ""exceptional production quality"", ""for display""]",f,f
+rec,sonnet,rec_3,10,0,Folio Society,2,0.85,"[""stunning editions"", ""illustrated children's classics"", ""periodically produced""]",f,f
+rec,sonnet,rec_3,10,0,AbeBooks,3,0.75,"[""best source"", ""rare books"", ""signed and out-of-print copies""]",f,f
+rec,sonnet,rec_3,10,0,Biblio,4,0.75,"[""best source"", ""rare books"", ""signed and out-of-print copies""]",f,f
+rec,sonnet,rec_3,10,0,Books of Wonder,5,0.7,"[""indie bookshop"", ""NYC location"", ""author/illustrator signings""]",f,f
+rec,sonnet,rec_3,10,0,Politics & Prose,6,0.7,"[""indie bookshop"", ""DC location"", ""author/illustrator signings""]",f,f
+rec,sonnet,rec_3,10,0,The Tattered Cover,7,0.7,"[""indie bookshop"", ""Denver location"", ""author/illustrator signings""]",f,f
+rec,sonnet,rec_3,10,0,Chronicle Books,8,0.7,"[""publisher"", ""signed bookplate editions"", ""sell out fast""]",f,f
+rec,sonnet,rec_3,10,0,Candlewick Press,9,0.7,"[""publisher"", ""signed bookplate editions"", ""sell out fast""]",f,f
+rec,opus,rec_1,9,0,Half Price Books,1,0.7,"[""affordable"", ""good condition books""]",f,f
+rec,opus,rec_1,9,0,Amazon Warehouse,2,0.7,"[""affordable"", ""used books""]",f,f
+rec,opus,rec_1,9,0,Thriftbooks,3,0.7,"[""affordable"", ""used books""]",f,f
+rec,opus,rec_1,9,0,Scholastic,4,0.7,"[""warehouse sales"", ""location-dependent""]",f,f
+rec,sonnet,rec_2,9,1,ThriftBooks.com,1,0.9,"[""used books"", ""great condition"", ""affordable"", ""shipped""]",f,f
+rec,sonnet,rec_2,9,1,AbeBooks,2,0.9,"[""used books"", ""good condition"", ""affordable""]",f,f
+rec,sonnet,rec_2,9,1,Facebook Marketplace,3,0.8,"[""used books"", ""very affordable""]",f,f
+rec,sonnet,rec_2,9,1,Goodwill,4,0.8,"[""used items"", ""very affordable"", ""durable""]",f,f
+rec,sonnet,rec_2,9,1,Amazon Warehouse Deals,5,0.85,"[""like new condition"", ""discounted""]",f,f
+rec,sonnet,rec_2,9,1,Dollar Tree,6,0.75,"[""children's books"", ""very affordable"", ""decent quality""]",f,f
+versus,sonnet,versus_goodnight_moon,8,0,Goodnight Moon,1,0.9,"[""gentle warm illustrations"", ""visual storytelling mastery"", ""flat naive style"", ""dreamy and hypnotic quality"", ""alternating color and black-and-white spreads"", ""hidden details"", ""gradual darkening effect"", ""repetitive incantatory text"", ""bedtime ritual design"", ""emotionally calming"", ""meditative quality"", ""sensory calm"", ""high re-read value"", ""effective for nightly use"", ""emotional resonance"", ""edge for daily utility with young children""]",f,t
+versus,sonnet,versus_goodnight_moon,8,0,The Very Hungry Caterpillar,2,0.85,"[""hand-painted tissue paper collage technique"", ""visually stimulating"", ""rich and textured"", ""bold saturated colors"", ""chunky shapes"", ""interactive die-cut holes"", ""tactile design element"", ""art object quality"", ""educational value"", ""counting and vocabulary learning"", ""strong narrative arc"", ""transformation theme"", ""high illustration craft"", ""iconic technique"", ""slightly repetitive for older kids""]",t,f
+rec,haiku,rec_1,10,1,Maurice Sendak,1,1.0,"[""emotionally rich"", ""beautiful illustrations"", ""practically indestructible""]",f,f
+rec,haiku,rec_1,10,1,Robert McCloskey,2,1.0,"[""gorgeous"", ""timeless"", ""built to last""]",f,f
+rec,haiku,rec_1,10,1,Beatrix Potter,3,0.95,"[""delicate but enduring"", ""detail rewards repeated reading""]",f,f
+rec,haiku,rec_1,10,1,Ludwig Bemelmans,4,1.0,"[""bold"", ""vibrant illustrations"", ""adventure and humor that never age""]",f,f
+rec,haiku,rec_1,10,1,Margaret Wise Brown,5,1.0,"[""calming"", ""ritual-like""]",f,f
+rec,haiku,rec_1,10,1,Eric Carle,6,1.0,"[""thick pages built for little hands"", ""transformation never gets old""]",f,f
+rec,haiku,rec_1,10,1,Don Freeman,7,1.0,"[""tender story about belonging"", ""gentle"", ""sturdy illustrations""]",f,f
+rec,haiku,rec_1,10,1,H.A. Rey,8,1.0,"[""mischief and kindness"", ""children return repeatedly""]",f,f
+rec,haiku,rec_1,10,1,Margery Williams,9,1.0,"[""surprisingly profound"", ""about love and becoming real""]",f,f
+rec,haiku,rec_1,10,1,Scholastic,10,1.0,"[""excellent library editions""]",f,f
+rec,haiku,rec_1,10,1,Simon & Schuster,11,1.0,"[""excellent library editions""]",f,f
